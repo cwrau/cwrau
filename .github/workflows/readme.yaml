@@ -14,10 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - run: go install github.com/muesli/markscribe@master
       - env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        run: markscribe -write README.md templates/README.md.tpl
+        run: go run github.com/muesli/markscribe@master -write README.md templates/README.md.tpl
 
       - uses: EndBug/add-and-commit@a94899bca583c204427a224a7af87c02f9b325d5 # v9
         with:
