@@ -7,53 +7,48 @@ Hi, welcome to my GitHub profile! 👋
 In my free time, and often during work, I'm going to support and contribute to opensource projects. I have a great experience in Linux system administration and container stuff and clusters like Kubernetes. I mostly work to automate everything, be it via systemd and scripting on my local machine, helm/flux for k8s or similar stuff.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+{{ range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{-  end }}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+{{ range recentRepos 10 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{-  end }}
 
 #### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+{{ range recentForks 10 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{-  end }}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+{{ range recentReleases 10 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
+{{-  end }}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{{ range recentPullRequests 10 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
+{{-  end }}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{ range gists 5 }}
+- [{{ .Description }}]({{ .URL }}) ({{ humanize .CreatedAt }})
+{{-  end }}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+{{ range recentStars 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .StarredAt }})
+{{-  end }}
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{ range sponsors 5 }}
+- [{{ .User.Login }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
+{{-  end }}
 
 #### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+{{ range followers 5 }}
+- [{{ .Login }}]({{ .URL }})
+{{-  end }}
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
