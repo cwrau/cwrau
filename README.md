@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (3 weeks ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 month ago)
@@ -96,10 +96,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [dbene](https://github.com/dbene)
 - [j3k4](https://github.com/j3k4)
 - [Jeinhaus](https://github.com/Jeinhaus)
 - [florian-graff](https://github.com/florian-graff)
-- [artificial-intelligence](https://github.com/artificial-intelligence)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
