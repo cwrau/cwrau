@@ -59,6 +59,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci/cve-scanning): up retries and use a unique category for each chart](https://github.com/teutonet/teutonet-helm-charts/pull/1177) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: implement partial apply](https://github.com/fluxcd/kustomize-controller/pull/1241) on [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) (6 days ago)
 - [fix(ci): run wait-for-checks always](https://github.com/teutonet/teutonet-helm-charts/pull/1175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(t8s-cluster/workload-cluster): this field is _actually_ used 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1174) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -68,7 +69,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(ci): rename job to be more accurate](https://github.com/teutonet/teutonet-helm-charts/pull/1170) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [chore(ci): simplify check](https://github.com/teutonet/teutonet-helm-charts/pull/1169) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(base-cluster): curl images imagePullPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/1168) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [chore(ci/cve-scanning): improve local logging](https://github.com/teutonet/teutonet-helm-charts/pull/1160) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
