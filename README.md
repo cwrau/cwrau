@@ -59,6 +59,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci/release-please): use a nicer PR title](https://github.com/teutonet/teutonet-helm-charts/pull/1179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster): up etcd-defrag timeout](https://github.com/teutonet/teutonet-helm-charts/pull/1178) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,7 +69,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/workload-cluster): this field is _actually_ used 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1174) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [[grafana] fix: don't automount default serviceAccount](https://github.com/grafana/helm-charts/pull/3302) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [feat: exit with `1` when paused for `is-paused`](https://github.com/dunst-project/dunst/pull/1378) on [dunst-project/dunst](https://github.com/dunst-project/dunst) (2 weeks ago)
-- [fix(ci): don't return error if no chart is found](https://github.com/teutonet/teutonet-helm-charts/pull/1171) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
