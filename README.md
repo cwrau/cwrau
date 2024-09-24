@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci/cve-scanning): up retries and use a unique category for each chart](https://github.com/teutonet/teutonet-helm-charts/pull/1177) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: implement partial apply](https://github.com/fluxcd/kustomize-controller/pull/1241) on [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) (1 week ago)
 - [fix(ci): run wait-for-checks always](https://github.com/teutonet/teutonet-helm-charts/pull/1175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster/workload-cluster): this field is _actually_ used 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1174) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [[grafana] fix: don't automount default serviceAccount](https://github.com/grafana/helm-charts/pull/3302) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
