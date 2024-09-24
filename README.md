@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.18.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.18.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.0), today) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 5 days ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.0), 1 week ago) - k0smotron
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
