@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.3), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.1), today) - k0smotron
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.4), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 6 days ago) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.9.2](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.9.2), 3 weeks ago) - Cluster API implementation for OpenStack
