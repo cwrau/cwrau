@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.8.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.8.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.309](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.309), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.1), 1 day ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 1 week ago) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 3 weeks ago) - Contains Helm charts for Kubernetes related open source tools
@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(common): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1199) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [chore(base-cluster): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1198) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [chore(t8s-cluster/management-cluster)!: update CAPIO and migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1197) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci/release-please): use a nicer PR title](https://github.com/teutonet/teutonet-helm-charts/pull/1179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): up etcd-defrag timeout](https://github.com/teutonet/teutonet-helm-charts/pull/1178) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci/cve-scanning): up retries and use a unique category for each chart](https://github.com/teutonet/teutonet-helm-charts/pull/1177) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: implement partial apply](https://github.com/fluxcd/kustomize-controller/pull/1241) on [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) (2 weeks ago)
-- [fix(ci): run wait-for-checks always](https://github.com/teutonet/teutonet-helm-charts/pull/1175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
