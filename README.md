@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (4 weeks ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (1 month ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 month ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.15.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.15.0), today) - 
-- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), today) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.1), 1 day ago) - k0smotron
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.15.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.15.0), 1 day ago) - 
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 1 day ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.1), 2 days ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 1 week ago) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 3 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.9.2](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.9.2), 3 weeks ago) - Cluster API implementation for OpenStack
@@ -60,12 +60,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(common): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1199) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(base-cluster): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1198) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(t8s-cluster/management-cluster)!: update CAPIO and migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1197) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(common): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1199) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(base-cluster): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1198) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(t8s-cluster/management-cluster)!: update CAPIO and migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1197) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci/release-please): use a nicer PR title](https://github.com/teutonet/teutonet-helm-charts/pull/1179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
