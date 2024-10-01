@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.16.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.16.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.31), today) - 
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 5 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.1), 6 days ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 1 week ago) - 
