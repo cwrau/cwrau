@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [miracoly](https://github.com/miracoly)
 - [eust-w](https://github.com/eust-w)
 - [dbene](https://github.com/dbene)
 - [j3k4](https://github.com/j3k4)
 - [Jeinhaus](https://github.com/Jeinhaus)
-- [florian-graff](https://github.com/florian-graff)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
