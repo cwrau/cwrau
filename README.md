@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.4), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3), 1 day ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.2), 1 week ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 2 weeks ago) - 
