@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 1 day ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.2), 1 week ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 2 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.29.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.29.3), 3 weeks ago) - 
@@ -86,7 +86,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 year ago)
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) -  (1 year ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 year ago)
-- [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (1 year ago)
+- [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (2 years ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 years ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 years ago)
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents (2 years ago)
