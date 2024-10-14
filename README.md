@@ -16,8 +16,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (3 months ago)
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (3 months ago)
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (3 months ago)
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 5 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.2), 1 week ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 2 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.1.2), 1 month ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.5](https://github.com/derailed/k9s/releases/tag/v0.32.5), 4 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.11.0](https://github.com/dunst-project/dunst/releases/tag/v1.11.0), 6 months ago) - Lightweight and customizable notification daemon
-- [vladgh/docker_base_images](https://github.com/vladgh/docker_base_images) ([v1.3.5](https://github.com/vladgh/docker_base_images/releases/tag/v1.3.5), 6 months ago) - Vlad's Base Images for Docker
 
 #### 🔨 My recent Pull Requests
 
