@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.0-rc.0), today) - Cluster API implementation for OpenStack
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 2 days ago) - 
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.0-rc.0), 1 day ago) - Cluster API implementation for OpenStack
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 3 days ago) - 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.1.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.1.2), 2 weeks ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 3 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -67,13 +67,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
-- [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
+- [fix(base-cluster/monitoring): only roll out alertmanager oauth-proxy when alertmanager is enabled 🤣](https://github.com/teutonet/teutonet-helm-charts/pull/1180) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(ci/release-please): use a nicer PR title](https://github.com/teutonet/teutonet-helm-charts/pull/1179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/6a7d58a1087426041300149d84979852) (5 days ago)
+- [](https://gist.github.com/6a7d58a1087426041300149d84979852) (6 days ago)
 - [Shelly keeps resetting, this auto-re-resets it 🤣](https://gist.github.com/0efddf7a1d707825a92ee572ba3d3234) (5 months ago)
 - [](https://gist.github.com/803ed9b111c71a183770563fc1e988f3) (8 months ago)
 - [](https://gist.github.com/8aceaf0037608e990f7a3d7efac59403) (8 months ago)
