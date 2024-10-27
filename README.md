@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0-rc.0), 4 days ago) - k0smotron
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 5 days ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0-rc.0), 5 days ago) - k0smotron
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 6 days ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.0-rc.0), 1 week ago) - Cluster API implementation for OpenStack
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 1 week ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -73,7 +73,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/6a7d58a1087426041300149d84979852) (1 week ago)
+- [](https://gist.github.com/6a7d58a1087426041300149d84979852) (2 weeks ago)
 - [Shelly keeps resetting, this auto-re-resets it 🤣](https://gist.github.com/0efddf7a1d707825a92ee572ba3d3234) (5 months ago)
 - [](https://gist.github.com/803ed9b111c71a183770563fc1e988f3) (8 months ago)
 - [](https://gist.github.com/8aceaf0037608e990f7a3d7efac59403) (8 months ago)
