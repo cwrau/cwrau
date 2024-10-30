@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.6), today) - Cluster API implementation for OpenStack
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.6), 1 day ago) - Cluster API implementation for OpenStack
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0-rc.0), 1 week ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 1 week ago) - 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 1 week ago) - 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 2 weeks ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 2 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 1 month ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.5](https://github.com/derailed/k9s/releases/tag/v0.32.5), 4 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.11.0](https://github.com/dunst-project/dunst/releases/tag/v1.11.0), 6 months ago) - Lightweight and customizable notification daemon
@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster): create separate etcd defrag jobs per cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1201) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [fix(t8s-cluster): create separate etcd defrag jobs per cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1201) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(common): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1199) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(base-cluster): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1198) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(t8s-cluster/management-cluster)!: update CAPIO and migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1197) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
