@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
 - [cwrau/kustomize-controller](https://github.com/cwrau/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [cwrau/dunst](https://github.com/cwrau/dunst) - Lightweight and customizable notification daemon
 - [cwrau/clickhouse-operator](https://github.com/cwrau/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/cluster-api-provider-openstack](https://github.com/cwrau/cluster-api-provider-openstack) - 
 - [cwrau/fzf-tab](https://github.com/cwrau/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [cwrau/docker_base_images](https://github.com/cwrau/docker_base_images) - Vlad's Base Images for Docker
-- [cwrau/vcutil](https://github.com/cwrau/vcutil) - Misc. simple utilities to aid version control and host maintenance.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: just don't print anything when nothing has been updated](https://github.com/RubixDev/mason-update-all/pull/5) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (today)
 - [chore(ci/release-please): Revert "feat(ci/release-please): use a nicer PR title (#1179)"](https://github.com/teutonet/teutonet-helm-charts/pull/1216) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(renovate): add labels to PRs for filtering](https://github.com/teutonet/teutonet-helm-charts/pull/1208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster): create separate etcd defrag jobs per cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1201) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): trigger workflows with automated PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1189) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(ci): wrong usage of workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1188) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(ci): only run license scan for the currently edited chart](https://github.com/teutonet/teutonet-helm-charts/pull/1186) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [fix: Revert #1175](https://github.com/teutonet/teutonet-helm-charts/pull/1182) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
