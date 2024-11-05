@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.6), 1 week ago) - Cluster API implementation for OpenStack
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.1), today) - Cluster API implementation for OpenStack
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0-rc.0), 2 weeks ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 2 weeks ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 2 weeks ago) - 
