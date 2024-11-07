@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0), today) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.1), 2 days ago) - Cluster API implementation for OpenStack
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0-rc.0), 2 weeks ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 2 weeks ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.3), 3 weeks ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
