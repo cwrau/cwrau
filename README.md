@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster): remove unnecessary require for openstackImageNamePrefix](https://github.com/teutonet/teutonet-helm-charts/pull/1229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1227) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat: add prometheus ServiceMonitor](https://github.com/amelbakry/kdave-chart/pull/5) on [amelbakry/kdave-chart](https://github.com/amelbakry/kdave-chart) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(ci/release-please): Revert "feat(ci/release-please): use a nicer PR title (#1179)"](https://github.com/teutonet/teutonet-helm-charts/pull/1216) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(renovate): add labels to PRs for filtering](https://github.com/teutonet/teutonet-helm-charts/pull/1208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): create separate etcd defrag jobs per cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1201) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [chore(common): formatting](https://github.com/teutonet/teutonet-helm-charts/pull/1199) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
