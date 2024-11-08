@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): remove unnecessary require for openstackImageNamePrefix](https://github.com/teutonet/teutonet-helm-charts/pull/1229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1227) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/tetragon): only roll out tetragon repo when needed](https://github.com/teutonet/teutonet-helm-charts/pull/1220) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [feat: just don't print anything when nothing has been updated](https://github.com/RubixDev/mason-update-all/pull/5) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (4 days ago)
 - [chore(ci/release-please): Revert "feat(ci/release-please): use a nicer PR title (#1179)"](https://github.com/teutonet/teutonet-helm-charts/pull/1216) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(renovate): add labels to PRs for filtering](https://github.com/teutonet/teutonet-helm-charts/pull/1208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster): create separate etcd defrag jobs per cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1201) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
