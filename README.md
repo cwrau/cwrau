@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.6](https://github.com/derailed/k9s/releases/tag/v0.32.6), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0), 3 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.1), 5 days ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.1.8](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.1.8), 2 weeks ago) - 
@@ -54,7 +55,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 1 month ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 1 month ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.5](https://github.com/derailed/k9s/releases/tag/v0.32.5), 4 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.11.0](https://github.com/dunst-project/dunst/releases/tag/v1.11.0), 6 months ago) - Lightweight and customizable notification daemon
 - [vladgh/docker_base_images](https://github.com/vladgh/docker_base_images) ([v1.3.5](https://github.com/vladgh/docker_base_images/releases/tag/v1.3.5), 7 months ago) - Vlad's Base Images for Docker
 
