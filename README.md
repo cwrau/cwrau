@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (2 months ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/monitoring): create aggregate ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(t8s-cluster): remove unnecessary require for openstackImageNamePrefix](https://github.com/teutonet/teutonet-helm-charts/pull/1229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/cilium): enable egressGateway](https://github.com/teutonet/teutonet-helm-charts/pull/1223) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(base-cluster/tetragon): only roll out tetragon repo when needed](https://github.com/teutonet/teutonet-helm-charts/pull/1220) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat: just don't print anything when nothing has been updated](https://github.com/RubixDev/mason-update-all/pull/5) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (1 week ago)
-- [chore(ci/release-please): Revert "feat(ci/release-please): use a nicer PR title (#1179)"](https://github.com/teutonet/teutonet-helm-charts/pull/1216) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
