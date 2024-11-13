@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/dependencies): update helm release descheduler to 0.31.x](https://github.com/teutonet/teutonet-helm-charts/pull/1236) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/monitoring): create aggregate ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add prometheus ServiceMonitor](https://github.com/amelbakry/kdave-chart/pull/5) on [amelbakry/kdave-chart](https://github.com/amelbakry/kdave-chart) (6 days ago)
 - [feat(base-cluster/cilium): enable egressGateway](https://github.com/teutonet/teutonet-helm-charts/pull/1223) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/tetragon): only roll out tetragon repo when needed](https://github.com/teutonet/teutonet-helm-charts/pull/1220) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: just don't print anything when nothing has been updated](https://github.com/RubixDev/mason-update-all/pull/5) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (1 week ago)
 
 #### 📓 Gists I wrote
 
