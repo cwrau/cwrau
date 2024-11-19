@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster/dependencies): update helm release descheduler to 0.31.x](https://github.com/teutonet/teutonet-helm-charts/pull/1236) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(base-cluster/monitoring): create aggregate ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add prometheus ServiceMonitor](https://github.com/amelbakry/kdave-chart/pull/5) on [amelbakry/kdave-chart](https://github.com/amelbakry/kdave-chart) (1 week ago)
 - [feat(t8s-cluster/cilium): enable egressGateway](https://github.com/teutonet/teutonet-helm-charts/pull/1223) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/tetragon): only roll out tetragon repo when needed](https://github.com/teutonet/teutonet-helm-charts/pull/1220) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
