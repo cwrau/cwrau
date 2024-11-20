@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (2 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 months ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (4 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (4 months ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/dependencies): update helm release descheduler to 0.31.x](https://github.com/teutonet/teutonet-helm-charts/pull/1236) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster): remove unnecessary require for openstackImageNamePrefix](https://github.com/teutonet/teutonet-helm-charts/pull/1229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1227) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: add prometheus ServiceMonitor](https://github.com/amelbakry/kdave-chart/pull/5) on [amelbakry/kdave-chart](https://github.com/amelbakry/kdave-chart) (1 week ago)
 
 #### 📓 Gists I wrote
 
