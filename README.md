@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): now for real](https://github.com/teutonet/teutonet-helm-charts/pull/1245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): remove unnecessary require for openstackImageNamePrefix](https://github.com/teutonet/teutonet-helm-charts/pull/1229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1227) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster): only `toYaml` if field exists](https://github.com/teutonet/teutonet-helm-charts/pull/1226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
