@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (3 months ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.0), 1 day ago) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.2](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.2), 6 days ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.0), 2 days ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.2](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.2), 1 week ago) - Cluster API implementation for OpenStack
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.4), 1 week ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.2.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.2.0), 2 weeks ago) - k0smotron
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.0), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster/management-cluster): add missing necessary image field](https://github.com/teutonet/teutonet-helm-charts/pull/1247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): now for real](https://github.com/teutonet/teutonet-helm-charts/pull/1245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(t8s-cluster/management-cluster): add missing necessary image field](https://github.com/teutonet/teutonet-helm-charts/pull/1247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): now for real](https://github.com/teutonet/teutonet-helm-charts/pull/1245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [chore(base-cluster/dependencies): update helm release descheduler to 0.31.x](https://github.com/teutonet/teutonet-helm-charts/pull/1236) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/monitoring): create aggregate ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(base-cluster): additionalItems is the wrong field](https://github.com/teutonet/teutonet-helm-charts/pull/1231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(base-cluster/rbac)!: allow to use the k8s default ClusterRoles](https://github.com/teutonet/teutonet-helm-charts/pull/1230) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
