@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (today)
 - [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): correctly run commands](https://github.com/teutonet/teutonet-helm-charts/pull/1240) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
