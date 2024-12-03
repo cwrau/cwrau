@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
+- [](https://gist.github.com/0d4be37ea5fa47021bf611823c8c0c7e) (today)
 - [](https://gist.github.com/809415b2f47668c41cc22e44ed448444) (today)
 - [](https://gist.github.com/455fa7101ed6032b0eb74a07b49aa7be) (today)
 - [](https://gist.github.com/6423e365b18c924c7da7e9287404bad5) (today)
 - [](https://gist.github.com/a59d6a539ca1c733cc50eea34b330532) (today)
-- [](https://gist.github.com/6a7d58a1087426041300149d84979852) (1 month ago)
 
 #### ⭐ Recent Stars
 
