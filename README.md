@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
+- [](https://gist.github.com/809415b2f47668c41cc22e44ed448444) (today)
+- [](https://gist.github.com/455fa7101ed6032b0eb74a07b49aa7be) (today)
+- [](https://gist.github.com/6423e365b18c924c7da7e9287404bad5) (today)
 - [](https://gist.github.com/a59d6a539ca1c733cc50eea34b330532) (today)
 - [](https://gist.github.com/6a7d58a1087426041300149d84979852) (1 month ago)
-- [Shelly keeps resetting, this auto-re-resets it 🤣](https://gist.github.com/0efddf7a1d707825a92ee572ba3d3234) (6 months ago)
-- [](https://gist.github.com/803ed9b111c71a183770563fc1e988f3) (9 months ago)
-- [](https://gist.github.com/8aceaf0037608e990f7a3d7efac59403) (9 months ago)
 
 #### ⭐ Recent Stars
 
