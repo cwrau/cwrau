@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (6 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (2 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (3 months ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 1 day ago) - 
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.0](https://github.com/dunst-project/dunst/releases/tag/v1.12.0), 5 days ago) - Lightweight and customizable notification daemon
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 day ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 2 days ago) - 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.0](https://github.com/dunst-project/dunst/releases/tag/v1.12.0), 6 days ago) - Lightweight and customizable notification daemon
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 1 week ago) - Cluster API implementation for OpenStack
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.30.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.30.2), 1 week ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (1 day ago)
-- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (1 day ago)
-- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (1 day ago)
-- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (1 day ago)
-- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (1 day ago)
+- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (2 days ago)
+- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (2 days ago)
+- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (2 days ago)
+- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (2 days ago)
+- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (2 days ago)
 
 #### ⭐ Recent Stars
 
