@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 5 days ago) - 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 6 days ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.0](https://github.com/dunst-project/dunst/releases/tag/v1.12.0), 1 week ago) - Lightweight and customizable notification daemon
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 1 week ago) - Cluster API implementation for OpenStack
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.30.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.30.2), 2 weeks ago) - 
@@ -63,8 +63,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (1 week ago)
 - [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): use registry tokens for image license scanning](https://github.com/teutonet/teutonet-helm-charts/pull/1255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(ci): use registry tokens for image license scanning](https://github.com/teutonet/teutonet-helm-charts/pull/1255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): add missing necessary image field](https://github.com/teutonet/teutonet-helm-charts/pull/1247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): now for real](https://github.com/teutonet/teutonet-helm-charts/pull/1245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (5 days ago)
-- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (5 days ago)
-- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (5 days ago)
-- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (5 days ago)
-- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (5 days ago)
+- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (6 days ago)
+- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (6 days ago)
+- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (6 days ago)
+- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (6 days ago)
+- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (6 days ago)
 
 #### ⭐ Recent Stars
 
