@@ -16,7 +16,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (4 months ago)
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (4 months ago)
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (5 months ago)
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (5 months ago)
 
 #### 🌱 My latest projects
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), today) - 
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 5 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), 1 day ago) - 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 6 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 1 week ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.0](https://github.com/dunst-project/dunst/releases/tag/v1.12.0), 1 week ago) - Lightweight and customizable notification daemon
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 2 weeks ago) - Cluster API implementation for OpenStack
@@ -60,9 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (1 week ago)
-- [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (2 weeks ago)
+- [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): use registry tokens for image license scanning](https://github.com/teutonet/teutonet-helm-charts/pull/1255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): add missing necessary image field](https://github.com/teutonet/teutonet-helm-charts/pull/1247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
