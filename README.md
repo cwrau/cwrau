@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.1), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 3 days ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), 4 days ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
