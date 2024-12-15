@@ -12,12 +12,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (2 months ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (3 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (4 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (5 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (5 months ago)
-- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.0), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 3 days ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), 4 days ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 4 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.14.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.14.0), 2 months ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 2 months ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [vladgh/docker_base_images](https://github.com/vladgh/docker_base_images) ([v1.3.5](https://github.com/vladgh/docker_base_images/releases/tag/v1.3.5), 8 months ago) - Vlad's Base Images for Docker
 
 #### 🔨 My recent Pull Requests
 
