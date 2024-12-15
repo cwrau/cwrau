@@ -34,21 +34,21 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
+- [cwrau/mason-lspconfig.nvim](https://github.com/cwrau/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [cwrau/mason-registry](https://github.com/cwrau/mason-registry) - Core registry for mason.nvim.
+- [cwrau/mason-nvim-lint](https://github.com/cwrau/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
 - [cwrau/kdave-chart](https://github.com/cwrau/kdave-chart) - 
 - [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
 - [cwrau/kustomize-controller](https://github.com/cwrau/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [cwrau/dunst](https://github.com/cwrau/dunst) - Lightweight and customizable notification daemon
 - [cwrau/clickhouse-operator](https://github.com/cwrau/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 - [cwrau/helm-controller](https://github.com/cwrau/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [cwrau/k0smotron](https://github.com/cwrau/k0smotron) - k0smotron
-- [cwrau/cluster-api-operator](https://github.com/cwrau/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [cwrau/cluster-api-provider-openstack](https://github.com/cwrau/cluster-api-provider-openstack) - 
-- [cwrau/fzf-tab](https://github.com/cwrau/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 
 #### 🔭 Latest releases I've contributed to
 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 2 days ago) - k0smotron
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), 3 days ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 3 days ago) - k0smotron
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.31.6](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.31.6), 4 days ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 1 week ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.0](https://github.com/dunst-project/dunst/releases/tag/v1.12.0), 2 weeks ago) - Lightweight and customizable notification daemon
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add systemd-language-server](https://github.com/neovim/nvim-lspconfig/pull/3514) on [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (today)
+- [feat: add systemd-language-server](https://github.com/williamboman/mason-lspconfig.nvim/pull/499) on [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) (today)
+- [feat: add systemd-language-server](https://github.com/mason-org/mason-registry/pull/8228) on [mason-org/mason-registry](https://github.com/mason-org/mason-registry) (1 day ago)
+- [feat: add missing systemdlint mapping](https://github.com/rshkarin/mason-nvim-lint/pull/19) on [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) (1 day ago)
 - [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (2 weeks ago)
 - [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): use registry tokens for image license scanning](https://github.com/teutonet/teutonet-helm-charts/pull/1255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): add missing necessary image field](https://github.com/teutonet/teutonet-helm-charts/pull/1247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(ci): now for real](https://github.com/teutonet/teutonet-helm-charts/pull/1245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(ci): use correct gitlab registry](https://github.com/teutonet/teutonet-helm-charts/pull/1244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(ci): add secret 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1243) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [chore(ci): add pull token for trivy](https://github.com/teutonet/teutonet-helm-charts/pull/1242) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
