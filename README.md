@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci/cve-scanning): remove duplicates in reports](https://github.com/teutonet/teutonet-helm-charts/pull/1270) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(ci): adjust scripts to run safely for external PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1269) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/kdave): deploy wrapped ServiceMonitor](https://github.com/teutonet/teutonet-helm-charts/pull/1267) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat: add systemd-language-server](https://github.com/neovim/nvim-lspconfig/pull/3514) on [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (3 days ago)
 - [feat: add systemd-language-server](https://github.com/williamboman/mason-lspconfig.nvim/pull/499) on [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) (3 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (2 weeks ago)
 - [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(ci): correctly target single chart](https://github.com/teutonet/teutonet-helm-charts/pull/1256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(ci): use registry tokens for image license scanning](https://github.com/teutonet/teutonet-helm-charts/pull/1255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
