@@ -10,7 +10,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (4 weeks ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (2 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (3 months ago)
@@ -47,24 +47,24 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), today) - 
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), today) - Lightweight and customizable notification daemon
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.0), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), 1 day ago) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 5 days ago) - k0smotron
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 1 day ago) - 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 day ago) - Lightweight and customizable notification daemon
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.0), 1 day ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), 2 days ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 6 days ago) - k0smotron
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 1 week ago) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 2 weeks ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.1), 2 weeks ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 3 weeks ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 1 month ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 2 months ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster/kdave): deploy wrapped ServiceMonitor](https://github.com/teutonet/teutonet-helm-charts/pull/1267) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: add systemd-language-server](https://github.com/neovim/nvim-lspconfig/pull/3514) on [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (2 days ago)
-- [feat: add systemd-language-server](https://github.com/williamboman/mason-lspconfig.nvim/pull/499) on [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) (2 days ago)
-- [feat: add systemd-language-server](https://github.com/mason-org/mason-registry/pull/8228) on [mason-org/mason-registry](https://github.com/mason-org/mason-registry) (3 days ago)
-- [feat: add missing systemdlint mapping](https://github.com/rshkarin/mason-nvim-lint/pull/19) on [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) (3 days ago)
+- [fix(base-cluster/kdave): deploy wrapped ServiceMonitor](https://github.com/teutonet/teutonet-helm-charts/pull/1267) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: add systemd-language-server](https://github.com/neovim/nvim-lspconfig/pull/3514) on [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (3 days ago)
+- [feat: add systemd-language-server](https://github.com/williamboman/mason-lspconfig.nvim/pull/499) on [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) (3 days ago)
+- [feat: add systemd-language-server](https://github.com/mason-org/mason-registry/pull/8228) on [mason-org/mason-registry](https://github.com/mason-org/mason-registry) (4 days ago)
+- [feat: add missing systemdlint mapping](https://github.com/rshkarin/mason-nvim-lint/pull/19) on [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) (4 days ago)
 - [feat: allow setting annotations all the way down to pods](https://github.com/k0sproject/k0smotron/pull/837) on [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) (2 weeks ago)
 - [fix(ci): add more licenses to whitelist](https://github.com/teutonet/teutonet-helm-charts/pull/1261) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(ci): use custom token for ghcr registry](https://github.com/teutonet/teutonet-helm-charts/pull/1260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -73,15 +73,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (1 week ago)
-- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (1 week ago)
-- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (1 week ago)
-- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (1 week ago)
-- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (1 week ago)
+- [](https://gist.github.com/0e28b4d4710c73a34739685c9f199e44) (2 weeks ago)
+- [](https://gist.github.com/8dc78966e72708091192cf38f7eb2780) (2 weeks ago)
+- [](https://gist.github.com/a22d8507981571d7e9aac8bb05edc108) (2 weeks ago)
+- [](https://gist.github.com/367ecd6cab9726a70ea274a673a58701) (2 weeks ago)
+- [](https://gist.github.com/110631239f138fca4ecfa4b9ab9db085) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (1 day ago)
+- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (2 days ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (7 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 year ago)
