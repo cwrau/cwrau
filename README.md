@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), today) - k0smotron
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.0), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.0), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 2 days ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 days ago) - Lightweight and customizable notification daemon
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.0), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0-rc.0), 1 week ago) - k0smotron
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.7), 3 weeks ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 1 month ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
