@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.2), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), today) - k0smotron
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.0), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.0), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 2 days ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 days ago) - Lightweight and customizable notification daemon
