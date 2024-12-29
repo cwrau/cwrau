@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster/api-server): add support for OIDC](https://github.com/teutonet/teutonet-helm-charts/pull/1272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/kdave): deploy wrapped ServiceMonitor](https://github.com/teutonet/teutonet-helm-charts/pull/1267) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add systemd-language-server](https://github.com/neovim/nvim-lspconfig/pull/3514) on [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (2 weeks ago)
 - [feat: add systemd-language-server](https://github.com/williamboman/mason-lspconfig.nvim/pull/499) on [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) (2 weeks ago)
-- [feat: add systemd-language-server](https://github.com/mason-org/mason-registry/pull/8228) on [mason-org/mason-registry](https://github.com/mason-org/mason-registry) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
