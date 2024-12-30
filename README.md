@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12), 2 days ago) - 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12), 3 days ago) - 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 3 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 1 week ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), 1 week ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 1 week ago) - 
@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster/api-server): add support for OIDC](https://github.com/teutonet/teutonet-helm-charts/pull/1272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (1 week ago)
+- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (2 weeks ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (8 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 year ago)
