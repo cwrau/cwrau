@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (3 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (4 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (4 months ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 months ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (5 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (5 months ago)
 
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), 1 day ago) - 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 5 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), 2 days ago) - 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 6 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 1 week ago) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), 1 week ago) - k0smotron
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), 2 weeks ago) - k0smotron
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 2 weeks ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 weeks ago) - Lightweight and customizable notification daemon
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,9 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [chore(base-cluster/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/api-server): add support for OIDC](https://github.com/teutonet/teutonet-helm-charts/pull/1272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [chore(base-cluster/docs): mention validity of `.x.x` part in the versions](https://github.com/teutonet/teutonet-helm-charts/pull/1271) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci/cve-scanning): remove duplicates in reports](https://github.com/teutonet/teutonet-helm-charts/pull/1270) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
