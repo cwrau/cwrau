@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.23.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.23.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.1), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 2 weeks ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.3.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.3.0), 2 weeks ago) - k0smotron
