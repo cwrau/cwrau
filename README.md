@@ -8,13 +8,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (3 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (4 months ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (4 months ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (5 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (6 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (6 months ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 3 days ago) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0-rc.0), 3 days ago) - k0smotron
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 4 days ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0-rc.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0-rc.0), 4 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 3 weeks ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 3 weeks ago) - 
@@ -81,12 +81,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 weeks ago)
+- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (4 weeks ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (8 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 year ago)
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) -  (1 year ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 year ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 years ago)
 - [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (2 years ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 years ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 years ago)
