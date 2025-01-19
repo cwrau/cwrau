@@ -10,7 +10,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (3 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (4 months ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), today) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0), 1 day ago) - k0smotron
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), 1 day ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0), 2 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 4 weeks ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.1), 1 month ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.31.4), 1 month ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 month ago) - Lightweight and customizable notification daemon
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.2), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(base-cluster/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(t8s-cluster/api-server): add support for OIDC](https://github.com/teutonet/teutonet-helm-charts/pull/1272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
