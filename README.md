@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): actually read the body file 🤦](https://github.com/teutonet/teutonet-helm-charts/pull/1299) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): fail on template instead of ignoring it](https://github.com/teutonet/teutonet-helm-charts/pull/1298) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): download after checkout](https://github.com/teutonet/teutonet-helm-charts/pull/1295) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): don't fail without images, just skip it](https://github.com/teutonet/teutonet-helm-charts/pull/1292) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): don't extract into a directory](https://github.com/teutonet/teutonet-helm-charts/pull/1291) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/cni): otherwise for >=1.30 there is no version](https://github.com/teutonet/teutonet-helm-charts/pull/1276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [chore(t8s-cluster/docs): add correct vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1274) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [chore(common/docs): set vim modeline](https://github.com/teutonet/teutonet-helm-charts/pull/1273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(t8s-cluster/api-server): add support for OIDC](https://github.com/teutonet/teutonet-helm-charts/pull/1272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [chore(base-cluster/docs): mention validity of `.x.x` part in the versions](https://github.com/teutonet/teutonet-helm-charts/pull/1271) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
