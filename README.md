@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.11.0), today) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.4), 1 day ago) - Cluster API implementation for OpenStack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.2), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.4), 1 day ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0), 6 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.15.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.15.1), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
