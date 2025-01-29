@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.2), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.3](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.3), 2 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
