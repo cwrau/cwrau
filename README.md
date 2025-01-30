@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), today) - k0smotron
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.5.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.5.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v1.0.0), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.8](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.8), today) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 1 day ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.3](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.3), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 1 week ago) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.0](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.0), 1 week ago) - k0smotron
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 month ago) - Lightweight and customizable notification daemon
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 2 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 4 months ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
