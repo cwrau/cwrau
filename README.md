@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (4 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (5 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (5 months ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (6 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (6 months ago)
 
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.3), today) - 
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), 1 day ago) - k0smotron
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.8](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.8), 1 day ago) - Cluster API implementation for OpenStack
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.3](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.3), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.3), 1 day ago) - 
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), 2 days ago) - k0smotron
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.8](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.8), 2 days ago) - Cluster API implementation for OpenStack
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 3 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.3](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.3), 5 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 1 week ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 month ago) - Lightweight and customizable notification daemon
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 2 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster): me be stupid I guess](https://github.com/teutonet/teutonet-helm-charts/pull/1327) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(teuto-portal-k8s-worker): update image](https://github.com/teutonet/teutonet-helm-charts/pull/1324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(ci): automatically add chart to release-please config.json](https://github.com/teutonet/teutonet-helm-charts/pull/1323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): install missing oras](https://github.com/teutonet/teutonet-helm-charts/pull/1319) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(t8s-cluster): use correct case for field](https://github.com/teutonet/teutonet-helm-charts/pull/1317) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(ci): get all charts should only return the chart names](https://github.com/teutonet/teutonet-helm-charts/pull/1316) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(ci): lock down workflow permissions](https://github.com/teutonet/teutonet-helm-charts/pull/1315) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci/artifacthub): use central `get-all-charts` and add missing `PR_NUMBER`](https://github.com/teutonet/teutonet-helm-charts/pull/1314) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): catch grep error when no images are found](https://github.com/teutonet/teutonet-helm-charts/pull/1313) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(ci): add missing GHCR_PULL_TOKEN](https://github.com/teutonet/teutonet-helm-charts/pull/1312) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(t8s-cluster): me be stupid I guess](https://github.com/teutonet/teutonet-helm-charts/pull/1327) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(teuto-portal-k8s-worker): update image](https://github.com/teutonet/teutonet-helm-charts/pull/1324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(ci): automatically add chart to release-please config.json](https://github.com/teutonet/teutonet-helm-charts/pull/1323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): install missing oras](https://github.com/teutonet/teutonet-helm-charts/pull/1319) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(t8s-cluster): use correct case for field](https://github.com/teutonet/teutonet-helm-charts/pull/1317) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(ci): get all charts should only return the chart names](https://github.com/teutonet/teutonet-helm-charts/pull/1316) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(ci): lock down workflow permissions](https://github.com/teutonet/teutonet-helm-charts/pull/1315) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci/artifacthub): use central `get-all-charts` and add missing `PR_NUMBER`](https://github.com/teutonet/teutonet-helm-charts/pull/1314) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): catch grep error when no images are found](https://github.com/teutonet/teutonet-helm-charts/pull/1313) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(ci): add missing GHCR_PULL_TOKEN](https://github.com/teutonet/teutonet-helm-charts/pull/1312) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
