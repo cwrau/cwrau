@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v1.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v1.1.0), today) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.4), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.1), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), 6 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.10.8](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.10.8), 6 days ago) - Cluster API implementation for OpenStack
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): ignore these jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1334) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(t8s-cluster/workload-cluster): turn off bpf.masquerade](https://github.com/teutonet/teutonet-helm-charts/pull/1332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/kyverno): apparently the type changed](https://github.com/teutonet/teutonet-helm-charts/pull/1330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): me be stupid I guess](https://github.com/teutonet/teutonet-helm-charts/pull/1327) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(teuto-portal-k8s-worker): update image](https://github.com/teutonet/teutonet-helm-charts/pull/1324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster): use correct case for field](https://github.com/teutonet/teutonet-helm-charts/pull/1317) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): get all charts should only return the chart names](https://github.com/teutonet/teutonet-helm-charts/pull/1316) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): lock down workflow permissions](https://github.com/teutonet/teutonet-helm-charts/pull/1315) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci/artifacthub): use central `get-all-charts` and add missing `PR_NUMBER`](https://github.com/teutonet/teutonet-helm-charts/pull/1314) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): catch grep error when no images are found](https://github.com/teutonet/teutonet-helm-charts/pull/1313) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
