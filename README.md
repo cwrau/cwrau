@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), today) - 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.4](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.4), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.0), today) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.0.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.0.4), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.1), 1 day ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), 1 week ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.3](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.3), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 2 weeks ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 month ago) - Lightweight and customizable notification daemon
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 2 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
