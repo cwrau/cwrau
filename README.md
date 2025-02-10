@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (4 months ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): only push after the last commit](https://github.com/teutonet/teutonet-helm-charts/pull/1340) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): ignore these jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1334) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster/workload-cluster): turn off bpf.masquerade](https://github.com/teutonet/teutonet-helm-charts/pull/1332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): automatically add chart to release-please config.json](https://github.com/teutonet/teutonet-helm-charts/pull/1323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): install missing oras](https://github.com/teutonet/teutonet-helm-charts/pull/1319) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): use correct case for field](https://github.com/teutonet/teutonet-helm-charts/pull/1317) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): get all charts should only return the chart names](https://github.com/teutonet/teutonet-helm-charts/pull/1316) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
