@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): only push after the last commit](https://github.com/teutonet/teutonet-helm-charts/pull/1340) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(ci): ignore these jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1334) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(teuto-portal-k8s-worker): update image](https://github.com/teutonet/teutonet-helm-charts/pull/1324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): automatically add chart to release-please config.json](https://github.com/teutonet/teutonet-helm-charts/pull/1323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): install missing oras](https://github.com/teutonet/teutonet-helm-charts/pull/1319) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster): use correct case for field](https://github.com/teutonet/teutonet-helm-charts/pull/1317) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
