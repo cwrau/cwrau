@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (4 months ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 months ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (5 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (6 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 months ago)
@@ -47,23 +47,23 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), today) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), today) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.2), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), 1 day ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 1 day ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.2), 3 days ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.4](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.4), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.1](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.1), 2 weeks ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 3 weeks ago) - 
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 1 month ago) - Lightweight and customizable notification daemon
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 months ago) - Lightweight and customizable notification daemon
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.32.7](https://github.com/derailed/k9s/releases/tag/v0.32.7), 3 months ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 4 months ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 
 #### 🔨 My recent Pull Requests
 
-- [feat(t8s-cluster): implement node-type specific securityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1344) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): only push after the last commit](https://github.com/teutonet/teutonet-helm-charts/pull/1340) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(t8s-cluster): implement node-type specific securityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1344) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): only push after the last commit](https://github.com/teutonet/teutonet-helm-charts/pull/1340) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(ci): ignore these jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1334) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster/workload-cluster): turn off bpf.masquerade](https://github.com/teutonet/teutonet-helm-charts/pull/1332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/kyverno): apparently the type changed](https://github.com/teutonet/teutonet-helm-charts/pull/1330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
