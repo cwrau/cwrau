@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.1](https://github.com/derailed/k9s/releases/tag/v0.40.1), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.2](https://github.com/derailed/k9s/releases/tag/v0.40.2), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.1), 1 day ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 3 days ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.2), 5 days ago) - 
