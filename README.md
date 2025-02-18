@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.26](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.26), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.24.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.24.0), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.2), today) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 4 days ago) - Cluster API implementation for OpenStack
