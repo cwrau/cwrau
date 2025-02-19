@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), today) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.24.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.24.0), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.4.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.4.2), 1 day ago) - k0smotron
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 3 weeks ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 months ago) - Lightweight and customizable notification daemon
-- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.1.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.1.0), 4 months ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 
 #### 🔨 My recent Pull Requests
 
