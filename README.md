@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (3 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (4 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 months ago)
@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): enforce PR titles to reflect major update if commits are breaking](https://github.com/teutonet/teutonet-helm-charts/pull/1348) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster/monitoring): migrate promtail to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1347) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(common/telemetry): abstract telemetry config to allow typed usage](https://github.com/teutonet/teutonet-helm-charts/pull/1346) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): `unique` cve result to deduplicate](https://github.com/teutonet/teutonet-helm-charts/pull/1345) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster): implement node-type specific securityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1344) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): ignore these jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1334) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/workload-cluster): turn off bpf.masquerade](https://github.com/teutonet/teutonet-helm-charts/pull/1332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(base-cluster/kyverno): apparently the type changed](https://github.com/teutonet/teutonet-helm-charts/pull/1330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(t8s-cluster): me be stupid I guess](https://github.com/teutonet/teutonet-helm-charts/pull/1327) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(teuto-portal-k8s-worker): update image](https://github.com/teutonet/teutonet-helm-charts/pull/1324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [miracoly](https://github.com/miracoly)
 - [dbene](https://github.com/dbene)
 - [j3k4](https://github.com/j3k4)
-- [Jeinhaus](https://github.com/Jeinhaus)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
