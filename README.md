@@ -55,8 +55,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.2), 1 week ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.4](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.4), 2 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.32.0-alpha.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.32.0-alpha.0), 4 weeks ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 months ago) - Lightweight and customizable notification daemon
+- [vladgh/docker_base_images](https://github.com/vladgh/docker_base_images) ([v1.3.5](https://github.com/vladgh/docker_base_images/releases/tag/v1.3.5), 11 months ago) - Vlad's Base Images for Docker
 
 #### 🔨 My recent Pull Requests
 
