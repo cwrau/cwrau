@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.3), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1), 3 days ago) - 
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 5 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.2), 6 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 1 week ago) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.2), 1 week ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.4](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.4), 2 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.16.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.16.0), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 months ago) - Lightweight and customizable notification daemon
