@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.331](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.331), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.1.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.1.3), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1), 3 days ago) - 
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 5 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.2), 6 days ago) - k0smotron
@@ -81,6 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (today)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (2 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (9 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
@@ -90,7 +91,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (2 years ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 years ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 years ago)
-- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
