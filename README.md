@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(renovate): try different hosts](https://github.com/teutonet/teutonet-helm-charts/pull/1369) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): improve debugging experience](https://github.com/teutonet/teutonet-helm-charts/pull/1366) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): logic for pull request title validation for breaking changes](https://github.com/teutonet/teutonet-helm-charts/pull/1365) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(renovate): migrate to new way of handling secrets](https://github.com/teutonet/teutonet-helm-charts/pull/1359) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): enforce PR titles to reflect major update if commits are breaking](https://github.com/teutonet/teutonet-helm-charts/pull/1348) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(base-cluster/monitoring): migrate promtail to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1347) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(common/telemetry): abstract telemetry config to allow typed usage](https://github.com/teutonet/teutonet-helm-charts/pull/1346) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fix(ci): `unique` cve result to deduplicate](https://github.com/teutonet/teutonet-helm-charts/pull/1345) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
