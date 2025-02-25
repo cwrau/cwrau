@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(renovate): turn on config migration](https://github.com/teutonet/teutonet-helm-charts/pull/1373) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [chore(ci): pin pluto version](https://github.com/teutonet/teutonet-helm-charts/pull/1372) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(renovate): try different hosts](https://github.com/teutonet/teutonet-helm-charts/pull/1369) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): improve debugging experience](https://github.com/teutonet/teutonet-helm-charts/pull/1366) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): logic for pull request title validation for breaking changes](https://github.com/teutonet/teutonet-helm-charts/pull/1365) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): improve alerting](https://github.com/teutonet/teutonet-helm-charts/pull/1357) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/rbac): also allow preexistingRoles for clusterRole assignment](https://github.com/teutonet/teutonet-helm-charts/pull/1351) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(base-cluster/monitoring): use correct condition for grafana ingress](https://github.com/teutonet/teutonet-helm-charts/pull/1350) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(ci): enforce PR titles to reflect major update if commits are breaking](https://github.com/teutonet/teutonet-helm-charts/pull/1348) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat(base-cluster/monitoring): migrate promtail to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1347) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat(common/telemetry): abstract telemetry config to allow typed usage](https://github.com/teutonet/teutonet-helm-charts/pull/1346) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
