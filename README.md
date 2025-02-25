@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/monitoring): quote templated fields](https://github.com/teutonet/teutonet-helm-charts/pull/1357) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/rbac): also allow preexistingRoles for clusterRole assignment](https://github.com/teutonet/teutonet-helm-charts/pull/1351) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(base-cluster/monitoring): use correct condition for grafana ingress](https://github.com/teutonet/teutonet-helm-charts/pull/1350) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(ci): enforce PR titles to reflect major update if commits are breaking](https://github.com/teutonet/teutonet-helm-charts/pull/1348) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster): implement node-type specific securityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1344) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): only push after the last commit](https://github.com/teutonet/teutonet-helm-charts/pull/1340) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(t8s-cluster/management-cluster): add securityGroupRules for monitoring](https://github.com/teutonet/teutonet-helm-charts/pull/1338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
