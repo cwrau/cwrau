@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.3.0), today) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.2.0), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), 1 day ago) - 
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 6 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): improve debugging experience](https://github.com/teutonet/teutonet-helm-charts/pull/1366) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): logic for pull request title validation for breaking changes](https://github.com/teutonet/teutonet-helm-charts/pull/1365) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(renovate): migrate to new way of handling secrets](https://github.com/teutonet/teutonet-helm-charts/pull/1359) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/monitoring): improve alerting](https://github.com/teutonet/teutonet-helm-charts/pull/1357) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/rbac): also allow preexistingRoles for clusterRole assignment](https://github.com/teutonet/teutonet-helm-charts/pull/1351) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): migrate promtail to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1347) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(common/telemetry): abstract telemetry config to allow typed usage](https://github.com/teutonet/teutonet-helm-charts/pull/1346) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(ci): `unique` cve result to deduplicate](https://github.com/teutonet/teutonet-helm-charts/pull/1345) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster): implement node-type specific securityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1344) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(ci): enforce README update on major update](https://github.com/teutonet/teutonet-helm-charts/pull/1341) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
