@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1383) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(common/images): add template for pullPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/1381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(renovate): turn on config migration](https://github.com/teutonet/teutonet-helm-charts/pull/1373) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(ci): pin pluto version](https://github.com/teutonet/teutonet-helm-charts/pull/1372) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(renovate): try different hosts](https://github.com/teutonet/teutonet-helm-charts/pull/1369) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(ci): improve debugging experience](https://github.com/teutonet/teutonet-helm-charts/pull/1366) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): logic for pull request title validation for breaking changes](https://github.com/teutonet/teutonet-helm-charts/pull/1365) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(renovate): migrate to new way of handling secrets](https://github.com/teutonet/teutonet-helm-charts/pull/1359) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(base-cluster/monitoring): improve alerting](https://github.com/teutonet/teutonet-helm-charts/pull/1357) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(base-cluster/rbac): also allow preexistingRoles for clusterRole assignment](https://github.com/teutonet/teutonet-helm-charts/pull/1351) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fix(base-cluster/monitoring): use correct condition for grafana ingress](https://github.com/teutonet/teutonet-helm-charts/pull/1350) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
