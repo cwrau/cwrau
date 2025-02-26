@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1383) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(renovate): turn on config migration](https://github.com/teutonet/teutonet-helm-charts/pull/1373) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(ci): pin pluto version](https://github.com/teutonet/teutonet-helm-charts/pull/1372) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(renovate): try different hosts](https://github.com/teutonet/teutonet-helm-charts/pull/1369) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(ci): improve debugging experience](https://github.com/teutonet/teutonet-helm-charts/pull/1366) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): logic for pull request title validation for breaking changes](https://github.com/teutonet/teutonet-helm-charts/pull/1365) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 
 #### 📓 Gists I wrote
 
