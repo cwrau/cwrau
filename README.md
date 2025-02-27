@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/descheduler): migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common/images): add template for pullPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/1381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(renovate): turn on config migration](https://github.com/teutonet/teutonet-helm-charts/pull/1373) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(ci): pin pluto version](https://github.com/teutonet/teutonet-helm-charts/pull/1372) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
