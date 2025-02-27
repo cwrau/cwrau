@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (5 months ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.4.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.4.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), 1 day ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.2.0), 2 days ago) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(renovate): turn on config migration](https://github.com/teutonet/teutonet-helm-charts/pull/1373) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(ci): pin pluto version](https://github.com/teutonet/teutonet-helm-charts/pull/1372) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(renovate): try different hosts](https://github.com/teutonet/teutonet-helm-charts/pull/1369) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
