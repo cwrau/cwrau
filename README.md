@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (5 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (6 months ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (6 months ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 months ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (7 months ago)
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection (7 months ago)
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes (7 months ago)
 
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), 3 days ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.2.1), 3 days ago) - 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 5 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), 4 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v7.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v7.2.1), 4 days ago) - 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 6 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.2), 1 week ago) - k0smotron
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster/cert-manager): metrics collection](https://github.com/teutonet/teutonet-helm-charts/pull/1397) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(base-cluster/descheduler): migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(t8s-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1383) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(base-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(common/images): add template for pullPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/1381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster/cert-manager): metrics collection](https://github.com/teutonet/teutonet-helm-charts/pull/1397) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(base-cluster/descheduler): migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(t8s-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1383) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(base-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(common/images): add template for pullPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/1381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(ci): add missing GH_TOKEN to workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1375) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (6 days ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 week ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (2 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (10 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
