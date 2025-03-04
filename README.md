@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster/management-cluster): add missing volumeMounts for apiServer](https://github.com/teutonet/teutonet-helm-charts/pull/1405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster/management-cluster): add option to create SecurityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix: allow modification of all ManagedSecurityGroups](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/2446) on [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) (today)
 - [fix(t8s-cluster/management-cluster): renamed parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/management-cluster): duplicated files](https://github.com/teutonet/teutonet-helm-charts/pull/1401) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/management-cluster): new spelling of field](https://github.com/teutonet/teutonet-helm-charts/pull/1399) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/descheduler): migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(ci): add missing env var](https://github.com/teutonet/teutonet-helm-charts/pull/1387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(base-cluster/monitoring): migrate to new flux metrics](https://github.com/teutonet/teutonet-helm-charts/pull/1386) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(teuto-portal-k8s-worker): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1384) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster): use new pullPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1383) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
