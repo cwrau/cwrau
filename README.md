@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), today) - Lightweight and customizable notification daemon
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.332](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.332), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.1.2), 1 day ago) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.2), 2 weeks ago) - k0smotron
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 2 weeks ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.4](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.4), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.1](https://github.com/dunst-project/dunst/releases/tag/v1.12.1), 2 months ago) - Lightweight and customizable notification daemon
 - [vladgh/docker_base_images](https://github.com/vladgh/docker_base_images) ([v1.3.5](https://github.com/vladgh/docker_base_images/releases/tag/v1.3.5), 11 months ago) - Vlad's Base Images for Docker
 
 #### 🔨 My recent Pull Requests
