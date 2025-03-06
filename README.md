@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.3](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.3), 1 day ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 day ago) - Lightweight and customizable notification daemon
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.1.2), 2 days ago) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 2 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.5](https://github.com/derailed/k9s/releases/tag/v0.40.5), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): also run wait-for-checks on edited](https://github.com/teutonet/teutonet-helm-charts/pull/1411) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(t8s-cluster/management-cluster): invalid volume names](https://github.com/teutonet/teutonet-helm-charts/pull/1410) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci/licenseScanning): ignore `null` Results](https://github.com/teutonet/teutonet-helm-charts/pull/1408) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/management-cluster): add missing volumeMounts for apiServer](https://github.com/teutonet/teutonet-helm-charts/pull/1405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster/management-cluster): add option to create SecurityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): duplicated files](https://github.com/teutonet/teutonet-helm-charts/pull/1401) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(t8s-cluster/management-cluster): new spelling of field](https://github.com/teutonet/teutonet-helm-charts/pull/1399) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(base-cluster/cert-manager): metrics collection](https://github.com/teutonet/teutonet-helm-charts/pull/1397) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(base-cluster/descheduler): migrate config](https://github.com/teutonet/teutonet-helm-charts/pull/1395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): use gh api instead of git, there is no git repo](https://github.com/teutonet/teutonet-helm-charts/pull/1388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
