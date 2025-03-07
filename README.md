@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 1 day ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 2 days ago) - Lightweight and customizable notification daemon
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
