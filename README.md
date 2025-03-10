@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.333](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.333), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.3), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.6](https://github.com/derailed/k9s/releases/tag/v0.40.6), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 4 days ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 5 days ago) - Lightweight and customizable notification daemon
