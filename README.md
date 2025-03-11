@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster): use new networkPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1414) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(common): add kube-apiserver networkpolicy helper](https://github.com/teutonet/teutonet-helm-charts/pull/1413) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): also run wait-for-checks on edited](https://github.com/teutonet/teutonet-helm-charts/pull/1411) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster/management-cluster): invalid volume names](https://github.com/teutonet/teutonet-helm-charts/pull/1410) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(ci/licenseScanning): ignore `null` Results](https://github.com/teutonet/teutonet-helm-charts/pull/1408) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: allow modification of all ManagedSecurityGroups](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/2446) on [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) (1 week ago)
 - [fix(t8s-cluster/management-cluster): renamed parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster/management-cluster): duplicated files](https://github.com/teutonet/teutonet-helm-charts/pull/1401) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster/management-cluster): new spelling of field](https://github.com/teutonet/teutonet-helm-charts/pull/1399) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/cert-manager): metrics collection](https://github.com/teutonet/teutonet-helm-charts/pull/1397) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
