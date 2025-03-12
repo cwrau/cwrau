@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.1), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-12-crabby-snow](https://github.com/mason-org/mason-registry/releases/tag/2025-03-12-crabby-snow), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.8](https://github.com/derailed/k9s/releases/tag/v0.40.8), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), 1 day ago) - 
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 1 day ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 6 days ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 week ago) - Lightweight and customizable notification daemon
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.0), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.7.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.7.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.2.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.2.0), 3 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.1), 3 weeks ago) - Cluster API implementation for OpenStack
