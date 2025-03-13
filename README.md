@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (today)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (1 day ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (6 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (3 weeks ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (5 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 months ago)
 - [cwrau/test2](https://github.com/cwrau/test2) -  (6 months ago)
