@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): this prevents the user from installing this under another name](https://github.com/teutonet/teutonet-helm-charts/pull/1418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): add missing licenses for new images](https://github.com/teutonet/teutonet-helm-charts/pull/1415) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(base-cluster): use new networkPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1414) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(common): add kube-apiserver networkpolicy helper](https://github.com/teutonet/teutonet-helm-charts/pull/1413) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): add missing volumeMounts for apiServer](https://github.com/teutonet/teutonet-helm-charts/pull/1405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/management-cluster): add option to create SecurityGroupRules](https://github.com/teutonet/teutonet-helm-charts/pull/1404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix: allow modification of all ManagedSecurityGroups](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/pull/2446) on [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) (2 weeks ago)
-- [fix(t8s-cluster/management-cluster): renamed parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
