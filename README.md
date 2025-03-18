@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-18-visual-llama](https://github.com/mason-org/mason-registry/releases/tag/2025-03-18-visual-llama), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
