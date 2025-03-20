@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/docs): update flux helmrelease command to update CRDs](https://github.com/teutonet/teutonet-helm-charts/pull/1421) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/ingress)!: add option traefik for ingress controller](https://github.com/teutonet/teutonet-helm-charts/pull/1420) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(ci): allow for multiple artifacthub-values files](https://github.com/teutonet/teutonet-helm-charts/pull/1419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster): this prevents the user from installing this under another name](https://github.com/teutonet/teutonet-helm-charts/pull/1418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): also run wait-for-checks on edited](https://github.com/teutonet/teutonet-helm-charts/pull/1411) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): invalid volume names](https://github.com/teutonet/teutonet-helm-charts/pull/1410) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci/licenseScanning): ignore `null` Results](https://github.com/teutonet/teutonet-helm-charts/pull/1408) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(t8s-cluster/management-cluster): add missing volumeMounts for apiServer](https://github.com/teutonet/teutonet-helm-charts/pull/1405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
