@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (1 week ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 weeks ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-23-clear-socks](https://github.com/mason-org/mason-registry/releases/tag/2025-03-23-clear-socks), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 1 day ago) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 5 days ago) - Cluster API implementation for OpenStack
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-23-clear-socks](https://github.com/mason-org/mason-registry/releases/tag/2025-03-23-clear-socks), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 2 days ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 6 days ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.17.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.17.1), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
@@ -60,10 +60,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster/docs): update flux helmrelease command to update CRDs](https://github.com/teutonet/teutonet-helm-charts/pull/1421) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(base-cluster/ingress)!: add option traefik for ingress controller](https://github.com/teutonet/teutonet-helm-charts/pull/1420) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(ci): allow for multiple artifacthub-values files](https://github.com/teutonet/teutonet-helm-charts/pull/1419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster): this prevents the user from installing this under another name](https://github.com/teutonet/teutonet-helm-charts/pull/1418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/docs): update flux helmrelease command to update CRDs](https://github.com/teutonet/teutonet-helm-charts/pull/1421) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(base-cluster/ingress)!: add option traefik for ingress controller](https://github.com/teutonet/teutonet-helm-charts/pull/1420) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(ci): allow for multiple artifacthub-values files](https://github.com/teutonet/teutonet-helm-charts/pull/1419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster): this prevents the user from installing this under another name](https://github.com/teutonet/teutonet-helm-charts/pull/1418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster): add missing licenses for new images](https://github.com/teutonet/teutonet-helm-charts/pull/1415) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster): use new networkPolicy template](https://github.com/teutonet/teutonet-helm-charts/pull/1414) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(common): add kube-apiserver networkpolicy helper](https://github.com/teutonet/teutonet-helm-charts/pull/1413) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -73,15 +73,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (4 days ago)
-- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (4 days ago)
-- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (4 days ago)
-- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (4 days ago)
-- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (4 days ago)
+- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (5 days ago)
+- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (5 days ago)
+- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (5 days ago)
+- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (5 days ago)
+- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3 weeks ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 weeks ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (10 months ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
