@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-24-spicy-kevin](https://github.com/mason-org/mason-registry/releases/tag/2025-03-24-spicy-kevin), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-24-bronze-whip](https://github.com/mason-org/mason-registry/releases/tag/2025-03-24-bronze-whip), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 6 days ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/monitoring): configure service graph for grafana](https://github.com/teutonet/teutonet-helm-charts/pull/1422) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster/docs): update flux helmrelease command to update CRDs](https://github.com/teutonet/teutonet-helm-charts/pull/1421) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(base-cluster/ingress)!: add option traefik for ingress controller](https://github.com/teutonet/teutonet-helm-charts/pull/1420) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(ci): allow for multiple artifacthub-values files](https://github.com/teutonet/teutonet-helm-charts/pull/1419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common): add kube-apiserver networkpolicy helper](https://github.com/teutonet/teutonet-helm-charts/pull/1413) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): also run wait-for-checks on edited](https://github.com/teutonet/teutonet-helm-charts/pull/1411) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): invalid volume names](https://github.com/teutonet/teutonet-helm-charts/pull/1410) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(ci/licenseScanning): ignore `null` Results](https://github.com/teutonet/teutonet-helm-charts/pull/1408) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
