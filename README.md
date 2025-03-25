@@ -81,6 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (today)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 weeks ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (10 months ago)
@@ -90,7 +91,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 years ago)
 - [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (2 years ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 years ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
