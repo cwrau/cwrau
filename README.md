@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.335](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.335), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-27-prime-teeth](https://github.com/mason-org/mason-registry/releases/tag/2025-03-27-prime-teeth), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 week ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
