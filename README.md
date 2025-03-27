@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-27-graceful-fender](https://github.com/mason-org/mason-registry/releases/tag/2025-03-27-graceful-fender), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.29.0), 1 day ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 week ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(common/telemetry): add telemetry-collector as a generic service name](https://github.com/teutonet/teutonet-helm-charts/pull/1432) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(base-cluster/cert-manager): remove unnecessary nginx setting](https://github.com/teutonet/teutonet-helm-charts/pull/1425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
