@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 weeks ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (3 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (3 weeks ago)
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-29-aural-hemp](https://github.com/mason-org/mason-registry/releases/tag/2025-03-29-aural-hemp), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 1 day ago) - 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.0), 1 day ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-29-aural-hemp](https://github.com/mason-org/mason-registry/releases/tag/2025-03-29-aural-hemp), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 2 days ago) - 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.0), 2 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 week ago) - Cluster API implementation for OpenStack
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 2 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 2 weeks ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 3 weeks ago) - 
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(common/telemetry): add telemetry-collector as a generic service name](https://github.com/teutonet/teutonet-helm-charts/pull/1432) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(base-cluster/monitoring): remove unnecessary labels from monitoring components](https://github.com/teutonet/teutonet-helm-charts/pull/1429) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(common/telemetry): add telemetry-collector as a generic service name](https://github.com/teutonet/teutonet-helm-charts/pull/1432) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(base-cluster/monitoring): remove unnecessary labels from monitoring components](https://github.com/teutonet/teutonet-helm-charts/pull/1429) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (4 days ago)
+- [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (5 days ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 month ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (11 months ago)
