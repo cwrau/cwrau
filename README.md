@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.5](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.5), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-03-31-usable-clam](https://github.com/mason-org/mason-registry/releases/tag/2025-03-31-usable-clam), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 3 days ago) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.0), 3 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 week ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
