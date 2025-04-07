@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-06-amuck-track](https://github.com/mason-org/mason-registry/releases/tag/2025-04-06-amuck-track), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.0), 1 day ago) - 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 1 day ago) - Quickstart configs for Nvim LSP
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 4 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-06-amuck-track](https://github.com/mason-org/mason-registry/releases/tag/2025-04-06-amuck-track), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.0), 2 days ago) - 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 2 days ago) - Quickstart configs for Nvim LSP
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 5 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 2 weeks ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 3 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (6 days ago)
+- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 week ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (1 week ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 month ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 months ago)
