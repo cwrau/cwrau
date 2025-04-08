@@ -47,14 +47,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-07-cool-voodoo](https://github.com/mason-org/mason-registry/releases/tag/2025-04-07-cool-voodoo), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.1), today) - 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 2 days ago) - Quickstart configs for Nvim LSP
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 5 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 2 weeks ago) - Cluster API implementation for OpenStack
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-07-cool-voodoo](https://github.com/mason-org/mason-registry/releases/tag/2025-04-07-cool-voodoo), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.1), 1 day ago) - 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 3 days ago) - Quickstart configs for Nvim LSP
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 6 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 3 weeks ago) - Cluster API implementation for OpenStack
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.40.10](https://github.com/derailed/k9s/releases/tag/v0.40.10), 3 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 3 weeks ago) - k0smotron
+- [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 4 weeks ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 1 month ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
 
@@ -67,9 +67,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/monitoring): remove unnecessary labels from monitoring components](https://github.com/teutonet/teutonet-helm-charts/pull/1429) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -82,7 +82,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### ⭐ Recent Stars
 
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 week ago)
-- [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (1 week ago)
+- [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (2 weeks ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 month ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (3 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (11 months ago)
