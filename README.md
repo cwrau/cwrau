@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.35.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.35.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-09-robust-europe](https://github.com/mason-org/mason-registry/releases/tag/2025-04-09-robust-europe), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.0](https://github.com/derailed/k9s/releases/tag/v0.50.0), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 4 days ago) - Quickstart configs for Nvim LSP
