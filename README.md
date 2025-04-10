@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-10-canine-hair](https://github.com/mason-org/mason-registry/releases/tag/2025-04-10-canine-hair), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-10-impish-fiber](https://github.com/mason-org/mason-registry/releases/tag/2025-04-10-impish-fiber), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.1](https://github.com/derailed/k9s/releases/tag/v0.50.1), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 5 days ago) - Quickstart configs for Nvim LSP
