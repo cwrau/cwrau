@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.2](https://github.com/derailed/k9s/releases/tag/v0.50.2), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-10-impish-fiber](https://github.com/mason-org/mason-registry/releases/tag/2025-04-10-impish-fiber), today) - Core registry for mason.nvim.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.1](https://github.com/derailed/k9s/releases/tag/v0.50.1), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 5 days ago) - Quickstart configs for Nvim LSP
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 3 weeks ago) - Cluster API implementation for OpenStack
