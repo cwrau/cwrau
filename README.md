@@ -10,7 +10,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (4 weeks ago)
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (1 month ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-10-top-pig](https://github.com/mason-org/mason-registry/releases/tag/2025-04-10-top-pig), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0), today) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.2](https://github.com/derailed/k9s/releases/tag/v0.50.2), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 5 days ago) - Quickstart configs for Nvim LSP
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-10-top-pig](https://github.com/mason-org/mason-registry/releases/tag/2025-04-10-top-pig), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0), 1 day ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.2](https://github.com/derailed/k9s/releases/tag/v0.50.2), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v1.8.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v1.8.0), 6 days ago) - Quickstart configs for Nvim LSP
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 3 weeks ago) - Cluster API implementation for OpenStack
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 4 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 1 month ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 1 month ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
