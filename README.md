@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-13-aqua-freon](https://github.com/mason-org/mason-registry/releases/tag/2025-04-13-aqua-freon), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-13-sassy-steel](https://github.com/mason-org/mason-registry/releases/tag/2025-04-13-sassy-steel), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 1 day ago) - Quickstart configs for Nvim LSP
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 2 days ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.2](https://github.com/derailed/k9s/releases/tag/v0.50.2), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
