@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-14-smelly-cisco](https://github.com/mason-org/mason-registry/releases/tag/2025-04-14-smelly-cisco), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.3-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.3-beta.1), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-14-humble-seven](https://github.com/mason-org/mason-registry/releases/tag/2025-04-14-humble-seven), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v1.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v1.4.1), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 2 days ago) - Quickstart configs for Nvim LSP
