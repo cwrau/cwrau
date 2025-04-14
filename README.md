@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(teuto-cnpg): replace `_` in database name with `-`](https://github.com/teutonet/teutonet-helm-charts/pull/1437) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): remove unnecessary labels from monitoring components](https://github.com/teutonet/teutonet-helm-charts/pull/1429) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): use correct field for repository parameter](https://github.com/teutonet/teutonet-helm-charts/pull/1428) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/clusterClass): add tag to machine](https://github.com/teutonet/teutonet-helm-charts/pull/1427) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [chore(common): add documentation about template usage](https://github.com/teutonet/teutonet-helm-charts/pull/1426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
