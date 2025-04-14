@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v1.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v1.4.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-14-gifted-kevin](https://github.com/mason-org/mason-registry/releases/tag/2025-04-14-gifted-kevin), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 2 days ago) - Quickstart configs for Nvim LSP
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 3 weeks ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.4.3](https://github.com/k0smotron/k0smotron/releases/tag/v1.4.3), 1 month ago) - k0smotron
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.2.1), 1 month ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
 
 #### 🔨 My recent Pull Requests
