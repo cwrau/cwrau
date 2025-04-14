@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-13-tawdry-datum](https://github.com/mason-org/mason-registry/releases/tag/2025-04-13-tawdry-datum), 1 day ago) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 2 days ago) - Quickstart configs for Nvim LSP
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 3 days ago) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.2](https://github.com/derailed/k9s/releases/tag/v0.50.2), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 3 weeks ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
