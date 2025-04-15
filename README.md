@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.33](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.33), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.21.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.21.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-15-solid-pack](https://github.com/mason-org/mason-registry/releases/tag/2025-04-15-solid-pack), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v1.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v1.4.1), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
