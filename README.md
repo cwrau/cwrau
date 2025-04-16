@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-16-orange-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-04-16-orange-rhino), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), today) - 
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.0](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.0), today) - k0smotron
