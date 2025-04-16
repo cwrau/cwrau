@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-16-orange-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-04-16-orange-rhino), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), today) - 
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.0](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.0), today) - k0smotron
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.21.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.21.0), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 4 days ago) - Quickstart configs for Nvim LSP
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
