@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-16-tall-opera](https://github.com/mason-org/mason-registry/releases/tag/2025-04-16-tall-opera), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-17-pumped-fog](https://github.com/mason-org/mason-registry/releases/tag/2025-04-17-pumped-fog), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.12.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.12.1), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 1 day ago) - 
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.0](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.0), 1 day ago) - k0smotron
