@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-17-five-mullet](https://github.com/mason-org/mason-registry/releases/tag/2025-04-17-five-mullet), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.25](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.25), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-17-grim-brace](https://github.com/mason-org/mason-registry/releases/tag/2025-04-17-grim-brace), today) - Core registry for mason.nvim.
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.1](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.1), today) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.3](https://github.com/derailed/k9s/releases/tag/v0.50.3), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
