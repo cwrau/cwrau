@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [[openstack-cloud-controller-manager (occm)] fix: wrap error to bubble it up](https://github.com/kubernetes/cloud-provider-openstack/pull/2878) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (today)
 - [feat(t8s-cluster): enable audit logging](https://github.com/teutonet/teutonet-helm-charts/pull/1440) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(ci): ignore cancelled jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1438) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(teuto-cnpg): replace `_` in database name with `-`](https://github.com/teutonet/teutonet-helm-charts/pull/1437) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common/telemetry): add telemetry-collector as a generic service name](https://github.com/teutonet/teutonet-helm-charts/pull/1432) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(base-cluster/monitoring): remove unnecessary labels from monitoring components](https://github.com/teutonet/teutonet-helm-charts/pull/1429) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
