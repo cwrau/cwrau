@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-23-serene-slime](https://github.com/mason-org/mason-registry/releases/tag/2025-04-23-serene-slime), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-23-merry-beat](https://github.com/mason-org/mason-registry/releases/tag/2025-04-23-merry-beat), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.2), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.1](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.1), 6 days ago) - k0smotron
