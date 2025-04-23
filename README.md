@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (1 month ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-22-shabby-spruce](https://github.com/mason-org/mason-registry/releases/tag/2025-04-22-shabby-spruce), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.2), today) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.1](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.1), 5 days ago) - k0smotron
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 6 days ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-22-godly-spain](https://github.com/mason-org/mason-registry/releases/tag/2025-04-22-godly-spain), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.2), 1 day ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.1](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.1), 6 days ago) - k0smotron
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 1 week ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 1 week ago) - Quickstart configs for Nvim LSP
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 2 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.18.1](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.18.1), 3 weeks ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 month ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
 
 #### 🔨 My recent Pull Requests
 
-- [[openstack-cloud-controller-manager (occm)] fix: wrap error to bubble it up](https://github.com/kubernetes/cloud-provider-openstack/pull/2878) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (today)
-- [feat(t8s-cluster): enable audit logging](https://github.com/teutonet/teutonet-helm-charts/pull/1440) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [[openstack-cloud-controller-manager (occm)] fix: wrap error to bubble it up](https://github.com/kubernetes/cloud-provider-openstack/pull/2878) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (1 day ago)
+- [feat(t8s-cluster): enable audit logging](https://github.com/teutonet/teutonet-helm-charts/pull/1440) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): ignore cancelled jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1438) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(teuto-cnpg): replace `_` in database name with `-`](https://github.com/teutonet/teutonet-helm-charts/pull/1437) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(common/telemetry): add telemetry-collector as a generic service name](https://github.com/teutonet/teutonet-helm-charts/pull/1432) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [feat(ci): replace action with little script](https://github.com/teutonet/teutonet-helm-charts/pull/1431) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat(ci): activate merge groups](https://github.com/teutonet/teutonet-helm-charts/pull/1430) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
