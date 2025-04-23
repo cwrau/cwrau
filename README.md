@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-23-coarse-lyric](https://github.com/mason-org/mason-registry/releases/tag/2025-04-23-coarse-lyric), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.0), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.19.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.19.0), today) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.1](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.1), 6 days ago) - k0smotron
