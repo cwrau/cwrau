@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-24-lesser-jumper](https://github.com/mason-org/mason-registry/releases/tag/2025-04-24-lesser-jumper), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-24-plush-money](https://github.com/mason-org/mason-registry/releases/tag/2025-04-24-plush-money), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.1), today) - 
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.19.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.19.0), 1 day ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
