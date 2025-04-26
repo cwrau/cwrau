@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), today) - Quickstart configs for Nvim LSP
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-26-torpid-ocean](https://github.com/mason-org/mason-registry/releases/tag/2025-04-26-torpid-ocean), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), today) - 
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 1 day ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.19.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.19.0), 3 days ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 1 week ago) - 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.0.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.0.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 month ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
