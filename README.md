@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-29-past-impala](https://github.com/mason-org/mason-registry/releases/tag/2025-04-29-past-impala), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-29-speedy-ankle](https://github.com/mason-org/mason-registry/releases/tag/2025-04-29-speedy-ankle), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.2), today) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 3 days ago) - Quickstart configs for Nvim LSP
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 4 days ago) - k0smotron
