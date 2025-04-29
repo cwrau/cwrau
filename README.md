@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster): pin all versions](https://github.com/teutonet/teutonet-helm-charts/pull/1447) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): use bot token for wait-for-checks](https://github.com/teutonet/teutonet-helm-charts/pull/1446) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster): add missing licenses for alloy and prometheus-config-reloader](https://github.com/teutonet/teutonet-helm-charts/pull/1445) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster): migrate kyverno registries](https://github.com/teutonet/teutonet-helm-charts/pull/1444) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(teuto-cnpg): replace `_` in database name with `-`](https://github.com/teutonet/teutonet-helm-charts/pull/1437) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(ci): adjust linter to account for merge_groups](https://github.com/teutonet/teutonet-helm-charts/pull/1435) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(base-cluster/ingress): rename oauth-proxies to have a clean name](https://github.com/teutonet/teutonet-helm-charts/pull/1434) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(base-cluster/monitoring): rename alloy to be a generic name](https://github.com/teutonet/teutonet-helm-charts/pull/1433) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
