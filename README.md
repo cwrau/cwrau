@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (1 day ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (7 months ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (7 months ago)
-- [cwrau/test2](https://github.com/cwrau/test2) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,7 +56,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 1 week ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.5](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.5), 1 month ago) - Cluster API implementation for OpenStack
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.12.2](https://github.com/dunst-project/dunst/releases/tag/v1.12.2), 1 month ago) - Lightweight and customizable notification daemon
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 1 month ago) - Use your Neovim like using Cursor AI IDE!
 
 #### 🔨 My recent Pull Requests
 
