@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
 - [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [cwrau/mason-lspconfig.nvim](https://github.com/cwrau/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -43,12 +44,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
 - [cwrau/kustomize-controller](https://github.com/cwrau/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [cwrau/dunst](https://github.com/cwrau/dunst) - Lightweight and customizable notification daemon
-- [cwrau/clickhouse-operator](https://github.com/cwrau/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-30-tory-kettle](https://github.com/mason-org/mason-registry/releases/tag/2025-04-30-tory-kettle), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.4), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-30-bottled-flamingo](https://github.com/mason-org/mason-registry/releases/tag/2025-04-30-bottled-flamingo), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 4 days ago) - Quickstart configs for Nvim LSP
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 5 days ago) - k0smotron
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) ([v0.19.0](https://github.com/kubernetes-sigs/cluster-api-operator/releases/tag/v0.19.0), 1 week ago) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (today)
+- [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (today)
 - [fix: allow fields like api_key_name to be a table](https://github.com/yetone/avante.nvim/pull/1938) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 day ago)
 - [chore(base-cluster/monitoring): remove unnecessary open-telemetry-collector dashboard](https://github.com/teutonet/teutonet-helm-charts/pull/1449) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster): add missing licenses for alloy and prometheus-config-reloader](https://github.com/teutonet/teutonet-helm-charts/pull/1445) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(base-cluster): migrate kyverno registries](https://github.com/teutonet/teutonet-helm-charts/pull/1444) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [[openstack-cloud-controller-manager (occm)] fix: wrap error to bubble it up](https://github.com/kubernetes/cloud-provider-openstack/pull/2878) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (1 week ago)
-- [feat(t8s-cluster): enable audit logging](https://github.com/teutonet/teutonet-helm-charts/pull/1440) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(ci): ignore cancelled jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1438) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
