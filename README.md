@@ -8,16 +8,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (today)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (1 month ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (7 months ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-30-vexed-crown](https://github.com/mason-org/mason-registry/releases/tag/2025-04-30-vexed-crown), today) - Core registry for mason.nvim.
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.6](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.6), today) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-30-glass-fifth](https://github.com/mason-org/mason-registry/releases/tag/2025-04-30-glass-fifth), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.4), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), today) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 4 days ago) - Quickstart configs for Nvim LSP
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.4](https://github.com/derailed/k9s/releases/tag/v0.50.4), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.0.0), 2 weeks ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 1 month ago) - Use your Neovim like using Cursor AI IDE!
 
 #### 🔨 My recent Pull Requests
 
