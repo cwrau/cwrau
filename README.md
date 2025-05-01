@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-30-famous-ngine](https://github.com/mason-org/mason-registry/releases/tag/2025-04-30-famous-ngine), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-01-scary-mink](https://github.com/mason-org/mason-registry/releases/tag/2025-05-01-scary-mink), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.6](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.6), 1 day ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 1 day ago) - Cluster API implementation for OpenStack
