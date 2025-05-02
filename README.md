@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-02-misty-birth](https://github.com/mason-org/mason-registry/releases/tag/2025-05-02-misty-birth), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.0), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-02-sheer-hall](https://github.com/mason-org/mason-registry/releases/tag/2025-05-02-sheer-hall), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.5), today) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.6](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.6), 2 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 2 days ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 6 days ago) - Quickstart configs for Nvim LSP
