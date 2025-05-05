@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-05-hollow-swing](https://github.com/mason-org/mason-registry/releases/tag/2025-05-05-hollow-swing), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.7](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.7), today) - AI powered Kubernetes Assistant
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.339-dev.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.339-dev.2), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 5 days ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 1 week ago) - Quickstart configs for Nvim LSP
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 1 week ago) - k0smotron
