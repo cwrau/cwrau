@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.35](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.35), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.2), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-06-torpid-orchid](https://github.com/mason-org/mason-registry/releases/tag/2025-05-06-torpid-orchid), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.7](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.7), 1 day ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 6 days ago) - Cluster API implementation for OpenStack
