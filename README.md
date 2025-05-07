@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 week ago)
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (today)
+- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (today)
 - [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (2 days ago)
 - [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
 - [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster): pin all versions](https://github.com/teutonet/teutonet-helm-charts/pull/1447) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(ci): use bot token for wait-for-checks](https://github.com/teutonet/teutonet-helm-charts/pull/1446) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster): add missing licenses for alloy and prometheus-config-reloader](https://github.com/teutonet/teutonet-helm-charts/pull/1445) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster): migrate kyverno registries](https://github.com/teutonet/teutonet-helm-charts/pull/1444) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
