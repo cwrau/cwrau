@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.36](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.36), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-08-sugary-bangle](https://github.com/mason-org/mason-registry/releases/tag/2025-05-08-sugary-bangle), 1 day ago) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.7), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.5](https://github.com/derailed/k9s/releases/tag/v0.50.5), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 2 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 1 week ago) - Cluster API implementation for OpenStack
