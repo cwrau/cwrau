@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-11-frugal-opah](https://github.com/mason-org/mason-registry/releases/tag/2025-05-11-frugal-opah), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-11-joint-cook](https://github.com/mason-org/mason-registry/releases/tag/2025-05-11-joint-cook), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 2 days ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.5](https://github.com/derailed/k9s/releases/tag/v0.50.5), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 4 days ago) - AI powered Kubernetes Assistant
