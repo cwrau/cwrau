@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (4 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 week ago)
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (1 week ago)
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 months ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (2 months ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-11-absent-donkey](https://github.com/mason-org/mason-registry/releases/tag/2025-05-11-absent-donkey), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 2 days ago) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.5](https://github.com/derailed/k9s/releases/tag/v0.50.5), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 4 days ago) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-11-absent-donkey](https://github.com/mason-org/mason-registry/releases/tag/2025-05-11-absent-donkey), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 3 days ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.5](https://github.com/derailed/k9s/releases/tag/v0.50.5), 4 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 5 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 1 week ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 2 weeks ago) - k0smotron
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (4 days ago)
-- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (4 days ago)
-- [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (6 days ago)
+- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (5 days ago)
+- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (5 days ago)
+- [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
 - [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
 - [fix: allow fields like api_key_name to be a table](https://github.com/yetone/avante.nvim/pull/1938) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (1 week ago)
 - [chore(base-cluster/monitoring): remove unnecessary open-telemetry-collector dashboard](https://github.com/teutonet/teutonet-helm-charts/pull/1449) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster): pin all versions](https://github.com/teutonet/teutonet-helm-charts/pull/1447) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(ci): use bot token for wait-for-checks](https://github.com/teutonet/teutonet-helm-charts/pull/1446) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [chore(ci): use bot token for wait-for-checks](https://github.com/teutonet/teutonet-helm-charts/pull/1446) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
