@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-12-valid-subway](https://github.com/mason-org/mason-registry/releases/tag/2025-05-12-valid-subway), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.5](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.5), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.4), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), today) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-12-wiggly-fired](https://github.com/mason-org/mason-registry/releases/tag/2025-05-12-wiggly-fired), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 5 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 1 week ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 2 weeks ago) - Quickstart configs for Nvim LSP
