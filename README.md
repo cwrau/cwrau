@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (today)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
@@ -17,10 +18,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 months ago)
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (2 months ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (7 months ago)
 
 #### 🌱 My latest projects
 
+- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) - 
 - [cwrau/test2](https://github.com/cwrau/test2) - 
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls
@@ -30,7 +31,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/slides](https://github.com/cwrau/slides) - 
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) - 
 - [cwrau/caddy-config](https://github.com/cwrau/caddy-config) - 
-- [cwrau/Wox.Plugin.UrlEncode](https://github.com/cwrau/Wox.Plugin.UrlEncode) - Encoding and decoding a string
 
 #### 🍴 My recent forks
 
