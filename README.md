@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-14-unusual-bill](https://github.com/mason-org/mason-registry/releases/tag/2025-05-14-unusual-bill), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.30), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-14-mighty-grill](https://github.com/mason-org/mason-registry/releases/tag/2025-05-14-mighty-grill), today) - Core registry for mason.nvim.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
