@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (6 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 weeks ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-13-tired-susan](https://github.com/mason-org/mason-registry/releases/tag/2025-05-13-tired-susan), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), today) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 6 days ago) - AI powered Kubernetes Assistant
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 1 week ago) - Cluster API implementation for OpenStack
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-13-six-draw](https://github.com/mason-org/mason-registry/releases/tag/2025-05-13-six-draw), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 1 day ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.8](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.8), 1 week ago) - AI powered Kubernetes Assistant
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 2 weeks ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) ([v1.5.2](https://github.com/k0smotron/k0smotron/releases/tag/v1.5.2), 2 weeks ago) - k0smotron
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 2 months ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -60,11 +60,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (6 days ago)
-- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (6 days ago)
+- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
+- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
-- [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
-- [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (1 week ago)
+- [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (2 weeks ago)
+- [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (2 weeks ago)
 - [fix: allow fields like api_key_name to be a table](https://github.com/yetone/avante.nvim/pull/1938) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (2 weeks ago)
 - [chore(base-cluster/monitoring): remove unnecessary open-telemetry-collector dashboard](https://github.com/teutonet/teutonet-helm-charts/pull/1449) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
