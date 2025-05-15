@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add chart-testing package](https://github.com/cwrau/aur-packages/pull/1) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
 - [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/monitoring): remove unnecessary open-telemetry-collector dashboard](https://github.com/teutonet/teutonet-helm-charts/pull/1449) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [chore(base-cluster): pin all versions](https://github.com/teutonet/teutonet-helm-charts/pull/1447) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [chore(ci): use bot token for wait-for-checks](https://github.com/teutonet/teutonet-helm-charts/pull/1446) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
