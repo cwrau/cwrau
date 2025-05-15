@@ -9,6 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (today)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 day ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 months ago)
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) - Cluster API implementation for OpenStack (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.1.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-15-sorry-lute](https://github.com/mason-org/mason-registry/releases/tag/2025-05-15-sorry-lute), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.30), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.1), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 2 days ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
