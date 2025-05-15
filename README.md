@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.1.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-15-sorry-lute](https://github.com/mason-org/mason-registry/releases/tag/2025-05-15-sorry-lute), today) - Core registry for mason.nvim.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.1), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 2 days ago) - 
