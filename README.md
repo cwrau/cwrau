@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add chart-testing package](https://github.com/cwrau/aur-packages/pull/1) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
-- [fix: return empty string instead of nil](https://github.com/cwrau/yaml-schema-detect.nvim/pull/4) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
-- [fix: return nil if schema couldn't be found](https://github.com/cwrau/yaml-schema-detect.nvim/pull/3) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
-- [feat: add datree catalog](https://github.com/cwrau/yaml-schema-detect.nvim/pull/2) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
-- [fix: don't dictate the name for the models](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/127) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (2 weeks ago)
-- [fix: pass kubeconfig to tool execution](https://github.com/GoogleCloudPlatform/kubectl-ai/pull/126) on [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) (2 weeks ago)
-- [fix: allow fields like api_key_name to be a table](https://github.com/yetone/avante.nvim/pull/1938) on [yetone/avante.nvim](https://github.com/yetone/avante.nvim) (2 weeks ago)
-- [chore(base-cluster/monitoring): remove unnecessary open-telemetry-collector dashboard](https://github.com/teutonet/teutonet-helm-charts/pull/1449) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(base-cluster/monitoring): allow upsizing tempo storage](https://github.com/teutonet/teutonet-helm-charts/pull/1448) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [chore(base-cluster): pin all versions](https://github.com/teutonet/teutonet-helm-charts/pull/1447) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add tetra-bin package](https://github.com/cwrau/aur-packages/pull/23) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add telepresence2-bin package](https://github.com/cwrau/aur-packages/pull/22) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add telepresence2 package](https://github.com/cwrau/aur-packages/pull/21) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add rofi-randr package](https://github.com/cwrau/aur-packages/pull/20) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add rofi-dmenu package](https://github.com/cwrau/aur-packages/pull/19) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add qtemu-git package](https://github.com/cwrau/aur-packages/pull/18) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
+- [feat: add python-dynmen package](https://github.com/cwrau/aur-packages/pull/17) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
 
 #### 📓 Gists I wrote
 
