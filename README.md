@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (3 days ago)
-- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (4 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (4 days ago)
+- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (5 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 weeks ago)
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 weeks ago)
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (3 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 months ago)
 
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-18-hearty-gluten](https://github.com/mason-org/mason-registry/releases/tag/2025-05-18-hearty-gluten), today) - Core registry for mason.nvim.
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.2), 2 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 2 days ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.9](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.9), 2 days ago) - AI powered Kubernetes Assistant
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 5 days ago) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-18-hearty-gluten](https://github.com/mason-org/mason-registry/releases/tag/2025-05-18-hearty-gluten), 1 day ago) - Core registry for mason.nvim.
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.2), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 3 days ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.9](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.9), 3 days ago) - AI powered Kubernetes Assistant
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.2.9](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.2.9), 6 days ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 2 weeks ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 3 weeks ago) - Quickstart configs for Nvim LSP
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.2), 3 weeks ago) - k0smotron
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add tetra-bin package](https://github.com/cwrau/aur-packages/pull/23) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add telepresence2-bin package](https://github.com/cwrau/aur-packages/pull/22) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add telepresence2 package](https://github.com/cwrau/aur-packages/pull/21) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add rofi-randr package](https://github.com/cwrau/aur-packages/pull/20) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add rofi-dmenu package](https://github.com/cwrau/aur-packages/pull/19) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add qtemu-git package](https://github.com/cwrau/aur-packages/pull/18) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
-- [feat: add python-dynmen package](https://github.com/cwrau/aur-packages/pull/17) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (3 days ago)
+- [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add tetra-bin package](https://github.com/cwrau/aur-packages/pull/23) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add telepresence2-bin package](https://github.com/cwrau/aur-packages/pull/22) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add telepresence2 package](https://github.com/cwrau/aur-packages/pull/21) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add rofi-randr package](https://github.com/cwrau/aur-packages/pull/20) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add rofi-dmenu package](https://github.com/cwrau/aur-packages/pull/19) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add qtemu-git package](https://github.com/cwrau/aur-packages/pull/18) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
+- [feat: add python-dynmen package](https://github.com/cwrau/aur-packages/pull/17) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (4 days ago)
 
 #### 📓 Gists I wrote
 
