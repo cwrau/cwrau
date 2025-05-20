@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), today) - AI powered Kubernetes Assistant
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.8](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.8), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-nosy-trowel](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-nosy-trowel), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.0), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.3), 1 day ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.9](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.9), 4 days ago) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 2 weeks ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 3 weeks ago) - Quickstart configs for Nvim LSP
