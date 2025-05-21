@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (6 days ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
 - [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
 - [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add telepresence2 package](https://github.com/cwrau/aur-packages/pull/21) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
 - [feat: add rofi-randr package](https://github.com/cwrau/aur-packages/pull/20) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
 - [feat: add rofi-dmenu package](https://github.com/cwrau/aur-packages/pull/19) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
-- [feat: add qtemu-git package](https://github.com/cwrau/aur-packages/pull/18) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
-- [feat: add python-dynmen package](https://github.com/cwrau/aur-packages/pull/17) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
 
 #### 📓 Gists I wrote
 
