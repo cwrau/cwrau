@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.1.3), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-21-fragile-tide](https://github.com/mason-org/mason-registry/releases/tag/2025-05-21-fragile-tide), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), today) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 1 day ago) - AI powered Kubernetes Assistant
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-nosy-trowel](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-nosy-trowel), 1 day ago) - Core registry for mason.nvim.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.3), 2 days ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 3 weeks ago) - Cluster API implementation for OpenStack
