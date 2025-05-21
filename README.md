@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.5), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.1.2), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 1 day ago) - AI powered Kubernetes Assistant
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-nosy-trowel](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-nosy-trowel), 1 day ago) - Core registry for mason.nvim.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0-alpha.3](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0-alpha.3), 2 days ago) - 
