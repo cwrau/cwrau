@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add telepresence2-bin package](https://github.com/cwrau/aur-packages/pull/22) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add telepresence2 package](https://github.com/cwrau/aur-packages/pull/21) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add rofi-randr package](https://github.com/cwrau/aur-packages/pull/20) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
-- [feat: add rofi-dmenu package](https://github.com/cwrau/aur-packages/pull/19) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 
 #### 📓 Gists I wrote
 
