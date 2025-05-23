@@ -9,6 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [cwrau/slides](https://github.com/cwrau/slides) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 weeks ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (3 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 months ago)
 
 #### 🌱 My latest projects
 
