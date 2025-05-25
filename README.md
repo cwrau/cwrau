@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/slides](https://github.com/cwrau/slides) -  (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
+- [cwrau/slides](https://github.com/cwrau/slides) -  (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (6 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
@@ -47,24 +47,24 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-24-pushy-glass](https://github.com/mason-org/mason-registry/releases/tag/2025-05-24-pushy-glass), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.38), 1 day ago) - 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 2 days ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), 3 days ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 4 days ago) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-24-pushy-glass](https://github.com/mason-org/mason-registry/releases/tag/2025-05-24-pushy-glass), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.38), 2 days ago) - 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 3 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), 4 days ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 5 days ago) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 3 weeks ago) - Cluster API implementation for OpenStack
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.1.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.1.0), 4 weeks ago) - Quickstart configs for Nvim LSP
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.2), 4 weeks ago) - k0smotron
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.2), 1 month ago) - k0smotron
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.24.5](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.24.5), 2 months ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(base-cluster/monitoring): also read secrets for datasources](https://github.com/teutonet/teutonet-helm-charts/pull/1479) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(base-cluster/monitoring): also read secrets for datasources](https://github.com/teutonet/teutonet-helm-charts/pull/1479) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
@@ -83,7 +83,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 month ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (2 months ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (2 months ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (3 months ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (5 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (1 year ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (1 year ago)
