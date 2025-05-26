@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/slides](https://github.com/cwrau/slides) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [cwrau/slides](https://github.com/cwrau/slides) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.8.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.8.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-26-hasty-sofa](https://github.com/mason-org/mason-registry/releases/tag/2025-05-26-hasty-sofa), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), today) - Quickstart configs for Nvim LSP
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
