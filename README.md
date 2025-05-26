@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-26-ancient-adult](https://github.com/mason-org/mason-registry/releases/tag/2025-05-26-ancient-adult), today) - Core registry for mason.nvim.
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-26-second-crook](https://github.com/mason-org/mason-registry/releases/tag/2025-05-26-second-crook), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.2), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 4 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), 5 days ago) - 
