@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-27-any-addax](https://github.com/mason-org/mason-registry/releases/tag/2025-05-27-any-addax), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-27-due-lotus](https://github.com/mason-org/mason-registry/releases/tag/2025-05-27-due-lotus), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.0.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.4), today) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 1 day ago) - Quickstart configs for Nvim LSP
