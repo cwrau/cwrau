@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/rbac): *RoleBindings should always be prefixed to avoid collision](https://github.com/teutonet/teutonet-helm-charts/pull/1484) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster): change descheduler syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1483) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(t8s-cluster): pin versions](https://github.com/teutonet/teutonet-helm-charts/pull/1482) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
-- [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 
 #### 📓 Gists I wrote
 
