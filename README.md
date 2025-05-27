@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/slides](https://github.com/cwrau/slides) -  (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/slides](https://github.com/cwrau/slides) -  (1 day ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (3 weeks ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 weeks ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (4 weeks ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (4 weeks ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 months ago)
 
@@ -47,26 +47,26 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.1), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-26-hasty-sofa](https://github.com/mason-org/mason-registry/releases/tag/2025-05-26-hasty-sofa), today) - Core registry for mason.nvim.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), today) - Quickstart configs for Nvim LSP
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 4 days ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), 5 days ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 6 days ago) - AI powered Kubernetes Assistant
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.1), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-26-hasty-sofa](https://github.com/mason-org/mason-registry/releases/tag/2025-05-26-hasty-sofa), 1 day ago) - Core registry for mason.nvim.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 1 day ago) - Quickstart configs for Nvim LSP
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 1 day ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 5 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.1), 6 days ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 1 week ago) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 3 weeks ago) - Cluster API implementation for OpenStack
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.2](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.2), 1 month ago) - k0smotron
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster): change descheduler syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1483) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(t8s-cluster): pin versions](https://github.com/teutonet/teutonet-helm-charts/pull/1482) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(base-cluster/monitoring): also read secrets for datasources](https://github.com/teutonet/teutonet-helm-charts/pull/1479) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster): change descheduler syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1483) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(t8s-cluster): pin versions](https://github.com/teutonet/teutonet-helm-charts/pull/1482) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(base-cluster/monitoring): also read secrets for datasources](https://github.com/teutonet/teutonet-helm-charts/pull/1479) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add vcutil package](https://github.com/cwrau/aur-packages/pull/25) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: add tetragon-bin package](https://github.com/cwrau/aur-packages/pull/24) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
