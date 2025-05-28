@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), today) - AI powered Kubernetes Assistant
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-muddy-sprat](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-muddy-sprat), today) - Core registry for mason.nvim.
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), today) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), today) - 
@@ -54,7 +55,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 2 days ago) - Quickstart configs for Nvim LSP
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 2 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 6 days ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.10](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.10), 1 week ago) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.6](https://github.com/derailed/k9s/releases/tag/v0.50.6), 2 weeks ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.3), 4 weeks ago) - Cluster API implementation for OpenStack
 
