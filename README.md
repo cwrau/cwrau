@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-head-shop](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-head-shop), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-spiffy-comedy](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-spiffy-comedy), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.0.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.4), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 2 days ago) - Quickstart configs for Nvim LSP
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): add traefik image to trusted_registries and add license](https://github.com/teutonet/teutonet-helm-charts/pull/1487) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): make apiserver resources configurable](https://github.com/teutonet/teutonet-helm-charts/pull/1485) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/rbac): *RoleBindings should always be prefixed to avoid collision](https://github.com/teutonet/teutonet-helm-charts/pull/1484) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster): change descheduler syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1483) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ckan): Revert "chore(ckan): add missing valkey license"](https://github.com/teutonet/teutonet-helm-charts/pull/1474) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: add xss-lock-session package](https://github.com/cwrau/aur-packages/pull/26) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 
 #### 📓 Gists I wrote
 
