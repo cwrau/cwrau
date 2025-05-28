@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-muddy-sprat](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-muddy-sprat), today) - Core registry for mason.nvim.
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), today) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-adept-herd](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-adept-herd), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.0.0), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 2 days ago) - Quickstart configs for Nvim LSP
