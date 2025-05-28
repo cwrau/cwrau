@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-spiffy-comedy](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-spiffy-comedy), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-28-dopey-love](https://github.com/mason-org/mason-registry/releases/tag/2025-05-28-dopey-love), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.0.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.4), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 2 days ago) - Quickstart configs for Nvim LSP
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 2 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 6 days ago) - 
