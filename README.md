@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-29-total-washer](https://github.com/mason-org/mason-registry/releases/tag/2025-05-29-total-washer), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), 1 day ago) - AI powered Kubernetes Assistant
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 1 day ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.1), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.0.0), 2 days ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 3 days ago) - Quickstart configs for Nvim LSP
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
