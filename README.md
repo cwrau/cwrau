@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-29-tacit-okapi](https://github.com/mason-org/mason-registry/releases/tag/2025-05-29-tacit-okapi), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-30-marine-engine](https://github.com/mason-org/mason-registry/releases/tag/2025-05-30-marine-engine), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), 2 days ago) - AI powered Kubernetes Assistant
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 2 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
