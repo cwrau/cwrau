@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-01-fluid-boga](https://github.com/mason-org/mason-registry/releases/tag/2025-06-01-fluid-boga), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-01-icky-lake](https://github.com/mason-org/mason-registry/releases/tag/2025-06-01-icky-lake), today) - Core registry for mason.nvim.
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.3](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.3), 2 days ago) - k0smotron
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), 3 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), 4 days ago) - AI powered Kubernetes Assistant
