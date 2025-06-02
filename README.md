@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-02-west-jar](https://github.com/mason-org/mason-registry/releases/tag/2025-06-02-west-jar), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.0), today) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.3](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.3), 3 days ago) - k0smotron
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), 5 days ago) - AI powered Kubernetes Assistant
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 5 days ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
