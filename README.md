@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster): add traefik image to trusted_registries and add license](https://github.com/teutonet/teutonet-helm-charts/pull/1487) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(t8s-cluster): make apiserver resources configurable](https://github.com/teutonet/teutonet-helm-charts/pull/1485) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): conditions](https://github.com/teutonet/teutonet-helm-charts/pull/1481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/monitoring): also read secrets for datasources](https://github.com/teutonet/teutonet-helm-charts/pull/1479) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/monitoring): remove deprecated plugin](https://github.com/teutonet/teutonet-helm-charts/pull/1478) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ckan/license): set correct license](https://github.com/teutonet/teutonet-helm-charts/pull/1476) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
