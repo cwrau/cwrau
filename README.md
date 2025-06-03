@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-03-grey-addax](https://github.com/mason-org/mason-registry/releases/tag/2025-06-03-grey-addax), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-03-polite-jaw](https://github.com/mason-org/mason-registry/releases/tag/2025-06-03-polite-jaw), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), 1 day ago) - 
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.3](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.3), 4 days ago) - k0smotron
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.11](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.11), 6 days ago) - AI powered Kubernetes Assistant
