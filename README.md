@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-crd-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-crd-1.0.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-05-dim-order](https://github.com/mason-org/mason-registry/releases/tag/2025-06-05-dim-order), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.12](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.12), 1 day ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.24](https://github.com/yetone/avante.nvim/releases/tag/v0.0.24), 2 days ago) - Use your Neovim like using Cursor AI IDE!
