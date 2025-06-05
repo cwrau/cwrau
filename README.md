@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-05-static-air](https://github.com/mason-org/mason-registry/releases/tag/2025-06-05-static-air), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-05-dim-order](https://github.com/mason-org/mason-registry/releases/tag/2025-06-05-dim-order), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.12](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.12), 1 day ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.24](https://github.com/yetone/avante.nvim/releases/tag/v0.0.24), 2 days ago) - Use your Neovim like using Cursor AI IDE!
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.3](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.3), 6 days ago) - k0smotron
