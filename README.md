@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-08-bent-closet](https://github.com/mason-org/mason-registry/releases/tag/2025-06-08-bent-closet), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.0), 2 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), 3 days ago) - 
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.2.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.2.0), 1 week ago) - Quickstart configs for Nvim LSP
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 1 week ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cinder-csi-2.33.0-alpha.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cinder-csi-2.33.0-alpha.2), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
