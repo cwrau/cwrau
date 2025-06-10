@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (4 days ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-09-top-sword](https://github.com/mason-org/mason-registry/releases/tag/2025-06-09-top-sword), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-10-dutch-goose](https://github.com/mason-org/mason-registry/releases/tag/2025-06-10-dutch-goose), today) - Core registry for mason.nvim.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.33.0), 2 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.0), 4 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), 5 days ago) - 
