@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-14-warped-waste](https://github.com/mason-org/mason-registry/releases/tag/2025-06-14-warped-waste), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.1), today) - 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 4 days ago) - 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 4 days ago) - Quickstart configs for Nvim LSP
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 4 days ago) - k0smotron
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-14-warped-waste](https://github.com/mason-org/mason-registry/releases/tag/2025-06-14-warped-waste), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.1), 1 day ago) - 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 5 days ago) - 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 5 days ago) - Quickstart configs for Nvim LSP
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 5 days ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.0), 1 week ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.12](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.12), 1 week ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.24](https://github.com/yetone/avante.nvim/releases/tag/v0.0.24), 1 week ago) - Use your Neovim like using Cursor AI IDE!
@@ -60,9 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [feat(base-cluster/monitoring): set code challenge for grafana](https://github.com/teutonet/teutonet-helm-charts/pull/1500) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): ci "race-condition"](https://github.com/teutonet/teutonet-helm-charts/pull/1499) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster): add rbac for teuto staff](https://github.com/teutonet/teutonet-helm-charts/pull/1498) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [WestLee95](https://github.com/WestLee95)
 - [filedonkey](https://github.com/filedonkey)
 - [JohannesBeckerr](https://github.com/JohannesBeckerr)
 - [connebrink](https://github.com/connebrink)
 - [miracoly](https://github.com/miracoly)
-- [dbene](https://github.com/dbene)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
