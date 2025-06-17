@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (3 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 weeks ago)
@@ -47,37 +47,37 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-16-ordinary-parcel](https://github.com/mason-org/mason-registry/releases/tag/2025-06-16-ordinary-parcel), today) - Core registry for mason.nvim.
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.13](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.13), today) - AI powered Kubernetes Assistant
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.1), today) - 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 day ago) - Use your Neovim like using Cursor AI IDE!
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 6 days ago) - 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 6 days ago) - Quickstart configs for Nvim LSP
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 6 days ago) - k0smotron
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-16-noisy-sugar](https://github.com/mason-org/mason-registry/releases/tag/2025-06-16-noisy-sugar), 1 day ago) - Core registry for mason.nvim.
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.13](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.13), 1 day ago) - AI powered Kubernetes Assistant
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.1), 1 day ago) - 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 2 days ago) - Use your Neovim like using Cursor AI IDE!
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 1 week ago) - 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 1 week ago) - Quickstart configs for Nvim LSP
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 1 week ago) - k0smotron
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.0), 1 week ago) - 
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 2 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 3 weeks ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(base-cluster/monitoring): set code challenge for grafana](https://github.com/teutonet/teutonet-helm-charts/pull/1500) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): ci "race-condition"](https://github.com/teutonet/teutonet-helm-charts/pull/1499) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster): add rbac for teuto staff](https://github.com/teutonet/teutonet-helm-charts/pull/1498) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(base-cluster): add traefik image to trusted_registries and add license](https://github.com/teutonet/teutonet-helm-charts/pull/1487) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(t8s-cluster): make apiserver resources configurable](https://github.com/teutonet/teutonet-helm-charts/pull/1485) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(t8s-cluster): make apiserver resources configurable](https://github.com/teutonet/teutonet-helm-charts/pull/1485) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (2 months ago)
-- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (2 months ago)
-- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (2 months ago)
-- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (2 months ago)
-- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (2 months ago)
+- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (3 months ago)
+- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (3 months ago)
+- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (3 months ago)
+- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (3 months ago)
+- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (3 months ago)
 
 #### ⭐ Recent Stars
 
