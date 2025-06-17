@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), today) - AI powered Kubernetes Assistant
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-16-noisy-sugar](https://github.com/mason-org/mason-registry/releases/tag/2025-06-16-noisy-sugar), 1 day ago) - Core registry for mason.nvim.
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.13](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.13), 1 day ago) - AI powered Kubernetes Assistant
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.1), 1 day ago) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 2 days ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 1 week ago) - 
