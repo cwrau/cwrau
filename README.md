@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/rbac): adjust rbac stuff for OIDC accounts](https://github.com/teutonet/teutonet-helm-charts/pull/1538) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(base-cluster): add traefik image to trusted_registries and add license](https://github.com/teutonet/teutonet-helm-charts/pull/1487) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(t8s-cluster): make apiserver resources configurable](https://github.com/teutonet/teutonet-helm-charts/pull/1485) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
