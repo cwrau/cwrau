@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-24-added-stamp](https://github.com/mason-org/mason-registry/releases/tag/2025-06-24-added-stamp), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.2), 4 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 5 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), 1 week ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 week ago) - Use your Neovim like using Cursor AI IDE!
