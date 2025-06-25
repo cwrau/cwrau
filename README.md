@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.11.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.11.7), today) - Cluster API implementation for OpenStack
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-24-first-soccer](https://github.com/mason-org/mason-registry/releases/tag/2025-06-24-first-soccer), 1 day ago) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.3), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 1 day ago) - 
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 2 weeks ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 4 weeks ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
