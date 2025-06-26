@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.3](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.3), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-26-bubbly-person](https://github.com/mason-org/mason-registry/releases/tag/2025-06-26-bubbly-person), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-26-feeble-men](https://github.com/mason-org/mason-registry/releases/tag/2025-06-26-feeble-men), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.0), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 day ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 2 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), 1 week ago) - AI powered Kubernetes Assistant
