@@ -55,8 +55,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 week ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 2 weeks ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 2 weeks ago) - Quickstart configs for Nvim LSP
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) ([v1.5.4](https://github.com/k0sproject/k0smotron/releases/tag/v1.5.4), 2 weeks ago) - k0smotron
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.3.0](https://github.com/fluxcd/helm-controller/releases/tag/v1.3.0), 1 month ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.0](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.0), 1 month ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
