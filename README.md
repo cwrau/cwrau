@@ -15,7 +15,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 month ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 month ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 month ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 month ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 months ago)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (3 months ago)
 
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.1.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-27-deep-use](https://github.com/mason-org/mason-registry/releases/tag/2025-06-27-deep-use), today) - Core registry for mason.nvim.
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 2 days ago) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.1.0), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-27-deep-use](https://github.com/mason-org/mason-registry/releases/tag/2025-06-27-deep-use), 1 day ago) - Core registry for mason.nvim.
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 3 days ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 4 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), 1 week ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 week ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 2 weeks ago) - 
