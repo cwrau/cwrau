@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-29-broken-datum](https://github.com/mason-org/mason-registry/releases/tag/2025-06-29-broken-datum), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.1.0), 2 days ago) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 4 days ago) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 5 days ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-29-broken-datum](https://github.com/mason-org/mason-registry/releases/tag/2025-06-29-broken-datum), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.1.0), 3 days ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 5 days ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 6 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), 1 week ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 2 weeks ago) - 
@@ -69,7 +69,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): ci "race-condition"](https://github.com/teutonet/teutonet-helm-charts/pull/1499) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(t8s-cluster): add rbac for teuto staff](https://github.com/teutonet/teutonet-helm-charts/pull/1498) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
