@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), today) - AI powered Kubernetes Assistant
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-02-sore-cattle](https://github.com/mason-org/mason-registry/releases/tag/2025-07-02-sore-cattle), today) - Core registry for mason.nvim.
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 1 day ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), 2 days ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 week ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 1 week ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.14](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.14), 2 weeks ago) - AI powered Kubernetes Assistant
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 3 weeks ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 3 weeks ago) - Quickstart configs for Nvim LSP
