@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-02-frigid-share](https://github.com/mason-org/mason-registry/releases/tag/2025-07-02-frigid-share), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-02-adept-way](https://github.com/mason-org/mason-registry/releases/tag/2025-07-02-adept-way), today) - Core registry for mason.nvim.
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 1 day ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), 2 days ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 week ago) - Cluster API implementation for OpenStack
