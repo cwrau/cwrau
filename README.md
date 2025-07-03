@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), today) - AI powered Kubernetes Assistant
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-02-sore-cattle](https://github.com/mason-org/mason-registry/releases/tag/2025-07-02-sore-cattle), today) - Core registry for mason.nvim.
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 1 day ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), today) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 1 day ago) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-02-sore-cattle](https://github.com/mason-org/mason-registry/releases/tag/2025-07-02-sore-cattle), 1 day ago) - Core registry for mason.nvim.
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 2 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 week ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.3), 1 week ago) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
@@ -62,13 +62,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [feat(base-cluster/flux): add alert about suspended resources](https://github.com/teutonet/teutonet-helm-charts/pull/1540) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(base-cluster/rbac): adjust rbac stuff for OIDC accounts](https://github.com/teutonet/teutonet-helm-charts/pull/1538) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/monitoring): set code challenge for grafana](https://github.com/teutonet/teutonet-helm-charts/pull/1500) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(ci): ci "race-condition"](https://github.com/teutonet/teutonet-helm-charts/pull/1499) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(t8s-cluster): add rbac for teuto staff](https://github.com/teutonet/teutonet-helm-charts/pull/1498) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
-- [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat(base-cluster/monitoring): set code_challenge_method for oauth2-proxy](https://github.com/teutonet/teutonet-helm-charts/pull/1496) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(ci/licenses): trivy output now merges all licenses](https://github.com/teutonet/teutonet-helm-charts/pull/1495) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
