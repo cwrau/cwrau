@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-04-corny-creek](https://github.com/mason-org/mason-registry/releases/tag/2025-07-04-corny-creek), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.10](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.10), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-04-zany-codlet](https://github.com/mason-org/mason-registry/releases/tag/2025-07-04-zany-codlet), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 2 days ago) - AI powered Kubernetes Assistant
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 week ago) - Cluster API implementation for OpenStack
