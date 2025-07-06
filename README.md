@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-06-far-pvc](https://github.com/mason-org/mason-registry/releases/tag/2025-07-06-far-pvc), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.7](https://github.com/derailed/k9s/releases/tag/v0.50.7), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-05-blond-rate](https://github.com/mason-org/mason-registry/releases/tag/2025-07-05-blond-rate), 1 day ago) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 2 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 4 days ago) - AI powered Kubernetes Assistant
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.1](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.1), 5 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
