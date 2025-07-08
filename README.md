@@ -8,10 +8,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 day ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 month ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 month ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 month ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 months ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-08-amused-quail](https://github.com/mason-org/mason-registry/releases/tag/2025-07-08-amused-quail), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-08-greedy-shade](https://github.com/mason-org/mason-registry/releases/tag/2025-07-08-greedy-shade), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.1), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.7](https://github.com/derailed/k9s/releases/tag/v0.50.7), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 6 days ago) - AI powered Kubernetes Assistant
