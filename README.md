@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add kftui-bin package](https://github.com/cwrau/aur-packages/pull/62) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (today)
 - [feat: remove lspconfig dependency and replace with autocmd hooks](https://github.com/cwrau/yaml-schema-detect.nvim/pull/9) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 day ago)
 - [feat: remove which-key dependency and replace with vim.keymap.set calls](https://github.com/cwrau/yaml-schema-detect.nvim/pull/7) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 day ago)
 - [feat(base-cluster/flux): add alert about suspended resources](https://github.com/teutonet/teutonet-helm-charts/pull/1540) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci/renovate): up PR limits](https://github.com/teutonet/teutonet-helm-charts/pull/1506) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/monitoring): set code challenge for grafana](https://github.com/teutonet/teutonet-helm-charts/pull/1500) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(ci): ci "race-condition"](https://github.com/teutonet/teutonet-helm-charts/pull/1499) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(t8s-cluster): add rbac for teuto staff](https://github.com/teutonet/teutonet-helm-charts/pull/1498) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
