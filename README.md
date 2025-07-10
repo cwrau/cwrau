@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-10-crisp-step](https://github.com/mason-org/mason-registry/releases/tag/2025-07-10-crisp-step), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.2), today) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.2), today) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-10-orange-flax](https://github.com/mason-org/mason-registry/releases/tag/2025-07-10-orange-flax), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.7](https://github.com/derailed/k9s/releases/tag/v0.50.7), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 2 weeks ago) - Cluster API implementation for OpenStack
