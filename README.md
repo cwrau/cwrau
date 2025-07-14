@@ -9,6 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (5 days ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) -  (2 months ago)
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.5](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.5), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-14-intact-wolf](https://github.com/mason-org/mason-registry/releases/tag/2025-07-14-intact-wolf), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 3 days ago) - 
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.2), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
