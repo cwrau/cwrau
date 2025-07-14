@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (4 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (5 days ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
-- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 month ago)
+- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (2 months ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (2 months ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-13-thirsty-start](https://github.com/mason-org/mason-registry/releases/tag/2025-07-13-thirsty-start), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 2 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), 2 days ago) - 
-- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.2), 3 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-13-thirsty-start](https://github.com/mason-org/mason-registry/releases/tag/2025-07-13-thirsty-start), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), 3 days ago) - 
+- [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) ([release-0.25.2](https://github.com/Altinity/clickhouse-operator/releases/tag/release-0.25.2), 4 days ago) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.7](https://github.com/derailed/k9s/releases/tag/v0.50.7), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.15](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.15), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 2 weeks ago) - Cluster API implementation for OpenStack
@@ -60,12 +60,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat: add kftui-bin package](https://github.com/cwrau/aur-packages/pull/62) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (5 days ago)
-- [feat: remove lspconfig dependency and replace with autocmd hooks](https://github.com/cwrau/yaml-schema-detect.nvim/pull/9) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (6 days ago)
-- [feat: remove which-key dependency and replace with vim.keymap.set calls](https://github.com/cwrau/yaml-schema-detect.nvim/pull/7) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (6 days ago)
+- [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [feat: add kftui-bin package](https://github.com/cwrau/aur-packages/pull/62) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (6 days ago)
+- [feat: remove lspconfig dependency and replace with autocmd hooks](https://github.com/cwrau/yaml-schema-detect.nvim/pull/9) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
+- [feat: remove which-key dependency and replace with vim.keymap.set calls](https://github.com/cwrau/yaml-schema-detect.nvim/pull/7) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [feat(base-cluster/flux): add alert about suspended resources](https://github.com/teutonet/teutonet-helm-charts/pull/1540) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/rbac): adjust rbac stuff for OIDC accounts](https://github.com/teutonet/teutonet-helm-charts/pull/1538) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
@@ -84,7 +84,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (3 months ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (3 months ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 months ago)
-- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (6 months ago)
+- [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (7 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (1 year ago)
 - [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (2 years ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 years ago)
