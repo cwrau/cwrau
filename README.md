@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.4), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-17-tepid-volume](https://github.com/mason-org/mason-registry/releases/tag/2025-07-17-tepid-volume), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.17](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.17), 1 day ago) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 1 day ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.32.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.32.0), 2 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 6 days ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 3 weeks ago) - Cluster API implementation for OpenStack
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 month ago) - Use your Neovim like using Cursor AI IDE!
