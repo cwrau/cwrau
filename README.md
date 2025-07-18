@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use hosted runners for various jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1595) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: remove which-key dependency and replace with vim.keymap.set calls](https://github.com/cwrau/yaml-schema-detect.nvim/pull/7) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
 - [feat(base-cluster/flux): add alert about suspended resources](https://github.com/teutonet/teutonet-helm-charts/pull/1540) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(base-cluster/rbac): adjust rbac stuff for OIDC accounts](https://github.com/teutonet/teutonet-helm-charts/pull/1538) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(base-cluster/monitoring): non-critical alerts aren't routed to on-call](https://github.com/teutonet/teutonet-helm-charts/pull/1533) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(ci): don't run these if there are no charts changed](https://github.com/teutonet/teutonet-helm-charts/pull/1522) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
