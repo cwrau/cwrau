@@ -9,8 +9,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (today)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (4 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-18-deeply-men](https://github.com/mason-org/mason-registry/releases/tag/2025-07-18-deeply-men), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.2.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.2.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-18-hard-radio](https://github.com/mason-org/mason-registry/releases/tag/2025-07-18-hard-radio), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), today) - AI powered Kubernetes Assistant
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 1 week ago) - 
