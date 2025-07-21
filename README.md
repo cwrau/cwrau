@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(ci): pluto doesn't have a tag for `v5`, changed to newest release](https://github.com/teutonet/teutonet-helm-charts/pull/1597) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: allow not showing `Fetching updates` message](https://github.com/RubixDev/mason-update-all/pull/10) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (3 days ago)
 - [feat(ci): use hosted runners for various jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1595) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add kftui-bin package](https://github.com/cwrau/aur-packages/pull/62) on [cwrau/aur-packages](https://github.com/cwrau/aur-packages) (1 week ago)
 - [feat: remove lspconfig dependency and replace with autocmd hooks](https://github.com/cwrau/yaml-schema-detect.nvim/pull/9) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (2 weeks ago)
 - [feat: remove which-key dependency and replace with vim.keymap.set calls](https://github.com/cwrau/yaml-schema-detect.nvim/pull/7) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (2 weeks ago)
-- [feat(base-cluster/flux): add alert about suspended resources](https://github.com/teutonet/teutonet-helm-charts/pull/1540) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
