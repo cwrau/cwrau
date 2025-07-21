@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.44), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-21-good-sky](https://github.com/mason-org/mason-registry/releases/tag/2025-07-21-good-sky), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.39](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.39), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-21-new-notify](https://github.com/mason-org/mason-registry/releases/tag/2025-07-21-new-notify), today) - Core registry for mason.nvim.
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 3 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 1 week ago) - 
