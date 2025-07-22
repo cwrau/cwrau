@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
-- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
+- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (4 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.5), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-21-new-notify](https://github.com/mason-org/mason-registry/releases/tag/2025-07-21-new-notify), today) - Core registry for mason.nvim.
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 2 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 3 days ago) - AI powered Kubernetes Assistant
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.5), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-21-new-notify](https://github.com/mason-org/mason-registry/releases/tag/2025-07-21-new-notify), 1 day ago) - Core registry for mason.nvim.
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 4 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.3.1), 1 week ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 3 weeks ago) - Cluster API implementation for OpenStack
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 month ago) - Use your Neovim like using Cursor AI IDE!
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(base-cluster/monitoring): migrate oauth2-proxy away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1602) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(base-cluster/dns): migrate external-dns away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1601) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(ci): pluto doesn't have a tag for `v5`, changed to newest release](https://github.com/teutonet/teutonet-helm-charts/pull/1597) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: allow not showing `Fetching updates` message](https://github.com/RubixDev/mason-update-all/pull/10) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (3 days ago)
-- [feat(ci): use hosted runners for various jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1595) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(base-cluster/monitoring): migrate oauth2-proxy away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1602) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(base-cluster/dns): migrate external-dns away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1601) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(ci): pluto doesn't have a tag for `v5`, changed to newest release](https://github.com/teutonet/teutonet-helm-charts/pull/1597) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: allow not showing `Fetching updates` message](https://github.com/RubixDev/mason-update-all/pull/10) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (4 days ago)
+- [feat(ci): use hosted runners for various jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1595) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
