@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-22-corny-rocket](https://github.com/mason-org/mason-registry/releases/tag/2025-07-22-corny-rocket), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.1](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.1), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-22-arid-pear](https://github.com/mason-org/mason-registry/releases/tag/2025-07-22-arid-pear), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.2.0), today) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 3 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 4 days ago) - AI powered Kubernetes Assistant
