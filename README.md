@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/monitoring): migrate grafana-tempo away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1605) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: allow disabling indent lines](https://github.com/homeport/dyff/pull/511) on [homeport/dyff](https://github.com/homeport/dyff) (today)
 - [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/monitoring): migrate oauth2-proxy away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1602) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): use hosted runners for various jobs](https://github.com/teutonet/teutonet-helm-charts/pull/1595) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
