@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
 - [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/kdave-chart](https://github.com/cwrau/kdave-chart) - 
 - [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
 - [cwrau/kustomize-controller](https://github.com/cwrau/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
-- [cwrau/dunst](https://github.com/cwrau/dunst) - Lightweight and customizable notification daemon
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow disabling indent lines](https://github.com/homeport/dyff/pull/511) on [homeport/dyff](https://github.com/homeport/dyff) (today)
 - [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/monitoring): migrate oauth2-proxy away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1602) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/dns): migrate external-dns away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1601) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): just wait for job completion and then check for no failures](https://github.com/teutonet/teutonet-helm-charts/pull/1594) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [chore(t8s-cluster/management-cluster): remove `cloud-provider` flag >= 1.33.0](https://github.com/teutonet/teutonet-helm-charts/pull/1579) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/docs): there is no 9.0.0 release for now...](https://github.com/teutonet/teutonet-helm-charts/pull/1563) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster/monitoring): adjust metrics syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1562) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
