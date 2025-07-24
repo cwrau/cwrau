@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (6 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-24-lawful-slave](https://github.com/mason-org/mason-registry/releases/tag/2025-07-24-lawful-slave), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-24-numb-dollar](https://github.com/mason-org/mason-registry/releases/tag/2025-07-24-numb-dollar), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.3.0), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 6 days ago) - AI powered Kubernetes Assistant
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/rbac): whitespace trimming](https://github.com/teutonet/teutonet-helm-charts/pull/1608) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster): migrate kubectl image away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1606) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/monitoring): migrate oauth2-proxy away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1602) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [chore(base-cluster/dns): migrate external-dns away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1601) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [chore(ci): pluto doesn't have a tag for `v5`, changed to newest release](https://github.com/teutonet/teutonet-helm-charts/pull/1597) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat: allow not showing `Fetching updates` message](https://github.com/RubixDev/mason-update-all/pull/10) on [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) (6 days ago)
 
 #### 📓 Gists I wrote
 
