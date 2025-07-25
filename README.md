@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
+- [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
-- [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
+- [cwrau/slides](https://github.com/cwrau/slides) -  (2 months ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (2 months ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 months ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 months ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-24-unfit-opah](https://github.com/mason-org/mason-registry/releases/tag/2025-07-24-unfit-opah), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.2.1), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), today) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 5 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 6 days ago) - AI powered Kubernetes Assistant
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 4 weeks ago) - Cluster API implementation for OpenStack
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-24-baked-scent](https://github.com/mason-org/mason-registry/releases/tag/2025-07-24-baked-scent), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.2.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), 1 day ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 1 week ago) - AI powered Kubernetes Assistant
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 month ago) - Cluster API implementation for OpenStack
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 month ago) - Use your Neovim like using Cursor AI IDE!
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.33.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.33.0), 1 month ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.3.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.3.0), 1 month ago) - Quickstart configs for Nvim LSP
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(base-cluster/monitoring): deploy log collector to potential control-plane](https://github.com/teutonet/teutonet-helm-charts/pull/1616) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(base-cluster/monitoring): don't automount the ServiceAccountToken](https://github.com/teutonet/teutonet-helm-charts/pull/1615) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(base-cluster/rbac): whitespace trimming](https://github.com/teutonet/teutonet-helm-charts/pull/1608) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(base-cluster): migrate kubectl image away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1606) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(base-cluster/monitoring): migrate grafana-tempo away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1605) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat: allow disabling indent lines](https://github.com/homeport/dyff/pull/511) on [homeport/dyff](https://github.com/homeport/dyff) (2 days ago)
-- [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(base-cluster/monitoring): deploy log collector to potential control-plane](https://github.com/teutonet/teutonet-helm-charts/pull/1616) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(base-cluster/monitoring): don't automount the ServiceAccountToken](https://github.com/teutonet/teutonet-helm-charts/pull/1615) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(base-cluster/rbac): whitespace trimming](https://github.com/teutonet/teutonet-helm-charts/pull/1608) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(base-cluster): migrate kubectl image away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1606) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(base-cluster/monitoring): migrate grafana-tempo away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1605) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat: allow disabling indent lines](https://github.com/homeport/dyff/pull/511) on [homeport/dyff](https://github.com/homeport/dyff) (3 days ago)
+- [chore(base-cluster/monitoring): migrate metrics-server away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1604) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
