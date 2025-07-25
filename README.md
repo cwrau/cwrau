@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.0.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.9.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.9.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-25-eager-skunk](https://github.com/mason-org/mason-registry/releases/tag/2025-07-25-eager-skunk), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v8.2.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v8.2.1), 1 day ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 month ago) - Cluster API implementation for OpenStack
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): also check licenses during linting](https://github.com/teutonet/teutonet-helm-charts/pull/1623) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/kyverno): migrate to new `validationFailureAction` syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1621) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(base-cluster/rbac): whitespace trimming](https://github.com/teutonet/teutonet-helm-charts/pull/1608) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(base-cluster): migrate kubectl image away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1606) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [chore(base-cluster/monitoring): migrate grafana-tempo away from bitnami](https://github.com/teutonet/teutonet-helm-charts/pull/1605) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
