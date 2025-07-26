@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-25-bored-impala](https://github.com/mason-org/mason-registry/releases/tag/2025-07-25-bored-impala), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.0), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.0.0), today) - 
-- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 6 days ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-25-bored-impala](https://github.com/mason-org/mason-registry/releases/tag/2025-07-25-bored-impala), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.0), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.0.0), 1 day ago) - 
+- [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.18](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.18), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.4](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.4), 1 month ago) - Cluster API implementation for OpenStack
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.25](https://github.com/yetone/avante.nvim/releases/tag/v0.0.25), 1 month ago) - Use your Neovim like using Cursor AI IDE!
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ci): rework how charts are found](https://github.com/teutonet/teutonet-helm-charts/pull/1629) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(ci): use the correct sha of the commits](https://github.com/teutonet/teutonet-helm-charts/pull/1627) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(ci): also check licenses during linting](https://github.com/teutonet/teutonet-helm-charts/pull/1623) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster/kyverno): migrate to new `validationFailureAction` syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1621) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(base-cluster/monitoring): deploy log collector to potential control-plane](https://github.com/teutonet/teutonet-helm-charts/pull/1616) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(base-cluster/monitoring): don't automount the ServiceAccountToken](https://github.com/teutonet/teutonet-helm-charts/pull/1615) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(ci): rework how charts are found](https://github.com/teutonet/teutonet-helm-charts/pull/1629) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(ci): use the correct sha of the commits](https://github.com/teutonet/teutonet-helm-charts/pull/1627) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(ci): also check licenses during linting](https://github.com/teutonet/teutonet-helm-charts/pull/1623) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster/kyverno): migrate to new `validationFailureAction` syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1621) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(base-cluster/monitoring): deploy log collector to potential control-plane](https://github.com/teutonet/teutonet-helm-charts/pull/1616) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(base-cluster/monitoring): don't automount the ServiceAccountToken](https://github.com/teutonet/teutonet-helm-charts/pull/1615) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
