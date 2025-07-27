@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-27-pretty-expert](https://github.com/mason-org/mason-registry/releases/tag/2025-07-27-pretty-expert), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-27-inland-fear](https://github.com/mason-org/mason-registry/releases/tag/2025-07-27-inland-fear), today) - Core registry for mason.nvim.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.26](https://github.com/yetone/avante.nvim/releases/tag/v0.0.26), 1 day ago) - Use your Neovim like using Cursor AI IDE!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.0), 2 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.0.0), 2 days ago) - 
