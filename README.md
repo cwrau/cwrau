@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): also create metrics for resources without suspend field](https://github.com/teutonet/teutonet-helm-charts/pull/1634) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(ci): rework how charts are found](https://github.com/teutonet/teutonet-helm-charts/pull/1629) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(ci): use the correct sha of the commits](https://github.com/teutonet/teutonet-helm-charts/pull/1627) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/monitoring): deploy log collector to potential control-plane](https://github.com/teutonet/teutonet-helm-charts/pull/1616) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(base-cluster/monitoring): don't automount the ServiceAccountToken](https://github.com/teutonet/teutonet-helm-charts/pull/1615) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(ci): enforce PR title being the first commit's message](https://github.com/teutonet/teutonet-helm-charts/pull/1614) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [chore(teuto-portal-k8s-worker): change default loggingFormat to `json`](https://github.com/teutonet/teutonet-helm-charts/pull/1613) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
