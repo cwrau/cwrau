@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (6 days ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-1.1.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-1.1.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-29-quick-garage](https://github.com/mason-org/mason-registry/releases/tag/2025-07-29-quick-garage), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.19](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.19), 1 day ago) - AI powered Kubernetes Assistant
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.353](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.353), 1 day ago) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 1 day ago) - Use your Neovim like using Cursor AI IDE!
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.0.0), 4 days ago) - 
 - [derailed/k9s](https://github.com/derailed/k9s) ([v0.50.9](https://github.com/derailed/k9s/releases/tag/v0.50.9), 1 week ago) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
