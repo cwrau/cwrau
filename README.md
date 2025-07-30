@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-30-blue-catsup](https://github.com/mason-org/mason-registry/releases/tag/2025-07-30-blue-catsup), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), today) - Quickstart configs for Nvim LSP
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-29-grey-gaze](https://github.com/mason-org/mason-registry/releases/tag/2025-07-29-grey-gaze), 1 day ago) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.34.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.34.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.19](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.19), 2 days ago) - AI powered Kubernetes Assistant
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 2 days ago) - 
