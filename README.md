@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/certificates): certificate for `baseDomain` is not used](https://github.com/teutonet/teutonet-helm-charts/pull/1644) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): use the bot for labelling PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1642) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(ci): also check licenses during linting](https://github.com/teutonet/teutonet-helm-charts/pull/1623) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/kyverno): migrate to new `validationFailureAction` syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1621) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(ci): all jobs must be successful for 15 seconds](https://github.com/teutonet/teutonet-helm-charts/pull/1617) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
