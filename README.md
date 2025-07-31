@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.1), 1 day ago) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-30-floppy-glass](https://github.com/mason-org/mason-registry/releases/tag/2025-07-30-floppy-glass), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-rc.0), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-31-fiscal-yogurt](https://github.com/mason-org/mason-registry/releases/tag/2025-07-31-fiscal-yogurt), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 1 day ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.1.0), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 1 day ago) - Quickstart configs for Nvim LSP
