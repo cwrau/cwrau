@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-31-frizzy-accord](https://github.com/mason-org/mason-registry/releases/tag/2025-07-31-frizzy-accord), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-rc.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-31-fiscal-yogurt](https://github.com/mason-org/mason-registry/releases/tag/2025-07-31-fiscal-yogurt), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 1 day ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v2.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v2.1.0), 1 day ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 1 day ago) - Quickstart configs for Nvim LSP
