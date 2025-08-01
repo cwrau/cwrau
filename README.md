@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.1), today) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.3](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-01-many-water](https://github.com/mason-org/mason-registry/releases/tag/2025-08-01-many-water), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 2 days ago) - AI powered Kubernetes Assistant
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 2 days ago) - Quickstart configs for Nvim LSP
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 4 days ago) - 
