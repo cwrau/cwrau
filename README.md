@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-04-atomic-delete](https://github.com/mason-org/mason-registry/releases/tag/2025-08-04-atomic-delete), today) - Core registry for mason.nvim.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), today) - Lightweight and customizable notification daemon
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.0), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 3 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 5 days ago) - AI powered Kubernetes Assistant
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 5 days ago) - Quickstart configs for Nvim LSP
