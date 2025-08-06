@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-06-half-snook](https://github.com/mason-org/mason-registry/releases/tag/2025-08-06-half-snook), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.354](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.354), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-06-expert-nickel](https://github.com/mason-org/mason-registry/releases/tag/2025-08-06-expert-nickel), today) - Core registry for mason.nvim.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 2 days ago) - Lightweight and customizable notification daemon
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 5 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 1 week ago) - AI powered Kubernetes Assistant
@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/cert-manager): use oci repository](https://github.com/teutonet/teutonet-helm-charts/pull/1650) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): use the bot for labelling PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1642) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/monitoring): also create metrics for resources without suspend field](https://github.com/teutonet/teutonet-helm-charts/pull/1634) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(ci): rework how charts are found](https://github.com/teutonet/teutonet-helm-charts/pull/1629) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): use the correct sha of the commits](https://github.com/teutonet/teutonet-helm-charts/pull/1627) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/monitoring): oauth-proxy serviceMonitor labels](https://github.com/teutonet/teutonet-helm-charts/pull/1625) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): also check licenses during linting](https://github.com/teutonet/teutonet-helm-charts/pull/1623) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
