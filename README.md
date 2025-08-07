@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.2.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.2.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-07-sweet-ship](https://github.com/mason-org/mason-registry/releases/tag/2025-08-07-sweet-ship), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.3), 1 day ago) - 
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 3 days ago) - Lightweight and customizable notification daemon
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 6 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 1 week ago) - AI powered Kubernetes Assistant
