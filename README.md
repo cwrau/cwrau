@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-10-half-mist](https://github.com/mason-org/mason-registry/releases/tag/2025-08-10-half-mist), today) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-10-drafty-peace](https://github.com/mason-org/mason-registry/releases/tag/2025-08-10-drafty-peace), today) - Core registry for mason.nvim.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 6 days ago) - Lightweight and customizable notification daemon
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 1 week ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 1 week ago) - AI powered Kubernetes Assistant
