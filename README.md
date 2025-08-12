@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.41](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.41), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.2), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-11-flashy-pile](https://github.com/mason-org/mason-registry/releases/tag/2025-08-11-flashy-pile), 1 day ago) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 2 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 week ago) - Lightweight and customizable notification daemon
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [JohannesBeckerr](https://github.com/JohannesBeckerr)
 - [connebrink](https://github.com/connebrink)
 - [miracoly](https://github.com/miracoly)
 - [dbene](https://github.com/dbene)
-- [j3k4](https://github.com/j3k4)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
