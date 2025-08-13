@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.6), today) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.21](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.21), today) - AI powered Kubernetes Assistant
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-13-aural-vinyl](https://github.com/mason-org/mason-registry/releases/tag/2025-08-13-aural-vinyl), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.1), today) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 3 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 week ago) - Lightweight and customizable notification daemon
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 1 week ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.20](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.20), 2 weeks ago) - AI powered Kubernetes Assistant
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 2 weeks ago) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
