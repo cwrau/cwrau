@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-14-dutch-sunday](https://github.com/mason-org/mason-registry/releases/tag/2025-08-14-dutch-sunday), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.3), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-13-visual-eye](https://github.com/mason-org/mason-registry/releases/tag/2025-08-13-visual-eye), 1 day ago) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.21](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.21), 1 day ago) - AI powered Kubernetes Assistant
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 4 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 week ago) - Lightweight and customizable notification daemon
