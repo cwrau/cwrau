@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-14-clean-judge](https://github.com/mason-org/mason-registry/releases/tag/2025-08-14-clean-judge), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-14-sneaky-turret](https://github.com/mason-org/mason-registry/releases/tag/2025-08-14-sneaky-turret), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.22](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.22), today) - AI powered Kubernetes Assistant
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.36.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.36.0), today) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 4 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
