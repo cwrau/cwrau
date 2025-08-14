@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (3 weeks ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (3 weeks ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-13-visual-eye](https://github.com/mason-org/mason-registry/releases/tag/2025-08-13-visual-eye), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.6), today) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.21](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.21), today) - AI powered Kubernetes Assistant
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 3 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-13-visual-eye](https://github.com/mason-org/mason-registry/releases/tag/2025-08-13-visual-eye), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.6), 1 day ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.21](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.21), 1 day ago) - AI powered Kubernetes Assistant
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 4 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 week ago) - Lightweight and customizable notification daemon
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.1.1), 1 week ago) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 2 weeks ago) - Quickstart configs for Nvim LSP
@@ -64,10 +64,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/cert-manager): use oci repository](https://github.com/teutonet/teutonet-helm-charts/pull/1650) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/certificates): certificate for `baseDomain` is not used](https://github.com/teutonet/teutonet-helm-charts/pull/1644) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): use the bot for labelling PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1642) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(base-cluster/certificates): certificate for `baseDomain` is not used](https://github.com/teutonet/teutonet-helm-charts/pull/1644) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(ci): use the bot for labelling PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1642) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(base-cluster/monitoring): also create metrics for resources without suspend field](https://github.com/teutonet/teutonet-helm-charts/pull/1634) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [chore(ci): rework how charts are found](https://github.com/teutonet/teutonet-helm-charts/pull/1629) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
