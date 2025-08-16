@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (3 weeks ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (4 weeks ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-15-any-lamp](https://github.com/mason-org/mason-registry/releases/tag/2025-08-15-any-lamp), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.1), today) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-alpha.0), today) - Cluster API implementation for OpenStack
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.22](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.22), 1 day ago) - AI powered Kubernetes Assistant
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 5 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.0), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-15-any-lamp](https://github.com/mason-org/mason-registry/releases/tag/2025-08-15-any-lamp), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.1), 1 day ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-alpha.0), 1 day ago) - Cluster API implementation for OpenStack
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.22](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.22), 2 days ago) - AI powered Kubernetes Assistant
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 6 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 week ago) - Lightweight and customizable notification daemon
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 2 weeks ago) - 
@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (4 months ago)
-- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (4 months ago)
-- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (4 months ago)
-- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (4 months ago)
-- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (4 months ago)
+- [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (5 months ago)
+- [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (5 months ago)
+- [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (5 months ago)
+- [](https://gist.github.com/997058533974174c5317135b3a4f0329) (5 months ago)
+- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (5 months ago)
 
 #### ⭐ Recent Stars
 
