@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 month ago)
@@ -17,10 +18,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 months ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (3 months ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (3 months ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (3 months ago)
 
 #### 🌱 My latest projects
 
+- [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) - 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) - 
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) - 
 - [cwrau/test2](https://github.com/cwrau/test2) - 
@@ -30,7 +31,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/webserver](https://github.com/cwrau/webserver) - Extremely fast static file server without any bloat features
 - [cwrau/elm-kata](https://github.com/cwrau/elm-kata) - 
 - [cwrau/slides](https://github.com/cwrau/slides) - 
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) - 
 
 #### 🍴 My recent forks
 
