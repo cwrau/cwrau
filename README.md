@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.5), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-26-drafty-sound](https://github.com/mason-org/mason-registry/releases/tag/2025-08-26-drafty-sound), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.0), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-26-spotty-driver](https://github.com/mason-org/mason-registry/releases/tag/2025-08-26-spotty-driver), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 1 day ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.1), 1 week ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-alpha.0), 1 week ago) - Cluster API implementation for OpenStack
