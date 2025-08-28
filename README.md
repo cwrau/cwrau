@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.38.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.38.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-27-varied-object](https://github.com/mason-org/mason-registry/releases/tag/2025-08-27-varied-object), 1 day ago) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 3 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.1), 1 week ago) - 
