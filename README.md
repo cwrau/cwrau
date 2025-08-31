@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (4 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
+- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (5 days ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 month ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-30-irish-peru](https://github.com/mason-org/mason-registry/releases/tag/2025-08-30-irish-peru), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 1 day ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 5 days ago) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-30-irish-peru](https://github.com/mason-org/mason-registry/releases/tag/2025-08-30-irish-peru), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 2 days ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 6 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.1), 2 weeks ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-alpha.0), 2 weeks ago) - Cluster API implementation for OpenStack
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 2 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 3 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 3 weeks ago) - Lightweight and customizable notification daemon
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 1 month ago) - Quickstart configs for Nvim LSP
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 1 month ago) - 
