@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (1 week ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (1 week ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 month ago)
@@ -47,24 +47,24 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-02-shrill-inch](https://github.com/mason-org/mason-registry/releases/tag/2025-09-02-shrill-inch), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.358), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.2), today) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-02-shrill-inch](https://github.com/mason-org/mason-registry/releases/tag/2025-09-02-shrill-inch), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.358), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.2), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-alpha.0), 2 weeks ago) - Cluster API implementation for OpenStack
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 3 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 4 weeks ago) - Lightweight and customizable notification daemon
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 month ago) - Lightweight and customizable notification daemon
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.4.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.4.0), 1 month ago) - Quickstart configs for Nvim LSP
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 1 month ago) - 
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 1 month ago) - Use your Neovim like using Cursor AI IDE!
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [feat(base-cluster/cert-manager): use oci repository](https://github.com/teutonet/teutonet-helm-charts/pull/1650) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
