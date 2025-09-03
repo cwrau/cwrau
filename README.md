@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
 - [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
 - [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/mason-nvim-lint](https://github.com/cwrau/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
 - [cwrau/kdave-chart](https://github.com/cwrau/kdave-chart) - 
 - [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
-- [cwrau/kustomize-controller](https://github.com/cwrau/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(single-binary): Only delete PVC on statefulset deletion, not scaling](https://github.com/grafana/loki/pull/19097) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(base-cluster/certificates): certificate for `baseDomain` is not used](https://github.com/teutonet/teutonet-helm-charts/pull/1644) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [fix(ci): use the bot for labelling PRs](https://github.com/teutonet/teutonet-helm-charts/pull/1642) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
