@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-06-firm-stove](https://github.com/mason-org/mason-registry/releases/tag/2025-09-06-firm-stove), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.43](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.43), 1 day ago) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-05-many-nepal](https://github.com/mason-org/mason-registry/releases/tag/2025-09-05-many-nepal), 1 day ago) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-beta.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-beta.0), 3 days ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v9.3.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v9.3.2), 4 days ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.23](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.23), 1 week ago) - AI powered Kubernetes Assistant
