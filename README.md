@@ -81,6 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [l2xu/betterbahn](https://github.com/l2xu/betterbahn) -  (today)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (5 months ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (5 months ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (6 months ago)
@@ -90,7 +91,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 years ago)
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) -  (2 years ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 years ago)
-- [tv2-oss/bifrost-gateway-controller](https://github.com/tv2-oss/bifrost-gateway-controller) - Gateway API-driven management of network infrastructure across Kubernetes and cloud infrastructures (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
