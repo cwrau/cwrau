@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/telepresence](https://github.com/cwrau/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
 - [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/mason-registry](https://github.com/cwrau/mason-registry) - Core registry for mason.nvim.
 - [cwrau/mason-nvim-lint](https://github.com/cwrau/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
 - [cwrau/kdave-chart](https://github.com/cwrau/kdave-chart) - 
-- [cwrau/mason-update-all](https://github.com/cwrau/mason-update-all) - Easily update all Mason packages with one command
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: work with custom go versions, like `go1.25.1 X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/3961) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (today)
 - [feat(helm): Only delete PVC on statefulset deletion, not scaling](https://github.com/grafana/loki/pull/19097) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/cert-manager): use oci repository](https://github.com/teutonet/teutonet-helm-charts/pull/1650) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(base-cluster/monitoring): lock down kdave container](https://github.com/teutonet/teutonet-helm-charts/pull/1646) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix(base-cluster/dns): only deploy external-dns HelmRepository if needed](https://github.com/teutonet/teutonet-helm-charts/pull/1645) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [fix(base-cluster/certificates): certificate for `baseDomain` is not used](https://github.com/teutonet/teutonet-helm-charts/pull/1644) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
