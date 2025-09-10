@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci/cve-scanning): mgirate from trivy to grype](https://github.com/teutonet/teutonet-helm-charts/pull/1682) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster/external-dns): migrate domainFilters syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1681) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(t8s-cluster): migrate config, ignore-volume-az is not enough](https://github.com/teutonet/teutonet-helm-charts/pull/1679) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: work with custom go versions, like `go1.25.1 X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/3961) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(base-cluster)!: remove unnecessary enabled field for deadMansSwitch](https://github.com/teutonet/teutonet-helm-charts/pull/1652) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(base-cluster/cert-manager): use oci repository](https://github.com/teutonet/teutonet-helm-charts/pull/1650) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
