@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-10-noted-pen](https://github.com/mason-org/mason-registry/releases/tag/2025-09-10-noted-pen), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-11-acidic-loach](https://github.com/mason-org/mason-registry/releases/tag/2025-09-11-acidic-loach), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.24](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.24), 1 day ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0-rc.0), 1 day ago) - Cluster API implementation for OpenStack
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), 1 day ago) - 
