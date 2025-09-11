@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-11-cool-rose](https://github.com/mason-org/mason-registry/releases/tag/2025-09-11-cool-rose), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.5](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.5), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), today) - Cluster API implementation for OpenStack
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-11-upper-crust](https://github.com/mason-org/mason-registry/releases/tag/2025-09-11-upper-crust), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), today) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.24](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.24), 1 day ago) - AI powered Kubernetes Assistant
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
