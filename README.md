@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), today) - AI powered Kubernetes Assistant
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-11-phony-ramie](https://github.com/mason-org/mason-registry/releases/tag/2025-09-11-phony-ramie), 1 day ago) - Core registry for mason.nvim.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.1](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.1), 1 day ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 1 day ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), 1 day ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.24](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.24), 2 days ago) - AI powered Kubernetes Assistant
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.24.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.24.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 month ago) - Lightweight and customizable notification daemon
