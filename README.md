@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add info about AUR package for Arch Linux](https://github.com/pehlicd/crd-wizard/pull/93) on [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) (4 days ago)
 - [fix(ci/cve-scanning): mgirate from trivy to grype](https://github.com/teutonet/teutonet-helm-charts/pull/1682) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [chore(base-cluster/external-dns): migrate domainFilters syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1681) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(helm): Only delete PVC on statefulset deletion, not scaling](https://github.com/grafana/loki/pull/19097) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [fix(ci): use correct sha for commits](https://github.com/teutonet/teutonet-helm-charts/pull/1654) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [feat(base-cluster/cert-manager): enableCertificateOwnerRef](https://github.com/teutonet/teutonet-helm-charts/pull/1653) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
