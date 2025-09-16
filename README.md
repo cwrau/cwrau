@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (4 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (3 weeks ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (3 weeks ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.360](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.360), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-16-vain-twist](https://github.com/mason-org/mason-registry/releases/tag/2025-09-16-vain-twist), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.0), today) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 4 days ago) - AI powered Kubernetes Assistant
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.1](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.1), 5 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 5 days ago) - Cluster API implementation for OpenStack
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): only update grype db if grype is installed](https://github.com/teutonet/teutonet-helm-charts/pull/1687) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add info about AUR package for Arch Linux](https://github.com/pehlicd/crd-wizard/pull/93) on [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: work with custom go versions, like `go1.25.1 X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/3961) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (1 week ago)
 - [feat(helm): Only delete PVC on statefulset deletion, not scaling](https://github.com/grafana/loki/pull/19097) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [fix(base-cluster/monitoring): otherwise the metric will be duplicated if `suspend` is not set](https://github.com/teutonet/teutonet-helm-charts/pull/1661) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [fix(base-cluster/external-dns): correctly check if provider is set](https://github.com/teutonet/teutonet-helm-charts/pull/1658) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
