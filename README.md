@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.33.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.33.1), today) - 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.2](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.2), today) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-17-rusty-camel](https://github.com/mason-org/mason-registry/releases/tag/2025-09-17-rusty-camel), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.0.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 5 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 6 days ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), 6 days ago) - 
