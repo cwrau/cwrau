@@ -47,8 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.44), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-18-unfair-saw](https://github.com/mason-org/mason-registry/releases/tag/2025-09-18-unfair-saw), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-18-smooth-start](https://github.com/mason-org/mason-registry/releases/tag/2025-09-18-smooth-start), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), today) - Quickstart configs for Nvim LSP
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.2](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.2), 1 day ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 6 days ago) - AI powered Kubernetes Assistant
@@ -57,6 +56,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.24.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.24.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 month ago) - Lightweight and customizable notification daemon
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
