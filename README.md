@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-18-hollow-growth](https://github.com/mason-org/mason-registry/releases/tag/2025-09-18-hollow-growth), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), today) - Quickstart configs for Nvim LSP
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-18-funny-fridge](https://github.com/mason-org/mason-registry/releases/tag/2025-09-18-funny-fridge), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.6](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.6), 1 day ago) - 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.2](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.2), 1 day ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 6 days ago) - AI powered Kubernetes Assistant
