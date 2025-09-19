@@ -8,16 +8,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (3 weeks ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (4 weeks ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 month ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (2 months ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -73,11 +73,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
+- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (today)
 - [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (6 months ago)
 - [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (6 months ago)
 - [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (6 months ago)
 - [](https://gist.github.com/997058533974174c5317135b3a4f0329) (6 months ago)
-- [test](https://gist.github.com/3caaaa92ab8f3dc19895ff1a54c3fd54) (6 months ago)
 
 #### ⭐ Recent Stars
 
