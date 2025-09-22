@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
 - [cwrau/crd-wizard](https://github.com/cwrau/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [cwrau/telepresence](https://github.com/cwrau/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [cwrau/mason-lspconfig.nvim](https://github.com/cwrau/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [cwrau/mason-registry](https://github.com/cwrau/mason-registry) - Core registry for mason.nvim.
-- [cwrau/mason-nvim-lint](https://github.com/cwrau/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (today)
+- [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(single-binary): delete statefulset if volumeClaimTemplates changes](https://github.com/grafana/loki/pull/19217) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [fix(ci/cve-scanning): make it a correct URI](https://github.com/teutonet/teutonet-helm-charts/pull/1690) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(ci): install missing sponge](https://github.com/teutonet/teutonet-helm-charts/pull/1688) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat: add info about AUR package for Arch Linux](https://github.com/pehlicd/crd-wizard/pull/93) on [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) (1 week ago)
 - [fix(ci/cve-scanning): mgirate from trivy to grype](https://github.com/teutonet/teutonet-helm-charts/pull/1682) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster/external-dns): migrate domainFilters syntax](https://github.com/teutonet/teutonet-helm-charts/pull/1681) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(t8s-cluster): migrate config, ignore-volume-az is not enough](https://github.com/teutonet/teutonet-helm-charts/pull/1679) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
