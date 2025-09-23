@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [rennf93](https://github.com/rennf93)
 - [f5guy](https://github.com/f5guy)
 - [JohannesBeckerr](https://github.com/JohannesBeckerr)
 - [connebrink](https://github.com/connebrink)
 - [miracoly](https://github.com/miracoly)
-- [dbene](https://github.com/dbene)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
