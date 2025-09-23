@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-23-level-shorts](https://github.com/mason-org/mason-registry/releases/tag/2025-09-23-level-shorts), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-23-unused-geese](https://github.com/mason-org/mason-registry/releases/tag/2025-09-23-unused-geese), today) - Core registry for mason.nvim.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 4 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 5 days ago) - Quickstart configs for Nvim LSP
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 1 week ago) - AI powered Kubernetes Assistant
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (1 day ago)
 - [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): only update grype db if grype is installed](https://github.com/teutonet/teutonet-helm-charts/pull/1687) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: add info about AUR package for Arch Linux](https://github.com/pehlicd/crd-wizard/pull/93) on [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) (1 week ago)
 
 #### 📓 Gists I wrote
 
