@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 weeks ago)
-- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (3 weeks ago)
+- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (4 weeks ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (1 month ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (2 months ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (2 months ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-22-fit-bike](https://github.com/mason-org/mason-registry/releases/tag/2025-09-22-fit-bike), today) - Core registry for mason.nvim.
-- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 3 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 4 days ago) - Quickstart configs for Nvim LSP
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-22-fit-bike](https://github.com/mason-org/mason-registry/releases/tag/2025-09-22-fit-bike), 1 day ago) - Core registry for mason.nvim.
+- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 4 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 5 days ago) - Quickstart configs for Nvim LSP
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 1 week ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), 1 week ago) - 
@@ -60,20 +60,20 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (today)
-- [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [feat(single-binary): delete statefulset if volumeClaimTemplates changes](https://github.com/grafana/loki/pull/19217) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [fix(ci/cve-scanning): make it a correct URI](https://github.com/teutonet/teutonet-helm-charts/pull/1690) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fix(ci): install missing sponge](https://github.com/teutonet/teutonet-helm-charts/pull/1688) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(ci): only update grype db if grype is installed](https://github.com/teutonet/teutonet-helm-charts/pull/1687) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (1 day ago)
+- [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [feat(single-binary): delete statefulset if volumeClaimTemplates changes](https://github.com/grafana/loki/pull/19217) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [fix(ci/cve-scanning): make it a correct URI](https://github.com/teutonet/teutonet-helm-charts/pull/1690) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fix(ci): install missing sponge](https://github.com/teutonet/teutonet-helm-charts/pull/1688) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(ci): only update grype db if grype is installed](https://github.com/teutonet/teutonet-helm-charts/pull/1687) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(t8s-cluster): migrate to CAPI v1beta2](https://github.com/teutonet/teutonet-helm-charts/pull/1685) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add info about AUR package for Arch Linux](https://github.com/pehlicd/crd-wizard/pull/93) on [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) (1 week ago)
 - [fix(ci/cve-scanning): mgirate from trivy to grype](https://github.com/teutonet/teutonet-helm-charts/pull/1682) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (3 days ago)
+- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (4 days ago)
 - [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (6 months ago)
 - [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (6 months ago)
 - [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (6 months ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
 - [l2xu/betterbahn](https://github.com/l2xu/betterbahn) -  (2 weeks ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (5 months ago)
