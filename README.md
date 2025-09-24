@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-24-total-crab](https://github.com/mason-org/mason-registry/releases/tag/2025-09-24-total-crab), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-24-innate-can](https://github.com/mason-org/mason-registry/releases/tag/2025-09-24-innate-can), today) - Core registry for mason.nvim.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.0.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.0.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 5 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 6 days ago) - Quickstart configs for Nvim LSP
@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (today)
+- [:sparkles: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (today)
 - [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (2 days ago)
