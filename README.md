@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci/cve-scanning): ignore malformed packages](https://github.com/teutonet/teutonet-helm-charts/pull/1699) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [:sparkles: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (1 day ago)
 - [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci/cve-scanning): make it a correct URI](https://github.com/teutonet/teutonet-helm-charts/pull/1690) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): install missing sponge](https://github.com/teutonet/teutonet-helm-charts/pull/1688) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): only update grype db if grype is installed](https://github.com/teutonet/teutonet-helm-charts/pull/1687) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster): implement autoscaling](https://github.com/teutonet/teutonet-helm-charts/pull/1686) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
