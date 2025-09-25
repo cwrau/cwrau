@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 week ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 weeks ago)
-- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (4 weeks ago)
+- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (1 month ago)
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) -  (1 month ago)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (2 months ago)
 - [RubixDev/mason-update-all](https://github.com/RubixDev/mason-update-all) - Easily update all Mason packages with one command (2 months ago)
@@ -47,24 +47,24 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-24-liquid-hippo](https://github.com/mason-org/mason-registry/releases/tag/2025-09-24-liquid-hippo), today) - Core registry for mason.nvim.
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.0.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.0.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 5 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 6 days ago) - Quickstart configs for Nvim LSP
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-24-liquid-hippo](https://github.com/mason-org/mason-registry/releases/tag/2025-09-24-liquid-hippo), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.0.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.0.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 6 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 1 week ago) - Quickstart configs for Nvim LSP
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 1 week ago) - AI powered Kubernetes Assistant
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 1 week ago) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), 1 week ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 2 weeks ago) - Cluster API implementation for OpenStack
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.0.0), 2 weeks ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.24.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.24.1), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) ([v1.13.0](https://github.com/dunst-project/dunst/releases/tag/v1.13.0), 1 month ago) - Lightweight and customizable notification daemon
 
 #### 🔨 My recent Pull Requests
 
-- [:sparkles: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (today)
-- [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (2 days ago)
-- [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [:sparkles: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (1 day ago)
+- [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (3 days ago)
+- [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
 - [feat(single-binary): delete statefulset if volumeClaimTemplates changes](https://github.com/grafana/loki/pull/19217) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [fix(ci/cve-scanning): make it a correct URI](https://github.com/teutonet/teutonet-helm-charts/pull/1690) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci): install missing sponge](https://github.com/teutonet/teutonet-helm-charts/pull/1688) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -73,7 +73,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (5 days ago)
+- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (6 days ago)
 - [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (6 months ago)
 - [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (6 months ago)
 - [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (6 months ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
 - [l2xu/betterbahn](https://github.com/l2xu/betterbahn) -  (2 weeks ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (5 months ago)
