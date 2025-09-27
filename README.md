@@ -81,6 +81,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 week ago)
 - [l2xu/betterbahn](https://github.com/l2xu/betterbahn) -  (3 weeks ago)
@@ -89,8 +91,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (7 months ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (9 months ago)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (1 year ago)
-- [aneeshd/schedule_state](https://github.com/aneeshd/schedule_state) - Home Assistant (HA) sensor that returns a string based on a defined schedule, enabling further automations (2 years ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
