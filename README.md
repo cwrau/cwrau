@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [diogoplk](https://github.com/diogoplk)
 - [f5guy](https://github.com/f5guy)
 - [JohannesBeckerr](https://github.com/JohannesBeckerr)
 - [connebrink](https://github.com/connebrink)
 - [miracoly](https://github.com/miracoly)
-- [dbene](https://github.com/dbene)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
