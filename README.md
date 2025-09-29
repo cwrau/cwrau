@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-28-damp-cloudy](https://github.com/mason-org/mason-registry/releases/tag/2025-09-28-damp-cloudy), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-29-glad-japan](https://github.com/mason-org/mason-registry/releases/tag/2025-09-29-glad-japan), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.4.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.4.0), 3 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.0.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.0.0), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 1 week ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
