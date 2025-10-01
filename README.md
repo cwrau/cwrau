@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (6 days ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (1 week ago)
@@ -49,7 +49,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.4), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-01-fit-sleep](https://github.com/mason-org/mason-registry/releases/tag/2025-10-01-fit-sleep), today) - Core registry for mason.nvim.
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 1 week ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 1 week ago) - Quickstart configs for Nvim LSP
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 2 weeks ago) - AI powered Kubernetes Assistant
@@ -57,6 +56,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.24.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.24.1), 3 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.6), 4 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.2](https://github.com/homeport/dyff/releases/tag/v1.10.2), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.31.4](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.31.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
