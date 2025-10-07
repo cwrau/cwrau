@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 week ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-06-wonderful-curler](https://github.com/mason-org/mason-registry/releases/tag/2025-10-06-wonderful-curler), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.4), 5 days ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-06-wonderful-curler](https://github.com/mason-org/mason-registry/releases/tag/2025-10-06-wonderful-curler), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([ckan-v1.3.4](https://github.com/teutonet/teutonet-helm-charts/releases/tag/ckan-v1.3.4), 6 days ago) - 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 2 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.25](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.25), 3 weeks ago) - AI powered Kubernetes Assistant
@@ -65,8 +65,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/velero): remove last reference to bitnami images](https://github.com/teutonet/teutonet-helm-charts/pull/1701) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(ci/cve-scanning): ignore malformed packages](https://github.com/teutonet/teutonet-helm-charts/pull/1699) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [:sparkles: add new control-plane provider HCP](https://github.com/kubernetes-sigs/cluster-api/pull/12800) on [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) (1 week ago)
-- [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
+- [feat: allow referencing a secret from another namespace for audit webhook authentication](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/12) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
+- [feat: add authentication for audit webhooks](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/11) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [feat: streamline syntax to be in line with other teuto charts](https://github.com/ol-teuto/external-citytool-temp/pull/1) on [ol-teuto/external-citytool-temp](https://github.com/ol-teuto/external-citytool-temp) (2 weeks ago)
 - [feat: allow overriding the images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/5) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [feat(single-binary): delete statefulset if volumeClaimTemplates changes](https://github.com/grafana/loki/pull/19217) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
