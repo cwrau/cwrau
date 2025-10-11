@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-11-bubbly-server](https://github.com/mason-org/mason-registry/releases/tag/2025-10-11-bubbly-server), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-11-mass-wallet](https://github.com/mason-org/mason-registry/releases/tag/2025-10-11-mass-wallet), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.6](https://github.com/grafana/loki/releases/tag/v3.5.6), 1 day ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 1 day ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
