@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.34.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.34.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-13-chilly-flat](https://github.com/mason-org/mason-registry/releases/tag/2025-10-13-chilly-flat), today) - Core registry for mason.nvim.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), today) - Like Prometheus, but for logs.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 3 days ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.26](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.26), 6 days ago) - AI powered Kubernetes Assistant
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.34.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.34.0), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-13-chilly-flat](https://github.com/mason-org/mason-registry/releases/tag/2025-10-13-chilly-flat), 1 day ago) - Core registry for mason.nvim.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 day ago) - Like Prometheus, but for logs.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 4 days ago) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.26](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.26), 1 week ago) - AI powered Kubernetes Assistant
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 3 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 3 weeks ago) - Quickstart configs for Nvim LSP
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.0), 1 month ago) - Cluster API implementation for OpenStack
@@ -60,13 +60,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1718) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1718) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(t8s-cluster/auth): add staff authentication](https://github.com/teutonet/teutonet-helm-charts/pull/1703) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat: delete statefulsets if volumeClaimTemplates changes](https://github.com/grafana/helm-charts/pull/3917) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [fix(base-cluster/velero): remove last reference to bitnami images](https://github.com/teutonet/teutonet-helm-charts/pull/1701) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 days ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 weeks ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (2 weeks ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
