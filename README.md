@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-14-jaunty-stork](https://github.com/mason-org/mason-registry/releases/tag/2025-10-14-jaunty-stork), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-14-outer-libra](https://github.com/mason-org/mason-registry/releases/tag/2025-10-14-outer-libra), today) - Core registry for mason.nvim.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.1), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.34.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.34.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 day ago) - Like Prometheus, but for logs.
