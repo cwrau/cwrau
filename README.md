@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-14-soupy-shelf](https://github.com/mason-org/mason-registry/releases/tag/2025-10-14-soupy-shelf), today) - Core registry for mason.nvim.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.1), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.34.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.34.0), 1 day ago) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-13-chilly-flat](https://github.com/mason-org/mason-registry/releases/tag/2025-10-13-chilly-flat), 1 day ago) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 day ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 4 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
