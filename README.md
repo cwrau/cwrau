@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add whole lifecycle test](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/26) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat(base-cluster/tracing): add gateway to enable tail sampling](https://github.com/teutonet/teutonet-helm-charts/pull/1736) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [chore(base-cluster): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1718) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(t8s-cluster/auth): add staff authentication](https://github.com/teutonet/teutonet-helm-charts/pull/1703) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat: delete statefulsets if volumeClaimTemplates changes](https://github.com/grafana/helm-charts/pull/3917) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
-- [fix(base-cluster/velero): remove last reference to bitnami images](https://github.com/teutonet/teutonet-helm-charts/pull/1701) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
