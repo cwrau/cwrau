@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add whole lifecycle test](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/26) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat(base-cluster/tracing): add gateway to enable tail sampling](https://github.com/teutonet/teutonet-helm-charts/pull/1736) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(base-cluster): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1718) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
