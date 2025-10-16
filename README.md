@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-15-ratty-vicuna](https://github.com/mason-org/mason-registry/releases/tag/2025-10-15-ratty-vicuna), today) - Core registry for mason.nvim.
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), today) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.1), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 2 days ago) - Like Prometheus, but for logs.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 5 days ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-15-ratty-vicuna](https://github.com/mason-org/mason-registry/releases/tag/2025-10-15-ratty-vicuna), 1 day ago) - Core registry for mason.nvim.
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 1 day ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.1), 2 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 3 days ago) - Like Prometheus, but for logs.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 6 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.26](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.26), 1 week ago) - AI powered Kubernetes Assistant
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.3](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.3), 3 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 3 weeks ago) - Quickstart configs for Nvim LSP
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.5.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.5.0), 4 weeks ago) - Quickstart configs for Nvim LSP
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: add whole lifecycle test](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/26) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat(base-cluster/tracing): add gateway to enable tail sampling](https://github.com/teutonet/teutonet-helm-charts/pull/1736) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: add whole lifecycle test](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/26) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat(base-cluster/tracing): add gateway to enable tail sampling](https://github.com/teutonet/teutonet-helm-charts/pull/1736) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [chore(common): use upstream kubectl image instead of rancher](https://github.com/teutonet/teutonet-helm-charts/pull/1719) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (4 days ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (5 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 weeks ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (2 weeks ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
