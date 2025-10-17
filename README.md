@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-17-unsung-beach](https://github.com/mason-org/mason-registry/releases/tag/2025-10-17-unsung-beach), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-17-civil-remora](https://github.com/mason-org/mason-registry/releases/tag/2025-10-17-civil-remora), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 2 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.1.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.1.1), 3 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: don't set NODE_IP for kubeproxy, otherwise it fails without cloud provider](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/27) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(base-cluster/descheduler): don't remove pods with too many restarts](https://github.com/teutonet/teutonet-helm-charts/pull/1744) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common): add statefulset recreate job](https://github.com/teutonet/teutonet-helm-charts/pull/1723) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/traces): delete tempo volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1722) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/logs): only delete volumes on deletion](https://github.com/teutonet/teutonet-helm-charts/pull/1721) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster): migrate promtail leftovers to alloy](https://github.com/teutonet/teutonet-helm-charts/pull/1720) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
