@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-20-alive-spain](https://github.com/mason-org/mason-registry/releases/tag/2025-10-20-alive-spain), today) - Core registry for mason.nvim.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.1), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-20-elite-van](https://github.com/mason-org/mason-registry/releases/tag/2025-10-20-elite-van), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 5 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 week ago) - Like Prometheus, but for logs.
