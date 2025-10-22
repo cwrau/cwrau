@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 weeks ago)
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (3 weeks ago)
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (4 weeks ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (1 month ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-21-placid-beach](https://github.com/mason-org/mason-registry/releases/tag/2025-10-21-placid-beach), today) - Core registry for mason.nvim.
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.1), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 5 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 6 days ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-21-placid-beach](https://github.com/mason-org/mason-registry/releases/tag/2025-10-21-placid-beach), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.1), 2 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.1), 1 week ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.7), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -60,12 +60,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore: migrate to new CAPI contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/30) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat(base-cluster/backup)!: add k8up provider](https://github.com/teutonet/teutonet-helm-charts/pull/1751) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix: don't set NODE_IP for kubeproxy, otherwise it fails without cloud provider](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/27) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [fix(base-cluster/descheduler): don't remove pods with too many restarts](https://github.com/teutonet/teutonet-helm-charts/pull/1744) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [chore: migrate to new CAPI contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/30) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat(base-cluster/backup)!: add k8up provider](https://github.com/teutonet/teutonet-helm-charts/pull/1751) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix: don't set NODE_IP for kubeproxy, otherwise it fails without cloud provider](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/27) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [fix(base-cluster/descheduler): don't remove pods with too many restarts](https://github.com/teutonet/teutonet-helm-charts/pull/1744) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(ci): fix license linting; lint the real PR, not main](https://github.com/teutonet/teutonet-helm-charts/pull/1739) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(base-cluster): conditions must the `true`, not just truthy](https://github.com/teutonet/teutonet-helm-charts/pull/1738) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add whole lifecycle test](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/26) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(base-cluster/tracing): add gateway to enable tail sampling](https://github.com/teutonet/teutonet-helm-charts/pull/1736) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/kdave): remove kdave](https://github.com/teutonet/teutonet-helm-charts/pull/1724) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -89,7 +89,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (1 month ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (6 months ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (7 months ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (7 months ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (8 months ago)
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
