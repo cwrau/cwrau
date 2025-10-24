@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): use the correct prometheus datasource id](https://github.com/teutonet/teutonet-helm-charts/pull/1764) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): add missing license info](https://github.com/teutonet/teutonet-helm-charts/pull/1761) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster/management-cluster): switch to hcp](https://github.com/teutonet/teutonet-helm-charts/pull/1759) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore(t8s-cluster/flux): use centralised HelmRepositories instead of per-instance](https://github.com/teutonet/teutonet-helm-charts/pull/1758) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: migrate to new CAPI contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/30) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [feat(base-cluster/backup)!: add k8up provider](https://github.com/teutonet/teutonet-helm-charts/pull/1751) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix: don't set NODE_IP for kubeproxy, otherwise it fails without cloud provider](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/27) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [fix(base-cluster/descheduler): don't remove pods with too many restarts](https://github.com/teutonet/teutonet-helm-charts/pull/1744) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
