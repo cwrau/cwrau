@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-24-equal-iron](https://github.com/mason-org/mason-registry/releases/tag/2025-10-24-equal-iron), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.0), 1 day ago) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.1), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.7](https://github.com/grafana/loki/releases/tag/v3.5.7), 1 week ago) - Like Prometheus, but for logs.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: create a new ctx with cancel for each call](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/33) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore: add missing metadata.yaml to be compatible with cluster-api-operator](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/32) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(base-cluster/ingress): add missing `prometheus` block 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1767) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring): use the correct prometheus datasource id](https://github.com/teutonet/teutonet-helm-charts/pull/1764) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common/helm): add option to set namespace of HelmRepository](https://github.com/teutonet/teutonet-helm-charts/pull/1757) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster/management-cluster): add cluster-autoscaler deployment](https://github.com/teutonet/teutonet-helm-charts/pull/1756) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(t8s-cluster/management-cluster): fix replicas type checking](https://github.com/teutonet/teutonet-helm-charts/pull/1754) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore: migrate to new CAPI contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/30) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 
 #### 📓 Gists I wrote
 
