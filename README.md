@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (4 weeks ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (1 month ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-24-lazy-chrome](https://github.com/mason-org/mason-registry/releases/tag/2025-10-24-lazy-chrome), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-24-equal-iron](https://github.com/mason-org/mason-registry/releases/tag/2025-10-24-equal-iron), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.0), 1 day ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.1), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add missing metadata.yaml to be compatible with cluster-api-operator](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/32) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [fix(base-cluster/ingress): add missing `prometheus` block 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1767) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring): use the correct prometheus datasource id](https://github.com/teutonet/teutonet-helm-charts/pull/1764) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): add missing license info](https://github.com/teutonet/teutonet-helm-charts/pull/1761) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(t8s-cluster/management-cluster): switch to hcp](https://github.com/teutonet/teutonet-helm-charts/pull/1759) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster/management-cluster): add cluster-autoscaler deployment](https://github.com/teutonet/teutonet-helm-charts/pull/1756) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(t8s-cluster/management-cluster): fix replicas type checking](https://github.com/teutonet/teutonet-helm-charts/pull/1754) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore: migrate to new CAPI contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/30) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [feat(base-cluster/backup)!: add k8up provider](https://github.com/teutonet/teutonet-helm-charts/pull/1751) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix: don't set NODE_IP for kubeproxy, otherwise it fails without cloud provider](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/27) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -81,10 +81,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 week ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (3 weeks ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (3 weeks ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 month ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 month ago)
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (1 month ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (6 months ago)
