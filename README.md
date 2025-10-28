@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-27-bored-basin](https://github.com/mason-org/mason-registry/releases/tag/2025-10-27-bored-basin), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-28-skinny-ring](https://github.com/mason-org/mason-registry/releases/tag/2025-10-28-skinny-ring), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.1), 1 day ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
