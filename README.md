@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-01-dusty-dryer](https://github.com/mason-org/mason-registry/releases/tag/2025-11-01-dusty-dryer), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 1 day ago) - 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-01-dusty-dryer](https://github.com/mason-org/mason-registry/releases/tag/2025-11-01-dusty-dryer), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 2 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 2 weeks ago) - 
