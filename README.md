@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-04-lowly-angel](https://github.com/mason-org/mason-registry/releases/tag/2025-11-04-lowly-angel), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-04-spicy-column](https://github.com/mason-org/mason-registry/releases/tag/2025-11-04-spicy-column), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 1 day ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 4 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
