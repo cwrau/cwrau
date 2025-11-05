@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: don't remove entities for devices that no longer exist](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/44) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (today)
+- [feat: improve device entity handling](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/43) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (today)
 - [feat: allow device removal for non ap/modem devices](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/42) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (today)
 - [feat: check session expiration instead of using exceptions or errors](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/41) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (today)
 - [fix: create a new ctx with cancel for each call](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/33) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/monitoring): use the correct prometheus datasource id](https://github.com/teutonet/teutonet-helm-charts/pull/1764) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster): add missing license info](https://github.com/teutonet/teutonet-helm-charts/pull/1761) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/management-cluster): switch to hcp](https://github.com/teutonet/teutonet-helm-charts/pull/1759) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [chore(t8s-cluster/flux): use centralised HelmRepositories instead of per-instance](https://github.com/teutonet/teutonet-helm-charts/pull/1758) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat(common/helm): add option to set namespace of HelmRepository](https://github.com/teutonet/teutonet-helm-charts/pull/1757) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
