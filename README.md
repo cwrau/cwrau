@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
 - [cwrau/crd-wizard](https://github.com/cwrau/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [cwrau/telepresence](https://github.com/cwrau/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -43,11 +44,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [cwrau/mason-lspconfig.nvim](https://github.com/cwrau/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
-- [cwrau/mason-registry](https://github.com/cwrau/mason-registry) - Core registry for mason.nvim.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-05-clumsy-theory](https://github.com/mason-org/mason-registry/releases/tag/2025-11-05-clumsy-theory), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-05-slim-pike](https://github.com/mason-org/mason-registry/releases/tag/2025-11-05-slim-pike), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 2 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 5 days ago) - 
