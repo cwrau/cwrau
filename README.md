@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-07-rural-tongue](https://github.com/mason-org/mason-registry/releases/tag/2025-11-07-rural-tongue), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-07-ablaze-minnow](https://github.com/mason-org/mason-registry/releases/tag/2025-11-07-ablaze-minnow), today) - Core registry for mason.nvim.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 1 day ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.16](https://github.com/grafana/loki/releases/tag/v2.9.16), 2 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
