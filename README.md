@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1-rc.1), today) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-10-groovy-regret](https://github.com/mason-org/mason-registry/releases/tag/2025-11-10-groovy-regret), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 3 days ago) - Like Prometheus, but for logs.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 4 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
