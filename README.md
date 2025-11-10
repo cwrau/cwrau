@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 days ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
@@ -47,23 +47,23 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-09-bright-soap](https://github.com/mason-org/mason-registry/releases/tag/2025-11-09-bright-soap), today) - Core registry for mason.nvim.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 2 days ago) - Like Prometheus, but for logs.
-- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 3 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 6 days ago) - AI powered Kubernetes Assistant
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-09-bright-soap](https://github.com/mason-org/mason-registry/releases/tag/2025-11-09-bright-soap), 1 day ago) - Core registry for mason.nvim.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 3 days ago) - Like Prometheus, but for logs.
+- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 4 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 1 week ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 1 week ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), 2 weeks ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.5](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.5), 2 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.5](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.5), 3 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.0), 3 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: don't remove entities for devices that no longer exist](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/44) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (4 days ago)
-- [feat: improve device entity handling](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/43) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (4 days ago)
-- [feat: allow device removal for non ap/modem devices](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/42) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (4 days ago)
-- [feat: check session expiration instead of using exceptions or errors](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/41) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (4 days ago)
+- [feat: don't remove entities for devices that no longer exist](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/44) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (5 days ago)
+- [feat: improve device entity handling](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/43) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (5 days ago)
+- [feat: allow device removal for non ap/modem devices](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/42) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (5 days ago)
+- [feat: check session expiration instead of using exceptions or errors](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/41) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (5 days ago)
 - [fix: create a new ctx with cancel for each call](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/33) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [chore: add missing metadata.yaml to be compatible with cluster-api-operator](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/32) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [fix(base-cluster/ingress): add missing `prometheus` block 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1767) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -82,7 +82,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### ⭐ Recent Stars
 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (4 weeks ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 month ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (1 month ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 month ago)
