@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-11-smelly-fight](https://github.com/mason-org/mason-registry/releases/tag/2025-11-11-smelly-fight), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-12-aged-dancer](https://github.com/mason-org/mason-registry/releases/tag/2025-11-12-aged-dancer), today) - Core registry for mason.nvim.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.6](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.6), 1 day ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 5 days ago) - Like Prometheus, but for logs.
