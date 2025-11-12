@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-12-marked-chip](https://github.com/mason-org/mason-registry/releases/tag/2025-11-12-marked-chip), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.0), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-12-filthy-block](https://github.com/mason-org/mason-registry/releases/tag/2025-11-12-filthy-block), today) - Core registry for mason.nvim.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.6](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.6), 1 day ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.17](https://github.com/grafana/loki/releases/tag/v2.9.17), 5 days ago) - Like Prometheus, but for logs.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 6 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
