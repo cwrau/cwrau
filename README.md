@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (6 days ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), today) - Like Prometheus, but for logs.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.1), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-17-third-shame](https://github.com/mason-org/mason-registry/releases/tag/2025-11-17-third-shame), today) - Core registry for mason.nvim.
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.6](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.6), 6 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), 1 day ago) - Like Prometheus, but for logs.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-17-third-shame](https://github.com/mason-org/mason-registry/releases/tag/2025-11-17-third-shame), 1 day ago) - Core registry for mason.nvim.
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.6](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.6), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 1 week ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.0), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 2 weeks ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.0.3](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.0.3), 2 weeks ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.2.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.2.2), 3 weeks ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
@@ -73,7 +73,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 📓 Gists I wrote
 
-- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (1 month ago)
+- [CLA](https://gist.github.com/25774117f2cbad034d49ebbf705dad08) (2 months ago)
 - [](https://gist.github.com/85c73a60676b98638dc9789155cef9b3) (8 months ago)
 - [](https://gist.github.com/69a382004ce7326d792ff10d6c26e553) (8 months ago)
 - [](https://gist.github.com/f0bf8a208067c4bce5e8731c4caf5adc) (8 months ago)
