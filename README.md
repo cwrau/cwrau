@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 week ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add hash for kube-root-ca.crt configmap to konnectivity-agent](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/38) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: always create new titleCaser](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/37) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: use correct namespace for dev](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/36) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(base-cluster/logging): enable automatic resizing](https://github.com/teutonet/teutonet-helm-charts/pull/1785) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: allow device removal for non ap/modem devices](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/42) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 weeks ago)
 - [feat: check session expiration instead of using exceptions or errors](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/41) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 weeks ago)
 - [fix: create a new ctx with cancel for each call](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/33) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
-- [chore: add missing metadata.yaml to be compatible with cluster-api-operator](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/32) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
