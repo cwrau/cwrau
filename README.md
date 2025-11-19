@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-19-active-cherry](https://github.com/mason-org/mason-registry/releases/tag/2025-11-19-active-cherry), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-19-rural-kangaroo](https://github.com/mason-org/mason-registry/releases/tag/2025-11-19-rural-kangaroo), today) - Core registry for mason.nvim.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), today) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-beta.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-beta.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.0](https://github.com/grafana/loki/releases/tag/v3.6.0), 2 days ago) - Like Prometheus, but for logs.
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: always create new titleCaser](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/37) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [fix: use correct namespace for dev](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/36) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(base-cluster/logging): enable automatic resizing](https://github.com/teutonet/teutonet-helm-charts/pull/1785) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring): alertmanager condition](https://github.com/teutonet/teutonet-helm-charts/pull/1781) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: don't remove entities for devices that no longer exist](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/44) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 weeks ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: check session expiration instead of using exceptions or errors](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/41) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 weeks ago)
 - [fix: create a new ctx with cancel for each call](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/33) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 - [chore: add missing metadata.yaml to be compatible with cluster-api-operator](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/32) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
-- [fix(base-cluster/ingress): add missing `prometheus` block 🙄](https://github.com/teutonet/teutonet-helm-charts/pull/1767) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [fix(base-cluster/monitoring): use the correct prometheus datasource id](https://github.com/teutonet/teutonet-helm-charts/pull/1764) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
