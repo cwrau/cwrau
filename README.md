@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: system_stat was completely missing, this enables cpu usage fix: swap handling, otherwise it's just "unknown", although it's just 0](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/57) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (today)
 - [feat: auto-generate the metadata.yaml instead of manually adjusting it](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/42) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: update k8s dependencies + dependants](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/41) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(t8s-cluster/management-cluster): enable ImageVolume feature flag](https://github.com/teutonet/teutonet-helm-charts/pull/1786) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: always create new titleCaser](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/37) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [fix: use correct namespace for dev](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/36) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [feat(base-cluster/logging): enable automatic resizing](https://github.com/teutonet/teutonet-helm-charts/pull/1785) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(base-cluster/monitoring): alertmanager condition](https://github.com/teutonet/teutonet-helm-charts/pull/1781) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
