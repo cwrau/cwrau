@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-25-jolly-slope](https://github.com/mason-org/mason-registry/releases/tag/2025-11-25-jolly-slope), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), today) - Like Prometheus, but for logs.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-25-somber-handle](https://github.com/mason-org/mason-registry/releases/tag/2025-11-25-somber-handle), today) - Core registry for mason.nvim.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.4.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.4.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.6.0), 4 days ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), 6 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
