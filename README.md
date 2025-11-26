@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-26-smarmy-weasel](https://github.com/mason-org/mason-registry/releases/tag/2025-11-26-smarmy-weasel), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-26-public-blenny](https://github.com/mason-org/mason-registry/releases/tag/2025-11-26-public-blenny), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 1 day ago) - Like Prometheus, but for logs.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.4.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.4.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
