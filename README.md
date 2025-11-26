@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), today) - Cluster API implementation for OpenStack
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-26-public-blenny](https://github.com/mason-org/mason-registry/releases/tag/2025-11-26-public-blenny), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 1 day ago) - Like Prometheus, but for logs.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 2 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.27](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.27), 3 weeks ago) - AI powered Kubernetes Assistant
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.1](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.1), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
