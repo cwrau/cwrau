@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-27-charming-slip](https://github.com/mason-org/mason-registry/releases/tag/2025-11-27-charming-slip), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-27-queasy-ilisha](https://github.com/mason-org/mason-registry/releases/tag/2025-11-27-queasy-ilisha), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), 1 day ago) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 2 days ago) - Like Prometheus, but for logs.
