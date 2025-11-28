@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.1), today) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-28-fussy-tile](https://github.com/mason-org/mason-registry/releases/tag/2025-11-28-fussy-tile), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), 2 days ago) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster/management-cluster): leave out protocol if `nil`](https://github.com/teutonet/teutonet-helm-charts/pull/1837) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/tracing): use correct resources for tracing gateway](https://github.com/teutonet/teutonet-helm-charts/pull/1832) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster/cilium): enable kubeProxy replacement](https://github.com/teutonet/teutonet-helm-charts/pull/1815) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat: add pod cidr to ControllerManager fix: json name of disabled field for KubeProxy](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/57) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: system_stat was completely missing, this enables cpu usage fix: swap handling, otherwise it's just "unknown", although it's just 0](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/57) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
 - [feat: auto-generate the metadata.yaml instead of manually adjusting it](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/42) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat: update k8s dependencies + dependants](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/41) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat(t8s-cluster/management-cluster): enable ImageVolume feature flag](https://github.com/teutonet/teutonet-helm-charts/pull/1786) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
