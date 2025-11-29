@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-29-alike-mantra](https://github.com/mason-org/mason-registry/releases/tag/2025-11-29-alike-mantra), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-29-sane-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-11-29-sane-rhino), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.1), 1 day ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), 3 days ago) - Cluster API implementation for OpenStack
