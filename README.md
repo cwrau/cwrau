@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-29-sane-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-11-29-sane-rhino), today) - Core registry for mason.nvim.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.1), 1 day ago) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), 3 days ago) - Cluster API implementation for OpenStack
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 4 days ago) - Like Prometheus, but for logs.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-29-sane-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-11-29-sane-rhino), 1 day ago) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.1), 2 days ago) - 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 2 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.6](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.6), 4 days ago) - Cluster API implementation for OpenStack
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.0), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.2](https://github.com/grafana/loki/releases/tag/v3.6.2), 5 days ago) - Like Prometheus, but for logs.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 3 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
@@ -60,13 +60,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster/management-cluster): leave out protocol if `nil`](https://github.com/teutonet/teutonet-helm-charts/pull/1837) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(base-cluster/tracing): use correct resources for tracing gateway](https://github.com/teutonet/teutonet-helm-charts/pull/1832) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(t8s-cluster/cilium): enable kubeProxy replacement](https://github.com/teutonet/teutonet-helm-charts/pull/1815) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat: add pod cidr to ControllerManager fix: json name of disabled field for KubeProxy](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/57) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [feat: add nix dev-shell](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/51) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [chore: make the generation of the metadata.yaml additive](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/50) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [chore: adjust to new control-plane contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/48) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [fix(t8s-cluster/management-cluster): leave out protocol if `nil`](https://github.com/teutonet/teutonet-helm-charts/pull/1837) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(base-cluster/tracing): use correct resources for tracing gateway](https://github.com/teutonet/teutonet-helm-charts/pull/1832) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(t8s-cluster/cilium): enable kubeProxy replacement](https://github.com/teutonet/teutonet-helm-charts/pull/1815) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat: add pod cidr to ControllerManager fix: json name of disabled field for KubeProxy](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/57) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [feat: add nix dev-shell](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/51) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [chore: make the generation of the metadata.yaml additive](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/50) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [chore: adjust to new control-plane contract](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/48) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [fix: system_stat was completely missing, this enables cpu usage fix: swap handling, otherwise it's just "unknown", although it's just 0](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/57) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
 - [feat: auto-generate the metadata.yaml instead of manually adjusting it](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/42) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat: update k8s dependencies + dependants](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/41) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (6 days ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 month ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 months ago)
