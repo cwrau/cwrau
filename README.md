@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-03-bubbly-jungle](https://github.com/mason-org/mason-registry/releases/tag/2025-12-03-bubbly-jungle), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-03-north-reason](https://github.com/mason-org/mason-registry/releases/tag/2025-12-03-north-reason), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 1 day ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.1), 1 day ago) - Cluster API implementation for OpenStack
