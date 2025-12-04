@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster/management-cluster): use new KubeletEnsureSecretPulledImages feature gate](https://github.com/teutonet/teutonet-helm-charts/pull/1858) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): only allow nodePools with valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/1851) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix: clear old session_id before login, otherwise login fails](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/60) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 days ago)
 - [feat: propagate ssl verify parameter (and timeout) feat: add config option to verify ssl](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/59) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/ingress): update gateway api](https://github.com/teutonet/teutonet-helm-charts/pull/1843) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(t8s-cluster/management-cluster): leave out protocol if `nil`](https://github.com/teutonet/teutonet-helm-charts/pull/1837) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/tracing): use correct resources for tracing gateway](https://github.com/teutonet/teutonet-helm-charts/pull/1832) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster/cilium): enable kubeProxy replacement](https://github.com/teutonet/teutonet-helm-charts/pull/1815) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
