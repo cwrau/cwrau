@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 1 day ago) - Like Prometheus, but for logs.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-04-wiry-beauty](https://github.com/mason-org/mason-registry/releases/tag/2025-12-04-wiry-beauty), 1 day ago) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.1), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 3 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.1), 3 days ago) - Cluster API implementation for OpenStack
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.1), 1 week ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), 2 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), 3 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
