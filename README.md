@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-07-stuck-flute](https://github.com/mason-org/mason-registry/releases/tag/2025-12-07-stuck-flute), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v10.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v10.1.2), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 3 days ago) - Like Prometheus, but for logs.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-04-wiry-beauty](https://github.com/mason-org/mason-registry/releases/tag/2025-12-04-wiry-beauty), 3 days ago) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.1), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 5 days ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.1), 5 days ago) - Cluster API implementation for OpenStack
