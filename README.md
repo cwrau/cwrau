@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-09-inland-king](https://github.com/mason-org/mason-registry/releases/tag/2025-12-09-inland-king), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.7.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-09-absurd-santa](https://github.com/mason-org/mason-registry/releases/tag/2025-12-09-absurd-santa), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 5 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.0-rc.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 1 week ago) - AI powered Kubernetes Assistant
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo] feat: delete statefulset if the volumeClaimTemplate changes](https://github.com/grafana/helm-charts/pull/4044) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [fix(t8s-cluster/autoscaler): these names are inside the workload cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1877) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): install cog before using it...](https://github.com/teutonet/teutonet-helm-charts/pull/1876) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring)!: grafana-tempo-distributed would need s3](https://github.com/teutonet/teutonet-helm-charts/pull/1875) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster): only allow nodePools with valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/1851) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix: clear old session_id before login, otherwise login fails](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/60) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
 - [feat: propagate ssl verify parameter (and timeout) feat: add config option to verify ssl](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/59) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
-- [feat(t8s-cluster/artifacthub): use centralised helmRepositories template](https://github.com/teutonet/teutonet-helm-charts/pull/1846) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
