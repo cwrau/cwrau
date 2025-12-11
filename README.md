@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), today) - Like Prometheus, but for logs.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-11-busy-calf](https://github.com/mason-org/mason-registry/releases/tag/2025-12-11-busy-calf), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.4), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.9.0](https://github.com/grafana/loki/releases/tag/operator/v0.9.0), 1 week ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 1 week ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.1), 1 week ago) - Cluster API implementation for OpenStack
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: check for CVEs during linting](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/66) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [[tempo] feat: delete statefulset if the volumeClaimTemplate changes](https://github.com/grafana/helm-charts/pull/4044) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
 - [fix(t8s-cluster/autoscaler): these names are inside the workload cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1877) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(ci): install cog before using it...](https://github.com/teutonet/teutonet-helm-charts/pull/1876) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster/management-cluster): use new KubeletEnsureSecretPulledImages feature gate](https://github.com/teutonet/teutonet-helm-charts/pull/1858) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): only allow nodePools with valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/1851) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix: clear old session_id before login, otherwise login fails](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/60) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
-- [feat: propagate ssl verify parameter (and timeout) feat: add config option to verify ssl](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/59) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (1 week ago)
 
 #### 📓 Gists I wrote
 
