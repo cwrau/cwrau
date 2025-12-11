@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (2 months ago)
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage. (3 months ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (3 months ago)
-- [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.58.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.58.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-11-fluid-angle](https://github.com/mason-org/mason-registry/releases/tag/2025-12-11-fluid-angle), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), today) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), today) - 
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), 3 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.1), 1 month ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.4](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.4), 1 month ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 
 #### 🔨 My recent Pull Requests
 
