@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-12-visual-agency](https://github.com/mason-org/mason-registry/releases/tag/2025-12-12-visual-agency), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-13-flat-mallet](https://github.com/mason-org/mason-registry/releases/tag/2025-12-13-flat-mallet), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.49.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.49.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 2 days ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), 2 days ago) - 
