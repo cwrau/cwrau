@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-15-bowed-secret](https://github.com/mason-org/mason-registry/releases/tag/2025-12-15-bowed-secret), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.373](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.373), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-15-moral-tights](https://github.com/mason-org/mason-registry/releases/tag/2025-12-15-moral-tights), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 4 days ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), 4 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.4), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
