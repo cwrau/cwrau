@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-ahead-butane](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-ahead-butane), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-jagged-beef](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-jagged-beef), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.1), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 6 days ago) - Like Prometheus, but for logs.
