@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.59.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.59.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.4](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.4), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-pure-teller](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-pure-teller), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.0), today) - Cluster API implementation for OpenStack
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
