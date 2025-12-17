@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.2](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.2), today) - Cluster API implementation for OpenStack
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.0), today) - Cluster API implementation for OpenStack
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-jagged-beef](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-jagged-beef), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.39.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.39.1), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
