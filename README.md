@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.10.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.10.4), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), today) - Cluster API implementation for OpenStack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-sordid-flour](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-sordid-flour), 1 day ago) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 week ago) - Like Prometheus, but for logs.
