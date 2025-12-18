@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), today) - Cluster API implementation for OpenStack
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-sordid-flour](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-sordid-flour), 1 day ago) - Core registry for mason.nvim.
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.0), 1 day ago) - Cluster API implementation for OpenStack
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), 1 week ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.4), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 2 weeks ago) - AI powered Kubernetes Assistant
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.5.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.5.0), 2 weeks ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.7](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.7), 4 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
