@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-19-abaft-zoo](https://github.com/mason-org/mason-registry/releases/tag/2025-12-19-abaft-zoo), 2 days ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-21-grubby-nose](https://github.com/mason-org/mason-registry/releases/tag/2025-12-21-grubby-nose), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.0), 3 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), 3 days ago) - Cluster API implementation for OpenStack
