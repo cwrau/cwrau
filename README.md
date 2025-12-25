@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-25-jolly-wrist](https://github.com/mason-org/mason-registry/releases/tag/2025-12-25-jolly-wrist), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.1), today) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.3](https://github.com/homeport/dyff/releases/tag/v1.10.3), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.8](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.8), 1 day ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.25.2-test.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.25.2-test.4), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), 1 week ago) - Cluster API implementation for OpenStack
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 2 weeks ago) - Like Prometheus, but for logs.
