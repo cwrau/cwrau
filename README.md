@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-01-fancy-kayak](https://github.com/mason-org/mason-registry/releases/tag/2026-01-01-fancy-kayak), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-01-tough-aruana](https://github.com/mason-org/mason-registry/releases/tag/2026-01-01-tough-aruana), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.3), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.3](https://github.com/homeport/dyff/releases/tag/v1.10.3), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
