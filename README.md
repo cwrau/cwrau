@@ -10,7 +10,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 weeks ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 months ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 months ago)
@@ -47,28 +47,28 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-31-dirty-denim](https://github.com/mason-org/mason-registry/releases/tag/2025-12-31-dirty-denim), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), today) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.3), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-31-dirty-denim](https://github.com/mason-org/mason-registry/releases/tag/2025-12-31-dirty-denim), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-10.4.3), 1 day ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.3), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.3](https://github.com/homeport/dyff/releases/tag/v1.10.3), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.8](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.8), 1 week ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), 1 week ago) - Cluster API implementation for OpenStack
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 2 weeks ago) - Like Prometheus, but for logs.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), 2 weeks ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 4 weeks ago) - AI powered Kubernetes Assistant
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.1), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-alpha.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-alpha.1), 2 weeks ago) - Cluster API implementation for OpenStack
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.3](https://github.com/grafana/loki/releases/tag/v3.6.3), 3 weeks ago) - Like Prometheus, but for logs.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.0), 3 weeks ago) - 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.28](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.28), 1 month ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
 - [fix(ci/code-scanning): manually set upstream](https://github.com/teutonet/teutonet-helm-charts/pull/1880) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
-- [feat: check for CVEs during linting](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/66) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
+- [feat: check for CVEs during linting](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/66) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 - [[tempo] feat: delete statefulset if the volumeClaimTemplate changes](https://github.com/grafana/helm-charts/pull/4044) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 weeks ago)
 - [fix(t8s-cluster/autoscaler): these names are inside the workload cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1877) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(ci): install cog before using it...](https://github.com/teutonet/teutonet-helm-charts/pull/1876) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(base-cluster/monitoring)!: grafana-tempo-distributed would need s3](https://github.com/teutonet/teutonet-helm-charts/pull/1875) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat: get the resources before deletion to only delete if necessary](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/65) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
-- [fix(base-cluster/monitoring): move imageRenderer config to correct place](https://github.com/teutonet/teutonet-helm-charts/pull/1860) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat(t8s-cluster/management-cluster): use new KubeletEnsureSecretPulledImages feature gate](https://github.com/teutonet/teutonet-helm-charts/pull/1858) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
+- [fix(base-cluster/monitoring): move imageRenderer config to correct place](https://github.com/teutonet/teutonet-helm-charts/pull/1860) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat(t8s-cluster/management-cluster): use new KubeletEnsureSecretPulledImages feature gate](https://github.com/teutonet/teutonet-helm-charts/pull/1858) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [fix(t8s-cluster): only allow nodePools with valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/1851) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 
 #### 📓 Gists I wrote
