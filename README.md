@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): use correct grafana-tempo url](https://github.com/teutonet/teutonet-helm-charts/pull/1881) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci/code-scanning): manually set upstream](https://github.com/teutonet/teutonet-helm-charts/pull/1880) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat: check for CVEs during linting](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/66) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 - [[tempo] feat: delete statefulset if the volumeClaimTemplate changes](https://github.com/grafana/helm-charts/pull/4044) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: get the resources before deletion to only delete if necessary](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/65) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 month ago)
 - [fix(base-cluster/monitoring): move imageRenderer config to correct place](https://github.com/teutonet/teutonet-helm-charts/pull/1860) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [feat(t8s-cluster/management-cluster): use new KubeletEnsureSecretPulledImages feature gate](https://github.com/teutonet/teutonet-helm-charts/pull/1858) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [fix(t8s-cluster): only allow nodePools with valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/1851) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
