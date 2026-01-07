@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-07-dismal-rotate](https://github.com/mason-org/mason-registry/releases/tag/2026-01-07-dismal-rotate), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-07-senior-cerium](https://github.com/mason-org/mason-registry/releases/tag/2026-01-07-senior-cerium), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.2.0), today) - 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.9](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.9), 6 days ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.3), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): add missing kube-prometheus-stack image(s/licenses)](https://github.com/teutonet/teutonet-helm-charts/pull/1888) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): jq argument overflow...](https://github.com/teutonet/teutonet-helm-charts/pull/1882) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): use correct grafana-tempo url](https://github.com/teutonet/teutonet-helm-charts/pull/1881) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci/code-scanning): manually set upstream](https://github.com/teutonet/teutonet-helm-charts/pull/1880) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): install cog before using it...](https://github.com/teutonet/teutonet-helm-charts/pull/1876) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [fix(base-cluster/monitoring)!: grafana-tempo-distributed would need s3](https://github.com/teutonet/teutonet-helm-charts/pull/1875) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [feat: get the resources before deletion to only delete if necessary](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/65) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 month ago)
-- [fix(base-cluster/monitoring): move imageRenderer config to correct place](https://github.com/teutonet/teutonet-helm-charts/pull/1860) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
