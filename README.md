@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-08-warm-canary](https://github.com/mason-org/mason-registry/releases/tag/2026-01-08-warm-canary), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.10), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-08-rigid-metal](https://github.com/mason-org/mason-registry/releases/tag/2026-01-08-rigid-metal), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.4](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.4), 1 day ago) - 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.9](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.9), 1 week ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
