@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [mikechiloane](https://github.com/mikechiloane)
 - [tonisives](https://github.com/tonisives)
 - [Babbili](https://github.com/Babbili)
 - [evelynmitchell](https://github.com/evelynmitchell)
 - [samsorrahman](https://github.com/samsorrahman)
-- [diogoplk](https://github.com/diogoplk)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
