@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.7](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.7), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-14-quick-beech](https://github.com/mason-org/mason-registry/releases/tag/2026-01-14-quick-beech), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.7](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.7), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.6), 1 day ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-beta.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-beta.0), 2 days ago) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.10), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.0.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.0.1), 6 days ago) - 
