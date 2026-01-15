@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-armed-lightning](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-armed-lightning), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-rc.0), today) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.5.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.5.0), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-utter-murder](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-utter-murder), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.8), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.7](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.7), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.10), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
