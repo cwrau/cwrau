@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-armed-lightning](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-armed-lightning), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-muddy-crust](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-muddy-crust), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-rc.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-rc.0), today) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.5.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.5.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.8), today) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [Update taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/80) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: enable workflows for merge queue](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/79) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: auto-merge Dependabot PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/78) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore: Revert "fix: pass correct port to konnectivity workload reconciler"](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/77) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/ingress): disable traefik apiCheck](https://github.com/teutonet/teutonet-helm-charts/pull/1902) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(common/networkpolicy): add support for konnectivity-agent deployment](https://github.com/teutonet/teutonet-helm-charts/pull/1901) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/tetragon): update flux apiVersion](https://github.com/teutonet/teutonet-helm-charts/pull/1900) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [chore: add nix flake, taskfile and improve various scripts](https://github.com/teutonet/teutonet-helm-charts/pull/1899) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 
 #### 📓 Gists I wrote
 
