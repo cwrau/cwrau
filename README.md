@@ -9,7 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 month ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 months ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-utter-murder](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-utter-murder), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.8), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-15-bronze-piano](https://github.com/mason-org/mason-registry/releases/tag/2026-01-15-bronze-piano), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.7](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.7), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.0-beta.0](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.0-beta.0), 3 days ago) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.10.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.10.10), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: enable workflows for merge queue](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/79) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat: auto-merge Dependabot PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/78) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [chore: Revert "fix: pass correct port to konnectivity workload reconciler"](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/77) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore: check-diff doesn't make sense locally](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/76) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: spec is a required field in the HostedControlPlaneTemplate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/75) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: update docs to keep in line with reality](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/74) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common/networkpolicy): add support for konnectivity-agent deployment](https://github.com/teutonet/teutonet-helm-charts/pull/1901) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(base-cluster/tetragon): update flux apiVersion](https://github.com/teutonet/teutonet-helm-charts/pull/1900) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [chore: add nix flake, taskfile and improve various scripts](https://github.com/teutonet/teutonet-helm-charts/pull/1899) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(t8s-cluster/management-cluster): set apiServerLoadBalancer.provider via TeutonetesCloud](https://github.com/teutonet/teutonet-helm-charts/pull/1898) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(base-cluster/monitoring): add missing kube-prometheus-stack image(s/licenses)](https://github.com/teutonet/teutonet-helm-charts/pull/1888) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): jq argument overflow...](https://github.com/teutonet/teutonet-helm-charts/pull/1882) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
