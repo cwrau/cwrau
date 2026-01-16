@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
 - [cwrau/k8s-conformance](https://github.com/cwrau/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
 - [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-- [cwrau/nvim-lspconfig](https://github.com/cwrau/nvim-lspconfig) - Quickstart configs for Nvim LSP
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] feat: add option to add aggregationRule](https://github.com/prometheus-community/helm-charts/pull/6488) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [feat: add `trimpath` while building](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/81) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [fix(t8s-cluster/management-cluster): migrate missed field after upgrade](https://github.com/teutonet/teutonet-helm-charts/pull/1910) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [Update taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/80) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: enable workflows for merge queue](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/79) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: auto-merge Dependabot PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/78) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: check-diff doesn't make sense locally](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/76) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [fix: spec is a required field in the HostedControlPlaneTemplate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/75) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: update docs to keep in line with reality](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/74) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [fix(base-cluster/ingress): disable traefik apiCheck](https://github.com/teutonet/teutonet-helm-charts/pull/1902) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(common/networkpolicy): add support for konnectivity-agent deployment](https://github.com/teutonet/teutonet-helm-charts/pull/1901) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(base-cluster/tetragon): update flux apiVersion](https://github.com/teutonet/teutonet-helm-charts/pull/1900) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
