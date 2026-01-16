@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster): update kyverno](https://github.com/teutonet/teutonet-helm-charts/pull/1918) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [[kube-state-metrics] feat: add option to add aggregationRule](https://github.com/prometheus-community/helm-charts/pull/6488) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: add `trimpath` while building](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/81) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(t8s-cluster/management-cluster): migrate missed field after upgrade](https://github.com/teutonet/teutonet-helm-charts/pull/1910) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: Revert "fix: pass correct port to konnectivity workload reconciler"](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/77) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [chore: check-diff doesn't make sense locally](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/76) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [fix: spec is a required field in the HostedControlPlaneTemplate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/75) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat: update docs to keep in line with reality](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/74) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 
 #### 📓 Gists I wrote
 
