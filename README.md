@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-19-murky-flight](https://github.com/mason-org/mason-registry/releases/tag/2026-01-19-murky-flight), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-19-thorny-board](https://github.com/mason-org/mason-registry/releases/tag/2026-01-19-thorny-board), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.3.0), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.5.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.5.1), 3 days ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-cloud-controller-manager-2.34.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-cloud-controller-manager-2.34.2), 3 days ago) - 
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(openstack-cloud-controller-manager): add option to change deployment type](https://github.com/kubernetes/cloud-provider-openstack/pull/3043) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (today)
+- [fix(base-cluster/monitoring): adjust for short-lived certificates](https://github.com/teutonet/teutonet-helm-charts/pull/1921) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster): update kyverno](https://github.com/teutonet/teutonet-helm-charts/pull/1918) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [[kube-state-metrics] feat: add option to add aggregationRule](https://github.com/prometheus-community/helm-charts/pull/6488) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [feat: add `trimpath` while building](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/81) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: enable workflows for merge queue](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/79) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [feat: auto-merge Dependabot PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/78) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [chore: Revert "fix: pass correct port to konnectivity workload reconciler"](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/77) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [chore: check-diff doesn't make sense locally](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/76) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [fix: spec is a required field in the HostedControlPlaneTemplate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/75) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 
 #### 📓 Gists I wrote
 
