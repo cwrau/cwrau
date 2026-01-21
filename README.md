@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.2), today) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.2), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-21-winged-pimple](https://github.com/mason-org/mason-registry/releases/tag/2026-01-21-winged-pimple), today) - Core registry for mason.nvim.
@@ -54,7 +55,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), today) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.378](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.378), 1 day ago) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-test.7](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-test.7), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.9](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.9), 2 weeks ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.3](https://github.com/homeport/dyff/releases/tag/v1.10.3), 4 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
