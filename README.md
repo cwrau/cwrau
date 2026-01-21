@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-21-worse-harbor](https://github.com/mason-org/mason-registry/releases/tag/2026-01-21-worse-harbor), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.12.7](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.12.7), today) - Cluster API implementation for OpenStack
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-21-wilted-cod](https://github.com/mason-org/mason-registry/releases/tag/2026-01-21-wilted-cod), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.378](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.378), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.5.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.5.1), 5 days ago) - 
