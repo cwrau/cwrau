@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.9](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.9), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-22-noble-salt](https://github.com/mason-org/mason-registry/releases/tag/2026-01-22-noble-salt), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.51.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.51.0), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 1 day ago) - AI powered Kubernetes Assistant
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.4.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.4.2), 1 day ago) - 
