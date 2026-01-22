@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.10](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.10), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-22-breezy-use](https://github.com/mason-org/mason-registry/releases/tag/2026-01-22-breezy-use), today) - Core registry for mason.nvim.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 1 day ago) - AI powered Kubernetes Assistant
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
