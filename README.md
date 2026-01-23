@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.3), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-23-pink-tanker](https://github.com/mason-org/mason-registry/releases/tag/2026-01-23-pink-tanker), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), today) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.2), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.12](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.12), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 2 days ago) - AI powered Kubernetes Assistant
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.2), 2 days ago) - 
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use the SchemaURL of the defaultResource](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/90) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: use more specific tolerations for coredns](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/88) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(openstack-cloud-controller-manager): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3063) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (today)
 - [feat(base-cluster/monitoring): add alert about base-cluster updates](https://github.com/teutonet/teutonet-helm-charts/pull/1937) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(openstack-cloud-controller-manager): add option to change deployment type](https://github.com/kubernetes/cloud-provider-openstack/pull/3043) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (4 days ago)
 - [fix(base-cluster/monitoring): adjust for short-lived certificates](https://github.com/teutonet/teutonet-helm-charts/pull/1921) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [chore(base-cluster): update kyverno](https://github.com/teutonet/teutonet-helm-charts/pull/1918) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [[kube-state-metrics] feat: add option to add aggregationRule](https://github.com/prometheus-community/helm-charts/pull/6488) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [feat: add `trimpath` while building](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/81) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
