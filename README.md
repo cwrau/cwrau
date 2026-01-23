@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-23-livid-locust](https://github.com/mason-org/mason-registry/releases/tag/2026-01-23-livid-locust), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-23-west-vest](https://github.com/mason-org/mason-registry/releases/tag/2026-01-23-west-vest), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.12](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.12), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.5.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.5.2), 1 day ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/monitoring): add alert about base-cluster updates](https://github.com/teutonet/teutonet-helm-charts/pull/1937) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/workload-cluster): add missing tolerations](https://github.com/teutonet/teutonet-helm-charts/pull/1933) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster/workload-cluster): add toleration for cilium-operator](https://github.com/teutonet/teutonet-helm-charts/pull/1930) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(openstack-cloud-controller-manager): add option to change deployment type](https://github.com/kubernetes/cloud-provider-openstack/pull/3043) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add `trimpath` while building](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/81) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [fix(t8s-cluster/management-cluster): migrate missed field after upgrade](https://github.com/teutonet/teutonet-helm-charts/pull/1910) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [Update taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/80) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat: enable workflows for merge queue](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/79) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
