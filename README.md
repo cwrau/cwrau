@@ -9,8 +9,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 months ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.35.0), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.0-rc.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.0-rc.3), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-23-pink-tanker](https://github.com/mason-org/mason-registry/releases/tag/2026-01-23-pink-tanker), today) - Core registry for mason.nvim.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.12](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.12), 1 day ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 2 days ago) - AI powered Kubernetes Assistant
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([openstack-manila-csi-2.34.2](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/openstack-manila-csi-2.34.2), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 2 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), 2 days ago) - Cluster API implementation for OpenStack
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (today)
 - [fix: use the SchemaURL of the defaultResource](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/90) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: use more specific tolerations for coredns](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/88) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/workload-cluster): add toleration for cilium-operator](https://github.com/teutonet/teutonet-helm-charts/pull/1930) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(openstack-cloud-controller-manager): add option to change deployment type](https://github.com/kubernetes/cloud-provider-openstack/pull/3043) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (4 days ago)
 - [fix(base-cluster/monitoring): adjust for short-lived certificates](https://github.com/teutonet/teutonet-helm-charts/pull/1921) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster): update kyverno](https://github.com/teutonet/teutonet-helm-charts/pull/1918) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
