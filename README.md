@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-24-safe-dancer](https://github.com/mason-org/mason-registry/releases/tag/2026-01-24-safe-dancer), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-24-rugged-gaze](https://github.com/mason-org/mason-registry/releases/tag/2026-01-24-rugged-gaze), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.7.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.7.3), 1 day ago) - 
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 day ago) - 
