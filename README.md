@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-28-fried-skin](https://github.com/mason-org/mason-registry/releases/tag/2026-01-28-fried-skin), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.2), today) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-28-eerie-mass](https://github.com/mason-org/mason-registry/releases/tag/2026-01-28-eerie-mass), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 5 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), 5 days ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore(ci): deduplicate license check workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1947) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): sometimes the API returns 403 this succeeds anyways](https://github.com/teutonet/teutonet-helm-charts/pull/1946) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(openstack-cloud-controller-manager): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3063) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (5 days ago)
 - [feat(base-cluster/monitoring): add alert about base-cluster updates](https://github.com/teutonet/teutonet-helm-charts/pull/1937) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster/workload-cluster): add missing tolerations](https://github.com/teutonet/teutonet-helm-charts/pull/1933) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(t8s-cluster/workload-cluster): add toleration for cilium-operator](https://github.com/teutonet/teutonet-helm-charts/pull/1930) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
