@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(ci): deduplicate license check workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1947) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(ci): sometimes the API returns 403 this succeeds anyways](https://github.com/teutonet/teutonet-helm-charts/pull/1946) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (5 days ago)
 - [fix: use the SchemaURL of the defaultResource](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/90) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
 - [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/monitoring): add alert about base-cluster updates](https://github.com/teutonet/teutonet-helm-charts/pull/1937) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster/workload-cluster): add missing tolerations](https://github.com/teutonet/teutonet-helm-charts/pull/1933) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(t8s-cluster/workload-cluster): add toleration for cilium-operator](https://github.com/teutonet/teutonet-helm-charts/pull/1930) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(openstack-cloud-controller-manager): add option to change deployment type](https://github.com/kubernetes/cloud-provider-openstack/pull/3043) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (1 week ago)
-- [fix(base-cluster/monitoring): adjust for short-lived certificates](https://github.com/teutonet/teutonet-helm-charts/pull/1921) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
