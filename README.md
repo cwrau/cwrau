@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.5.3](https://github.com/grafana/helm-charts/releases/tag/alloy-1.5.3), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-28-sneaky-risk](https://github.com/mason-org/mason-registry/releases/tag/2026-01-28-sneaky-risk), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.61.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.61.2), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 5 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), 5 days ago) - 
