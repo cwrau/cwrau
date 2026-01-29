@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): as to not drop the comments of the templated yaml](https://github.com/teutonet/teutonet-helm-charts/pull/1948) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [chore(ci): deduplicate license check workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1947) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [fix: use more specific tolerations for coredns](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/88) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [feat(openstack-cloud-controller-manager): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3063) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (6 days ago)
-- [feat(base-cluster/monitoring): add alert about base-cluster updates](https://github.com/teutonet/teutonet-helm-charts/pull/1937) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
