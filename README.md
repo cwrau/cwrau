@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.14](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.14), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-29-rough-double](https://github.com/mason-org/mason-registry/releases/tag/2026-01-29-rough-double), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.18.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.18.1), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.1), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 6 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), 6 days ago) - 
