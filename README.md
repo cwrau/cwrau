@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): as to not drop the comments of the templated yaml](https://github.com/teutonet/teutonet-helm-charts/pull/1948) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (6 days ago)
 - [fix: use the SchemaURL of the defaultResource](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/90) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
-- [fix: use more specific tolerations for coredns](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/88) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
-- [feat(openstack-cloud-controller-manager): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3063) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (6 days ago)
 
 #### 📓 Gists I wrote
 
