@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(ci): deduplicate license check workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1947) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(ci): sometimes the API returns 403 this succeeds anyways](https://github.com/teutonet/teutonet-helm-charts/pull/1946) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (1 week ago)
-- [fix: use the SchemaURL of the defaultResource](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/90) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat: add option to create custom kubeconfigs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/89) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
