@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-30-gritty-sack](https://github.com/mason-org/mason-registry/releases/tag/2026-01-30-gritty-sack), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-30-direct-witch](https://github.com/mason-org/mason-registry/releases/tag/2026-01-30-direct-witch), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.15](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.15), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.26.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.26.1), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 week ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [chore(ci): deduplicate license check workflow](https://github.com/teutonet/teutonet-helm-charts/pull/1947) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(ci): sometimes the API returns 403 this succeeds anyways](https://github.com/teutonet/teutonet-helm-charts/pull/1946) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(cinder-csi-plugin): add splitMode](https://github.com/kubernetes/cloud-provider-openstack/pull/3067) on [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (1 week ago)
 
 #### 📓 Gists I wrote
 
