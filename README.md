@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (6 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-02-many-target](https://github.com/mason-org/mason-registry/releases/tag/2026-02-02-many-target), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.380](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.380), today) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-02-seemly-amount](https://github.com/mason-org/mason-registry/releases/tag/2026-02-02-seemly-amount), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.380](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.380), 1 day ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 week ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), 1 week ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 1 week ago) - AI powered Kubernetes Assistant
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 1 week ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), 1 week ago) - Cluster API implementation for OpenStack
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) ([v0.1.9](https://github.com/pehlicd/crd-wizard/releases/tag/v0.1.9), 1 month ago) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: emit Created|Updated events for supported resources](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/96) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [fix(t8s-cluster/management-cluster): adjust test helmRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/1964) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(ci): as to not drop the comments of the templated yaml](https://github.com/teutonet/teutonet-helm-charts/pull/1948) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [feat: emit Created|Updated events for supported resources](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/96) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [fix(t8s-cluster/management-cluster): adjust test helmRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/1964) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(ci): as to not drop the comments of the templated yaml](https://github.com/teutonet/teutonet-helm-charts/pull/1948) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -88,7 +88,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (4 months ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (4 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (4 months ago)
-- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (4 months ago)
+- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (5 months ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (10 months ago)
 - [developer-friendly/blog](https://github.com/developer-friendly/blog) - Technical blogs on topics of Kubernetes, GitOps, CI/CD and SRE in general. Created with ❤️ using Markdown format. (10 months ago)
 
