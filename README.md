@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
 - [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
 - [cwrau/k8s-conformance](https://github.com/cwrau/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
 - [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [cwrau/kubectl-ai](https://github.com/cwrau/kubectl-ai) - AI powered Kubernetes Assistant
-- [cwrau/avante.nvim](https://github.com/cwrau/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: missing path segments after untarring](https://github.com/anchore/stereoscope/pull/514) on [anchore/stereoscope](https://github.com/anchore/stereoscope) (today)
 - [feat: emit Created|Updated events for supported resources](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/96) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [fix(t8s-cluster/management-cluster): adjust test helmRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/1964) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(base-cluster/ingress): add auto detection of need for proxy protocol](https://github.com/teutonet/teutonet-helm-charts/pull/1951) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(ci): as to not drop the comments of the templated yaml](https://github.com/teutonet/teutonet-helm-charts/pull/1948) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore: adjust docs and explain gateway requirement](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/91) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
