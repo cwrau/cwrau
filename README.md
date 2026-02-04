@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-04-chilly-tear](https://github.com/mason-org/mason-registry/releases/tag/2026-02-04-chilly-tear), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-04-warm-gas](https://github.com/mason-org/mason-registry/releases/tag/2026-02-04-warm-gas), today) - Core registry for mason.nvim.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.380](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.380), 2 days ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 week ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v1.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v1.8.0), 1 week ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 2 weeks ago) - AI powered Kubernetes Assistant
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.4](https://github.com/grafana/loki/releases/tag/v3.6.4), 2 weeks ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), 2 weeks ago) - Cluster API implementation for OpenStack
