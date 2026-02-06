@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(t8s-cluster/management-cluster): ignore local storage for autoscaler](https://github.com/teutonet/teutonet-helm-charts/pull/1973) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster/management-cluster): add missing securityGroupRule for cilium hubble](https://github.com/teutonet/teutonet-helm-charts/pull/1971) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix: missing path segments after untarring](https://github.com/anchore/stereoscope/pull/514) on [anchore/stereoscope](https://github.com/anchore/stereoscope) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster/management-cluster): add `compute-plane` role label to nodes](https://github.com/teutonet/teutonet-helm-charts/pull/1953) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/ingress): they now have the redirections nested under http](https://github.com/teutonet/teutonet-helm-charts/pull/1952) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
