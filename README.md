@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: simplify if](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/100) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat: add observedGeneration for better visibility](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/99) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [chore: update dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/98) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (today)
 - [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): add missing securityGroupRule for cilium hubble](https://github.com/teutonet/teutonet-helm-charts/pull/1971) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix: missing path segments after untarring](https://github.com/anchore/stereoscope/pull/514) on [anchore/stereoscope](https://github.com/anchore/stereoscope) (5 days ago)
 - [feat: emit Created|Updated events for supported resources](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/96) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [fix(t8s-cluster/management-cluster): adjust test helmRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/1964) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
