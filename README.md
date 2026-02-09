@@ -47,7 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-09-angry-novel](https://github.com/mason-org/mason-registry/releases/tag/2026-02-09-angry-novel), today) - Core registry for mason.nvim.
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-09-jagged-pile](https://github.com/mason-org/mason-registry/releases/tag/2026-02-09-jagged-pile), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 3 days ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 4 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), 5 days ago) - 
@@ -56,10 +57,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 2 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 2 weeks ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), 2 weeks ago) - Cluster API implementation for OpenStack
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.2), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (today)
 - [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
 - [feat(t8s-cluster/management-cluster): ignore local storage for autoscaler](https://github.com/teutonet/teutonet-helm-charts/pull/1973) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): adjust test helmRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/1964) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(renovate): adjust for charts with more fields than just the name](https://github.com/teutonet/teutonet-helm-charts/pull/1960) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(base-cluster/monitoring): migrate helm repo to new URL](https://github.com/teutonet/teutonet-helm-charts/pull/1955) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster): Revert "chore(base-cluster/dependencies): update helm release traefik to v39 (#1936)"](https://github.com/teutonet/teutonet-helm-charts/pull/1954) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
