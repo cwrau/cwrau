@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-09-mutual-vimba](https://github.com/mason-org/mason-registry/releases/tag/2026-02-09-mutual-vimba), today) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-09-jagged-pile](https://github.com/mason-org/mason-registry/releases/tag/2026-02-09-jagged-pile), today) - Core registry for mason.nvim.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 3 days ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.0), 4 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), 5 days ago) - 
