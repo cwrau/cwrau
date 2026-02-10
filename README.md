@@ -47,13 +47,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), today) - go library for processing container images and simulating a squash filesystem
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.53.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.53.0), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-10-down-colony](https://github.com/mason-org/mason-registry/releases/tag/2026-02-10-down-colony), today) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.5](https://github.com/grafana/loki/releases/tag/v3.6.5), 4 days ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), 6 days ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.19](https://github.com/anchore/stereoscope/releases/tag/v0.1.19), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 2 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 2 weeks ago) - AI powered Kubernetes Assistant
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.13.3](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.13.3), 2 weeks ago) - Cluster API implementation for OpenStack
