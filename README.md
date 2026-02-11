@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-11-ugly-attack](https://github.com/mason-org/mason-registry/releases/tag/2026-02-11-ugly-attack), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-11-aged-mouse](https://github.com/mason-org/mason-registry/releases/tag/2026-02-11-aged-mouse), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.4.2), 1 day ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), 2 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
