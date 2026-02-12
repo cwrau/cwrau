@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(common/resources)!: drop cpu limits by default](https://github.com/teutonet/teutonet-helm-charts/pull/1987) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster/kyverno): allow setting kyverno resources](https://github.com/teutonet/teutonet-helm-charts/pull/1986) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/workload-cluster): migrate extraArgs type to string](https://github.com/teutonet/teutonet-helm-charts/pull/1985) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster/management-cluster): remove hardcoded field](https://github.com/teutonet/teutonet-helm-charts/pull/1984) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat: simplify if](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/100) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (3 days ago)
 - [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
-- [feat(t8s-cluster/management-cluster): ignore local storage for autoscaler](https://github.com/teutonet/teutonet-helm-charts/pull/1973) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster/management-cluster): add missing securityGroupRule for cilium hubble](https://github.com/teutonet/teutonet-helm-charts/pull/1971) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
