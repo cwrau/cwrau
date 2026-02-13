@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), today) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-13-winged-cattle](https://github.com/mason-org/mason-registry/releases/tag/2026-02-13-winged-cattle), today) - Core registry for mason.nvim.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 1 day ago) - Quickstart configs for Nvim LSP
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 1 day ago) - 
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), 1 week ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 3 weeks ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 3 weeks ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
