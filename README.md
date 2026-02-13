@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 days ago)
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (3 days ago)
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 months ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 months ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-12-many-cannon](https://github.com/mason-org/mason-registry/releases/tag/2026-02-12-many-cannon), today) - Core registry for mason.nvim.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), today) - Quickstart configs for Nvim LSP
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.10](https://github.com/grafana/loki/releases/tag/v3.5.10), 1 day ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), 2 days ago) - go library for processing container images and simulating a squash filesystem
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), 3 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-12-many-cannon](https://github.com/mason-org/mason-registry/releases/tag/2026-02-12-many-cannon), 1 day ago) - Core registry for mason.nvim.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 1 day ago) - Quickstart configs for Nvim LSP
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.10](https://github.com/grafana/loki/releases/tag/v3.5.10), 2 days ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), 3 days ago) - go library for processing container images and simulating a squash filesystem
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.4](https://github.com/homeport/dyff/releases/tag/v1.10.4), 4 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-cnpg-v3.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-cnpg-v3.1.0), 1 week ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.18](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.18), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 2 weeks ago) - 
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 3 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 3 weeks ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
-- [feat(common/resources)!: drop cpu limits by default](https://github.com/teutonet/teutonet-helm-charts/pull/1987) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(base-cluster/kyverno): allow setting kyverno resources](https://github.com/teutonet/teutonet-helm-charts/pull/1986) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(t8s-cluster/workload-cluster): migrate extraArgs type to string](https://github.com/teutonet/teutonet-helm-charts/pull/1985) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(t8s-cluster/management-cluster): remove hardcoded field](https://github.com/teutonet/teutonet-helm-charts/pull/1984) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat: simplify if](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/100) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [feat: add observedGeneration for better visibility](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/99) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [chore: update dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/98) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (3 days ago)
-- [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
+- [feat(common/resources)!: drop cpu limits by default](https://github.com/teutonet/teutonet-helm-charts/pull/1987) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(base-cluster/kyverno): allow setting kyverno resources](https://github.com/teutonet/teutonet-helm-charts/pull/1986) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(t8s-cluster/workload-cluster): migrate extraArgs type to string](https://github.com/teutonet/teutonet-helm-charts/pull/1985) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(t8s-cluster/management-cluster): remove hardcoded field](https://github.com/teutonet/teutonet-helm-charts/pull/1984) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat: simplify if](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/100) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [feat: add observedGeneration for better visibility](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/99) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [chore: update dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/98) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (4 days ago)
+- [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [feat: scale workload deployments to at least one](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/97) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
