@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-15-proper-badger](https://github.com/mason-org/mason-registry/releases/tag/2026-02-15-proper-badger), today) - Core registry for mason.nvim.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-test.20](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-test.20), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-15-merry-trance](https://github.com/mason-org/mason-registry/releases/tag/2026-02-15-merry-trance), today) - Core registry for mason.nvim.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 2 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 3 days ago) - Quickstart configs for Nvim LSP
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.381](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.381), 3 days ago) - 
