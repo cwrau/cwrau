@@ -8,13 +8,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (6 days ago)
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (1 week ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 weeks ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 months ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 months ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (4 months ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-16-lanky-offer](https://github.com/mason-org/mason-registry/releases/tag/2026-02-16-lanky-offer), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-16-next-meat](https://github.com/mason-org/mason-registry/releases/tag/2026-02-16-next-meat), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 3 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 4 days ago) - Quickstart configs for Nvim LSP
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster/management-cluster): add quotas fied to cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1998) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: retry api calls](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/74) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (3 days ago)
 - [feat(common/resources)!: drop cpu limits by default](https://github.com/teutonet/teutonet-helm-charts/pull/1987) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(base-cluster/kyverno): allow setting kyverno resources](https://github.com/teutonet/teutonet-helm-charts/pull/1986) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add observedGeneration for better visibility](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/99) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [chore: update dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/98) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [fix: use single bufnr across all methods](https://github.com/cwrau/yaml-schema-detect.nvim/pull/15) on [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) (1 week ago)
-- [feat(ci): Enable Nix support in Renovate configuration](https://github.com/teutonet/teutonet-helm-charts/pull/1980) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
