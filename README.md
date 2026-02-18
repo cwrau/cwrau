@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.382](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.382), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.9](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.9), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), today) - Like Prometheus, but for logs.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-18-tall-larch](https://github.com/mason-org/mason-registry/releases/tag/2026-02-18-tall-larch), today) - Core registry for mason.nvim.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
