@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-22-itchy-mullet](https://github.com/mason-org/mason-registry/releases/tag/2026-02-22-itchy-mullet), today) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-22-prize-velvet](https://github.com/mason-org/mason-registry/releases/tag/2026-02-22-prize-velvet), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.6](https://github.com/grafana/loki/releases/tag/v3.6.6), 4 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
