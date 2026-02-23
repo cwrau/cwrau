@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-23-some-pillow](https://github.com/mason-org/mason-registry/releases/tag/2026-02-23-some-pillow), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-23-adept-canoe](https://github.com/mason-org/mason-registry/releases/tag/2026-02-23-adept-canoe), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), today) - Like Prometheus, but for logs.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
