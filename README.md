@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.383](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.383), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), today) - Like Prometheus, but for logs.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-23-afraid-track](https://github.com/mason-org/mason-registry/releases/tag/2026-02-23-afraid-track), today) - Core registry for mason.nvim.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.43.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.43.0), 3 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-rc.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
