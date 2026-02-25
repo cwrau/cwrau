@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 days ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.1](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.1), today) - 
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-25-hairy-self](https://github.com/mason-org/mason-registry/releases/tag/2026-02-25-hairy-self), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.1), today) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.1), 1 day ago) - Cluster API implementation for OpenStack
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.0.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 days ago) - Like Prometheus, but for logs.
