@@ -47,14 +47,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-28-coming-bow](https://github.com/mason-org/mason-registry/releases/tag/2026-02-28-coming-bow), today) - Core registry for mason.nvim.
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.0](https://github.com/homeport/dyff/releases/tag/v1.11.0), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-28-legal-bengal](https://github.com/mason-org/mason-registry/releases/tag/2026-02-28-legal-bengal), today) - Core registry for mason.nvim.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 3 days ago) - 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.1), 4 days ago) - Cluster API implementation for OpenStack
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 5 days ago) - Like Prometheus, but for logs.
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), 6 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-rc.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 2 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 2 weeks ago) - Quickstart configs for Nvim LSP
 
