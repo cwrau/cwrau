@@ -8,10 +8,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (4 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (5 days ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 weeks ago)
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (3 weeks ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-27-grave-wrist](https://github.com/mason-org/mason-registry/releases/tag/2026-02-27-grave-wrist), today) - Core registry for mason.nvim.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 2 days ago) - 
-- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.1), 3 days ago) - Cluster API implementation for OpenStack
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 4 days ago) - Like Prometheus, but for logs.
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), 5 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-27-grave-wrist](https://github.com/mason-org/mason-registry/releases/tag/2026-02-27-grave-wrist), 1 day ago) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.12.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.12.0), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 3 days ago) - 
+- [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) ([v0.14.1](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/releases/tag/v0.14.1), 4 days ago) - Cluster API implementation for OpenStack
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 5 days ago) - Like Prometheus, but for logs.
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.10.5](https://github.com/homeport/dyff/releases/tag/v1.10.5), 6 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0-rc.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 2 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
@@ -60,12 +60,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 days ago)
-- [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(t8s-cluster/workload-cluster): extract storageClasses from TeutonetesCloud](https://github.com/teutonet/teutonet-helm-charts/pull/2004) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(t8s-cluster/workload-cluster): correctly set extraArgs value](https://github.com/teutonet/teutonet-helm-charts/pull/2003) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(t8s-cluster): use plain values for autoScaling](https://github.com/teutonet/teutonet-helm-charts/pull/2002) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix: work with custom go versions, like `go1.26.0-X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/4063) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (4 days ago)
+- [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (3 days ago)
+- [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(t8s-cluster/workload-cluster): extract storageClasses from TeutonetesCloud](https://github.com/teutonet/teutonet-helm-charts/pull/2004) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(t8s-cluster/workload-cluster): correctly set extraArgs value](https://github.com/teutonet/teutonet-helm-charts/pull/2003) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(t8s-cluster): use plain values for autoScaling](https://github.com/teutonet/teutonet-helm-charts/pull/2002) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix: work with custom go versions, like `go1.26.0-X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/4063) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (5 days ago)
 - [fix: use new events apiGroup](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/107) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(t8s-cluster/management-cluster): add quotas fied to cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1998) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: retry api calls](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/74) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (2 weeks ago)
