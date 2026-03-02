@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-02-knotty-data](https://github.com/mason-org/mason-registry/releases/tag/2026-03-02-knotty-data), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-02-linear-cornet](https://github.com/mason-org/mason-registry/releases/tag/2026-03-02-linear-cornet), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.6.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.6.1), today) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
