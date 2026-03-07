@@ -55,8 +55,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 1 week ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 3 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ([v2.6.0](https://github.com/neovim/nvim-lspconfig/releases/tag/v2.6.0), 3 weeks ago) - Quickstart configs for Nvim LSP
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), 3 weeks ago) - go library for processing container images and simulating a squash filesystem
+- [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
