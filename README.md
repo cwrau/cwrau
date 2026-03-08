@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.1-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.1-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-08-bleak-public](https://github.com/mason-org/mason-registry/releases/tag/2026-03-08-bleak-public), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 2 days ago) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 1 week ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
