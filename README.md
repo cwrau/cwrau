@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-08-smug-soccer](https://github.com/mason-org/mason-registry/releases/tag/2026-03-08-smug-soccer), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-08-arab-tyvek](https://github.com/mason-org/mason-registry/releases/tag/2026-03-08-arab-tyvek), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 2 days ago) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
