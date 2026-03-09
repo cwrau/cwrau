@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-08-fair-kalium](https://github.com/mason-org/mason-registry/releases/tag/2026-03-08-fair-kalium), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-09-dynamic-can](https://github.com/mason-org/mason-registry/releases/tag/2026-03-09-dynamic-can), today) - Core registry for mason.nvim.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.45.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.45.0), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.384](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.384), 3 days ago) - 
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 weeks ago) - Like Prometheus, but for logs.
