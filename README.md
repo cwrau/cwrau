@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), today) - go library for processing container images and simulating a squash filesystem
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-09-steep-map](https://github.com/mason-org/mason-registry/releases/tag/2026-03-09-steep-map), today) - Core registry for mason.nvim.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.385](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.385), today) - 
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.7](https://github.com/grafana/loki/releases/tag/v3.6.7), 2 weeks ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 3 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.20](https://github.com/anchore/stereoscope/releases/tag/v0.1.20), 3 weeks ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
