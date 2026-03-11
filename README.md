@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-11-swiss-beer](https://github.com/mason-org/mason-registry/releases/tag/2026-03-11-swiss-beer), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.54.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.54.0), 1 day ago) - 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-10-speedy-pizza](https://github.com/mason-org/mason-registry/releases/tag/2026-03-10-speedy-pizza), 1 day ago) - Core registry for mason.nvim.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 2 days ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
