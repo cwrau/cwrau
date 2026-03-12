@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-roman-plough](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-roman-plough), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-winged-dugout](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-winged-dugout), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.4), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), today) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 3 days ago) - go library for processing container images and simulating a squash filesystem
