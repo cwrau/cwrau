@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 weeks ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-cool-rose](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-cool-rose), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-sedate-limia](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-sedate-limia), today) - Core registry for mason.nvim.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.55.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.55.0), 1 day ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 3 days ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
