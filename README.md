@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 weeks ago)
 - [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/workload-cluster): extract storageClasses from TeutonetesCloud](https://github.com/teutonet/teutonet-helm-charts/pull/2004) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: use new events apiGroup](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/107) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [feat(t8s-cluster/management-cluster): add quotas fied to cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1998) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat: retry api calls](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/74) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (3 weeks ago)
-- [feat(common/resources)!: drop cpu limits by default](https://github.com/teutonet/teutonet-helm-charts/pull/1987) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
