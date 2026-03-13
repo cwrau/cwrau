@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 weeks ago)
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (3 weeks ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (4 weeks ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (1 month ago)
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.4), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), today) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 3 days ago) - go library for processing container images and simulating a squash filesystem
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.4), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 1 day ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 4 days ago) - go library for processing container images and simulating a squash filesystem
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 2 weeks ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 3 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 3 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 4 weeks ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 month ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 1 month ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 weeks ago)
 - [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(t8s-cluster/workload-cluster): extract storageClasses from TeutonetesCloud](https://github.com/teutonet/teutonet-helm-charts/pull/2004) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/workload-cluster): correctly set extraArgs value](https://github.com/teutonet/teutonet-helm-charts/pull/2003) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster): use plain values for autoScaling](https://github.com/teutonet/teutonet-helm-charts/pull/2002) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix: work with custom go versions, like `go1.26.0-X:nodwarf5`](https://github.com/telepresenceio/telepresence/pull/4063) on [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) (2 weeks ago)
-- [fix: use new events apiGroup](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/107) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
+- [fix: use new events apiGroup](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/107) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 - [feat(t8s-cluster/management-cluster): add quotas fied to cluster](https://github.com/teutonet/teutonet-helm-charts/pull/1998) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [feat: retry api calls](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/74) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (3 weeks ago)
+- [feat: retry api calls](https://github.com/FUjr/homeassistant-openwrt-ubus/pull/74) on [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
