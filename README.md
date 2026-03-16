@@ -8,8 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (3 weeks ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (1 month ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 months ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,12 +51,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 4 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.2](https://github.com/databus23/helm-diff/releases/tag/v3.15.2), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.2](https://github.com/homeport/dyff/releases/tag/v1.11.2), 2 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.6.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.6.0), 2 weeks ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.6), 3 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 1 month ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) ([v1.35.0](https://github.com/kubernetes/cloud-provider-openstack/releases/tag/v1.35.0), 1 month ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.29](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.29), 1 month ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
