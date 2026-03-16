@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.1), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.386](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.386), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 4 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
