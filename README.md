@@ -61,7 +61,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 🔨 My recent Pull Requests
 
 - [feat(base-cluster/monitoring): add alert about deprecated APIs](https://github.com/teutonet/teutonet-helm-charts/pull/2021) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [fix(base-cluster/deadMansSwitch): fix alertmanager healthchecks URL](https://github.com/teutonet/teutonet-helm-charts/pull/2020) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(t8s-cluster/rbac): use Users instead of the whole Group](https://github.com/teutonet/teutonet-helm-charts/pull/2020) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(base-cluster/deadMansSwitch): fix alertmanager healthchecks URL](https://github.com/teutonet/teutonet-helm-charts/pull/2019) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(ci): only verify latest instance of each job](https://github.com/teutonet/teutonet-helm-charts/pull/2018) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
