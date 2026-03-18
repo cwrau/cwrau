@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), today) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.1.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.22.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.22.2), 1 day ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.12](https://github.com/grafana/loki/releases/tag/v3.5.12), 6 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.21](https://github.com/anchore/stereoscope/releases/tag/v0.1.21), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.2](https://github.com/databus23/helm-diff/releases/tag/v3.15.2), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
