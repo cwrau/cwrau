@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 1 day ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 2 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 3 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.1.0), 3 days ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.2](https://github.com/databus23/helm-diff/releases/tag/v3.15.2), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 1 month ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
