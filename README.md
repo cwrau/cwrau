@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.5), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.3](https://github.com/databus23/helm-diff/releases/tag/v3.15.3), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.30](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.30), 4 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), 4 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.14.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.14.0), 5 days ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 5 days ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 6 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
