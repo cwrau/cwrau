@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.8](https://github.com/grafana/loki/releases/tag/v3.6.8), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.387](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.387), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.3](https://github.com/databus23/helm-diff/releases/tag/v3.15.3), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.30](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.30), 5 days ago) - AI powered Kubernetes Assistant
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), 5 days ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 6 days ago) - go library for processing container images and simulating a squash filesystem
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.0](https://github.com/grafana/loki/releases/tag/operator/v0.10.0), 1 week ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
