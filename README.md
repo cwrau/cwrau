@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.15.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.15.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.3.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.3.1), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.8](https://github.com/grafana/loki/releases/tag/v3.6.8), 1 day ago) - Like Prometheus, but for logs.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.3](https://github.com/databus23/helm-diff/releases/tag/v3.15.3), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.30](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.30), 6 days ago) - AI powered Kubernetes Assistant
