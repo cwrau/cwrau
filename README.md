@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0-rc.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0-rc.2), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.0](https://github.com/grafana/loki/releases/tag/v3.7.0), today) - Like Prometheus, but for logs.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.3](https://github.com/databus23/helm-diff/releases/tag/v3.15.3), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.30](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.30), 6 days ago) - AI powered Kubernetes Assistant
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), 6 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0-rc.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0-rc.2), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.0](https://github.com/grafana/loki/releases/tag/v3.7.0), 1 day ago) - Like Prometheus, but for logs.
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.3](https://github.com/databus23/helm-diff/releases/tag/v3.15.3), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.30](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.30), 1 week ago) - AI powered Kubernetes Assistant
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), 1 week ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
@@ -63,13 +63,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add autoAnnotations support for Gateway-API](https://github.com/cert-manager/cert-manager/pull/8624) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
 - [fix(base-cluster/monitoring): match by instance as well](https://github.com/teutonet/teutonet-helm-charts/pull/2024) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore: fix typo](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/109) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat(base-cluster/monitoring): add alert about deprecated APIs](https://github.com/teutonet/teutonet-helm-charts/pull/2021) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster/rbac): use Users instead of the whole Group](https://github.com/teutonet/teutonet-helm-charts/pull/2020) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/deadMansSwitch): fix alertmanager healthchecks URL](https://github.com/teutonet/teutonet-helm-charts/pull/2019) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): only verify latest instance of each job](https://github.com/teutonet/teutonet-helm-charts/pull/2018) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(base-cluster/monitoring): add alert about deprecated APIs](https://github.com/teutonet/teutonet-helm-charts/pull/2021) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat(t8s-cluster/rbac): use Users instead of the whole Group](https://github.com/teutonet/teutonet-helm-charts/pull/2020) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(base-cluster/deadMansSwitch): fix alertmanager healthchecks URL](https://github.com/teutonet/teutonet-helm-charts/pull/2019) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [fix(ci): only verify latest instance of each job](https://github.com/teutonet/teutonet-helm-charts/pull/2018) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
-- [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (4 weeks ago)
-- [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
+- [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (1 month ago)
+- [fix(base-cluster/monitoring): only roll out alloy tracing ports if enabled](https://github.com/teutonet/teutonet-helm-charts/pull/2005) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 
 #### 📓 Gists I wrote
 
