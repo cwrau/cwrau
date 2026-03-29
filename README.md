@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.3), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.4](https://github.com/databus23/helm-diff/releases/tag/v3.15.4), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 2 days ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 2 days ago) - AI powered Kubernetes Assistant
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.2), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 1 month ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 
 #### 🔨 My recent Pull Requests
