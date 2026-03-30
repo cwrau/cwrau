@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.2), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.3), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.4](https://github.com/databus23/helm-diff/releases/tag/v3.15.4), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 3 days ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 3 days ago) - AI powered Kubernetes Assistant
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.0), 3 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.7.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.7.0), 1 week ago) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.7](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.7), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
