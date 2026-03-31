@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.388](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.388), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.1.1), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.19.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.19.2), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.3), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.4](https://github.com/databus23/helm-diff/releases/tag/v3.15.4), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.1](https://github.com/grafana/loki/releases/tag/v3.7.1), 4 days ago) - Like Prometheus, but for logs.
