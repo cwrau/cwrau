@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: etcd fails due to unaccounted space usage (e.g. WAL)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/115) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(docs): add link to code-scanning result](https://github.com/teutonet/teutonet-helm-charts/pull/2029) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat: add autoAnnotations support for Gateway-API](https://github.com/cert-manager/cert-manager/pull/8624) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
 - [fix(base-cluster/monitoring): match by instance as well](https://github.com/teutonet/teutonet-helm-charts/pull/2024) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/deadMansSwitch): fix alertmanager healthchecks URL](https://github.com/teutonet/teutonet-helm-charts/pull/2019) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(ci): only verify latest instance of each job](https://github.com/teutonet/teutonet-helm-charts/pull/2018) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat: add OIDC configuration option](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/108) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
-- [feat: use upstream settings for diff](https://github.com/databus23/helm-diff/pull/939) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (1 month ago)
 
 #### 📓 Gists I wrote
 
