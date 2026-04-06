@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.3](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.6), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 3 days ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.1.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.1.2), 5 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-beta.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-beta.1), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
