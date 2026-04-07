@@ -21,6 +21,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🌱 My latest projects
 
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) - 
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) - 
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) - 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) - 
@@ -30,7 +31,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls
 - [cwrau/advent-of-code](https://github.com/cwrau/advent-of-code) - 
 - [cwrau/webserver](https://github.com/cwrau/webserver) - Extremely fast static file server without any bloat features
-- [cwrau/elm-kata](https://github.com/cwrau/elm-kata) - 
 
 #### 🍴 My recent forks
 
