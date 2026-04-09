@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (3 weeks ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/116) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(docs): add link to code-scanning result](https://github.com/teutonet/teutonet-helm-charts/pull/2029) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add autoAnnotations support for Gateway-API](https://github.com/cert-manager/cert-manager/pull/8624) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 weeks ago)
 - [fix(base-cluster/monitoring): match by instance as well](https://github.com/teutonet/teutonet-helm-charts/pull/2024) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
-- [chore: fix typo](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/109) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
