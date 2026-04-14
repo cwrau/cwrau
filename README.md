@@ -8,13 +8,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (4 weeks ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 weeks ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (1 month ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (2 months ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
@@ -47,28 +47,28 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), today) - 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.5](https://github.com/databus23/helm-diff/releases/tag/v3.15.5), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.4), 5 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 5 days ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.5), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 6 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 1 day ago) - 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.5](https://github.com/databus23/helm-diff/releases/tag/v3.15.5), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.4), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 6 days ago) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.5), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 1 week ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 2 weeks ago) - AI powered Kubernetes Assistant
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 3 weeks ago) - go library for processing container images and simulating a squash filesystem
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 3 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 4 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 #### 🔨 My recent Pull Requests
 
-- [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/116) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [fix(t8s-cluster/workload-cluster): adjust cilium healthChecks](https://github.com/teutonet/teutonet-helm-charts/pull/2038) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/monitoring): only watch and create metrics for latest apiVersion](https://github.com/teutonet/teutonet-helm-charts/pull/2037) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix: etcd fails due to unaccounted space usage (e.g. WAL)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/115) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
+- [fix: etcd fails due to unaccounted space usage (e.g. WAL)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/115) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [feat(docs): add link to code-scanning result](https://github.com/teutonet/teutonet-helm-charts/pull/2029) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (today)
+- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (1 day ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (4 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 months ago)
