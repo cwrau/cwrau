@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 1 day ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.5](https://github.com/databus23/helm-diff/releases/tag/v3.15.5), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.4), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 6 days ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.5](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.5), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 1 week ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 2 weeks ago) - AI powered Kubernetes Assistant
