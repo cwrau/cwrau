@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: remove customKubeconfig feature](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/118) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
 - [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/workload-cluster): adjust cilium healthChecks](https://github.com/teutonet/teutonet-helm-charts/pull/2038) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/monitoring): only watch and create metrics for latest apiVersion](https://github.com/teutonet/teutonet-helm-charts/pull/2037) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix: etcd fails due to unaccounted space usage (e.g. WAL)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/115) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
-- [feat(docs): add link to code-scanning result](https://github.com/teutonet/teutonet-helm-charts/pull/2029) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
