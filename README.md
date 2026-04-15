@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
 - [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
@@ -43,15 +44,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/crd-wizard](https://github.com/cwrau/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 - [cwrau/telepresence](https://github.com/cwrau/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
-- [cwrau/dyff](https://github.com/cwrau/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.1), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 2 days ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.5](https://github.com/databus23/helm-diff/releases/tag/v3.15.5), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.27.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.27.4), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.20.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.20.3), 1 week ago) - 
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 week ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.10](https://github.com/grafana/loki/releases/tag/v3.6.10), 1 week ago) - Like Prometheus, but for logs.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 2 weeks ago) - AI powered Kubernetes Assistant
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (today)
 - [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: enable MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2046) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore: remove customKubeconfig feature](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/118) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/116) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
-- [fix(t8s-cluster/workload-cluster): adjust cilium healthChecks](https://github.com/teutonet/teutonet-helm-charts/pull/2038) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
