@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.4), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 2 days ago) - 
