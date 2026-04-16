@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (1 day ago)
 - [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat: enable MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2046) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/116) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
