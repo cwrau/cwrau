@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.3](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.3), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.4), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 3 days ago) - 
