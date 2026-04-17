@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.0.2), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.3), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 1 day ago) - Like Prometheus, but for logs.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
