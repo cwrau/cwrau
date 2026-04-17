@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster): warn about PodSecurityStandard violations by default](https://github.com/teutonet/teutonet-helm-charts/pull/2078) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (2 days ago)
 - [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster/monitoring): watching only the current version](https://github.com/teutonet/teutonet-helm-charts/pull/2040) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster/management-cluster): allow auditing of kcp clusters (opt-in)](https://github.com/teutonet/teutonet-helm-charts/pull/2039) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
