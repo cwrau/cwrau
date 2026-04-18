@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 month ago)
@@ -47,27 +47,27 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.4), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 1 day ago) - Like Prometheus, but for logs.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 4 days ago) - 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.5](https://github.com/databus23/helm-diff/releases/tag/v3.15.5), 6 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.4), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.1](https://github.com/grafana/loki/releases/tag/operator/v0.10.1), 2 days ago) - Like Prometheus, but for logs.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.8.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.8.0), 5 days ago) - 
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 week ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 3 weeks ago) - AI powered Kubernetes Assistant
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 4 weeks ago) - go library for processing container images and simulating a squash filesystem
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 month ago) - go library for processing container images and simulating a squash filesystem
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 #### 🔨 My recent Pull Requests
 
-- [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(t8s-cluster): warn about PodSecurityStandard violations by default](https://github.com/teutonet/teutonet-helm-charts/pull/2078) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (2 days ago)
-- [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [feat(t8s-cluster/management-cluster): enable MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2046) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore: remove customKubeconfig feature](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/118) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(t8s-cluster): warn about PodSecurityStandard violations by default](https://github.com/teutonet/teutonet-helm-charts/pull/2078) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (3 days ago)
+- [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
+- [feat(t8s-cluster/management-cluster): enable MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2046) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore: remove customKubeconfig feature](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/118) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (4 days ago)
+- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (5 days ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (2 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (4 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 months ago)
