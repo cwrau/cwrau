@@ -9,7 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
@@ -34,6 +34,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
 - [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
@@ -42,8 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
 - [cwrau/crd-wizard](https://github.com/cwrau/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
-- [cwrau/telepresence](https://github.com/cwrau/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [cwrau/loki](https://github.com/cwrau/loki) - Like Prometheus, but for logs.
 
 #### 🔭 Latest releases I've contributed to
 
