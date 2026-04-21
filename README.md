@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
 - [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/k8s-conformance](https://github.com/cwrau/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
-- [cwrau/crd-wizard](https://github.com/cwrau/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Custom Resources (CRs). It helps k8s users to quickly understand the state of their custom controllers and the resources they manage.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (today)
+- [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (today)
 - [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(t8s-cluster): warn about PodSecurityStandard violations by default](https://github.com/teutonet/teutonet-helm-charts/pull/2078) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (6 days ago)
 - [feat: add env var to filter reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/119) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [feat(t8s-cluster/management-cluster): enable MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2046) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore: remove customKubeconfig feature](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/118) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat(t8s-cluster): add storage quota field](https://github.com/teutonet/teutonet-helm-charts/pull/2043) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: add S3 endpoint override for S3-compatible storage](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/117) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat(t8s-cluster/management-cluster): enable etcd backups](https://github.com/teutonet/teutonet-helm-charts/pull/2042) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
