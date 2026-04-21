@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.7), today) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.0-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.0-test), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.5](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.5), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.0-rc.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 2 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 3 weeks ago) - AI powered Kubernetes Assistant
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 month ago) - go library for processing container images and simulating a squash filesystem
