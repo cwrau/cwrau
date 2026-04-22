@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/hacs-solax-x1micro](https://github.com/cwrau/hacs-solax-x1micro) - SolaX X1-Micro MQTT Integration
 - [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
 - [cwrau/k8s-conformance](https://github.com/cwrau/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [cwrau/homeassistant-openwrt-ubus](https://github.com/cwrau/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
-- [cwrau/external-citytool-temp](https://github.com/cwrau/external-citytool-temp) - 
 
 #### 🔭 Latest releases I've contributed to
 
