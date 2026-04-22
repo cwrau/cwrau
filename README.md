@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (1 day ago)
 - [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat(t8s-cluster): warn about PodSecurityStandard violations by default](https://github.com/teutonet/teutonet-helm-charts/pull/2078) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat: raise check interval to lower api calls](https://github.com/teutonet/teutonet-helm-charts/pull/2071) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(paths): use XDG base directories instead of ~/.plannotator](https://github.com/backnotprop/plannotator/pull/568) on [backnotprop/plannotator](https://github.com/backnotprop/plannotator) (1 week ago)
 
 #### 📓 Gists I wrote
 
