@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), today) - go library for processing container images and simulating a squash filesystem
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.391](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.391), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), 1 day ago) - 
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 2 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 3 weeks ago) - AI powered Kubernetes Assistant
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.22](https://github.com/anchore/stereoscope/releases/tag/v0.1.22), 1 month ago) - go library for processing container images and simulating a squash filesystem
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.3](https://github.com/homeport/dyff/releases/tag/v1.11.3), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 #### 🔨 My recent Pull Requests
