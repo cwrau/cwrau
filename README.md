@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.5](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.1), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 2 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 2 days ago) - go library for processing container images and simulating a squash filesystem
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (today)
 - [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
 - [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
 - [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (3 days ago)
 - [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (3 days ago)
-- [feat(base-cluster): add support for podSecurityStandards](https://github.com/teutonet/teutonet-helm-charts/pull/2079) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
