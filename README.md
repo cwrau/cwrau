@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (4 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 months ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.4](https://github.com/homeport/dyff/releases/tag/v1.11.4), today) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.1), 1 day ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 3 days ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 3 days ago) - go library for processing container images and simulating a squash filesystem
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), 4 days ago) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.11.4](https://github.com/homeport/dyff/releases/tag/v1.11.4), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.1), 2 days ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 4 days ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 4 days ago) - go library for processing container images and simulating a squash filesystem
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), 5 days ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 2 weeks ago) - 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 4 weeks ago) - AI powered Kubernetes Assistant
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 1 month ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (1 day ago)
-- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
-- [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (4 days ago)
-- [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (4 days ago)
+- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (2 days ago)
+- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
+- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
+- [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (5 days ago)
+- [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (5 days ago)
 
 #### 📓 Gists I wrote
 
