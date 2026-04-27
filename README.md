@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (3 days ago)
 - [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
 - [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (6 days ago)
 - [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [docs: add info about AUR package](https://github.com/DeusData/codebase-memory-mcp/pull/278) on [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) (6 days ago)
 
 #### 📓 Gists I wrote
 
