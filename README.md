@@ -8,16 +8,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (6 days ago)
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 weeks ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (3 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (2 months ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (2 months ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.1), today) - 
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 day ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 5 days ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 5 days ago) - go library for processing container images and simulating a squash filesystem
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), 6 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.1), 1 day ago) - 
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 2 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 6 days ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 6 days ago) - go library for processing container images and simulating a squash filesystem
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.11.10](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.11.10), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v11.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v11.2.0), 1 week ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 2 weeks ago) - 
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 3 weeks ago) - 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ([v0.0.31](https://github.com/GoogleCloudPlatform/kubectl-ai/releases/tag/v0.0.31), 1 month ago) - AI powered Kubernetes Assistant
 
 #### 🔨 My recent Pull Requests
 
-- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (3 days ago)
-- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
-- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
-- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
-- [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (6 days ago)
-- [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (4 days ago)
+- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
+- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
+- [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [Make dnsPolicy adjustable in k8s-ttl-controller chart](https://github.com/TwiN/helm-charts/pull/41) on [TwiN/helm-charts](https://github.com/TwiN/helm-charts) (1 week ago)
+- [chore(base-cluster)!: migrate kube-janitor to k8s-ttl-controller](https://github.com/teutonet/teutonet-helm-charts/pull/2091) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
