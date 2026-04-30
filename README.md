@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.3), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.0), today) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.2), 1 day ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 4 days ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 1 week ago) - Like Prometheus, but for logs.
