@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): exit early if all jobs are failed](https://github.com/teutonet/teutonet-helm-charts/pull/2135) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [fix(ci): missing escape for --bar arg](https://github.com/teutonet/teutonet-helm-charts/pull/2095) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster/management-cluster): exluce selfsubjectaccessreviews from audit](https://github.com/teutonet/teutonet-helm-charts/pull/2094) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster): add missing descheduler config](https://github.com/teutonet/teutonet-helm-charts/pull/2092) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
