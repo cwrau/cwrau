@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (5 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (3 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.2.0), 2 days ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.0), 3 days ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.2.0), 3 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.0), 4 days ago) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 1 week ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 1 week ago) - go library for processing container images and simulating a squash filesystem
@@ -60,9 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
-- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
+- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (1 week ago)
 - [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
@@ -81,7 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
-- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (2 weeks ago)
+- [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (3 weeks ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (3 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (5 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 months ago)
@@ -89,7 +89,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (7 months ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (7 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (7 months ago)
-- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (7 months ago)
+- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (8 months ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
