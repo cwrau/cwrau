@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.6](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.6), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.8.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.8.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 1 day ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(teuto-portal-k8s-worker): harden deployment](https://github.com/teutonet/teutonet-helm-charts/pull/2157) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2156) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2154) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(ci/linting): add kubescape configuration scanning](https://github.com/teutonet/teutonet-helm-charts/pull/2153) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: cap konnectivity image to 0.34.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/128) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: add automatic defragmentation for etcd](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/127) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat(ci): exit early if all jobs are failed](https://github.com/teutonet/teutonet-helm-charts/pull/2135) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: add support for X1-Micro 4-in-1 inverter](https://github.com/remiserriere/hacs-solax-x1micro/pull/11) on [remiserriere/hacs-solax-x1micro](https://github.com/remiserriere/hacs-solax-x1micro) (1 week ago)
-- [[tempo-distributed] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/400) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [[loki] fix: recreate job superfluous quotes, wrong rbac](https://github.com/grafana-community/helm-charts/pull/399) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
-- [fix(tempo-distributed): recreate job superfluous quotes, wrong rbac](https://github.com/grafana/helm-charts/pull/4158) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
