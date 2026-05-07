@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow for objects in env](https://github.com/SoulKyu/notificator/pull/29) on [SoulKyu/notificator](https://github.com/SoulKyu/notificator) (today)
 - [feat(teuto-portal-k8s-worker): harden deployment](https://github.com/teutonet/teutonet-helm-charts/pull/2157) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(t8s-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2156) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2154) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): exit early if all jobs are failed](https://github.com/teutonet/teutonet-helm-charts/pull/2135) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
