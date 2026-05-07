@@ -8,15 +8,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (4 weeks ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 month ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (2 months ago)
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (3 months ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -47,26 +47,26 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.7](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.7), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.4.7](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.4.7), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 2 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.1-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.1-test), 2 weeks ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 4 weeks ago) - 
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 month ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.8](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.8), 2 months ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(teuto-portal-k8s-worker): harden deployment](https://github.com/teutonet/teutonet-helm-charts/pull/2157) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(t8s-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2156) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(base-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2154) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(ci/linting): add kubescape configuration scanning](https://github.com/teutonet/teutonet-helm-charts/pull/2153) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix: cap konnectivity image to 0.34.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/128) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [feat: add automatic defragmentation for etcd](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/127) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat(ci): exit early if all jobs are failed](https://github.com/teutonet/teutonet-helm-charts/pull/2135) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(teuto-portal-k8s-worker): harden deployment](https://github.com/teutonet/teutonet-helm-charts/pull/2157) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(t8s-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2156) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(base-cluster): harden various deployments](https://github.com/teutonet/teutonet-helm-charts/pull/2154) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(ci/linting): add kubescape configuration scanning](https://github.com/teutonet/teutonet-helm-charts/pull/2153) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix: cap konnectivity image to 0.34.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/128) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [feat: add automatic defragmentation for etcd](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/127) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat(ci): exit early if all jobs are failed](https://github.com/teutonet/teutonet-helm-charts/pull/2135) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix: handle null rules in grype sarif jq filter](https://github.com/teutonet/teutonet-helm-charts/pull/2124) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: implement reverse konnectivity (WL→CP tunneling)](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/126) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat(base-cluster): migrate loki to grafana-community helm chart](https://github.com/teutonet/teutonet-helm-charts/pull/2118) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
