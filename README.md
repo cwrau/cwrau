@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.7](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.7), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 3 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 week ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
