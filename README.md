@@ -9,6 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (today)
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications (2 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (2 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (2 months ago)
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls (2 months ago)
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) - go library for processing container images and simulating a squash filesystem (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) ([v2026.05.09-8486262](https://github.com/SoulKyu/notificator/releases/tag/v2026.05.09-8486262), today) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 4 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.6.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.6.1), 5 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0-rc.1), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.6](https://github.com/databus23/helm-diff/releases/tag/v3.15.6), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) ([v1.0.0](https://github.com/cwrau/declarative-state/releases/tag/v1.0.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
