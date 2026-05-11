@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.8), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) ([v2026.05.09-8486262](https://github.com/SoulKyu/notificator/releases/tag/v2026.05.09-8486262), 2 days ago) - Notificator is a Karma replacement for alertmanager with sounds and notifications
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.52](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.52), 3 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 6 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.6.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.6.1), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
