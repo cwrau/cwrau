@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.2), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.49.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.49.0), 2 days ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) ([v2026.05.09-8486262](https://github.com/SoulKyu/notificator/releases/tag/v2026.05.09-8486262), 5 days ago) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 1 week ago) - 
