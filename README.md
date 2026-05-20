@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), today) - go library for processing container images and simulating a squash filesystem
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.7](https://github.com/databus23/helm-diff/releases/tag/v3.15.7), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 6 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.2), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 2 weeks ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.6.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.6.1), 2 weeks ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 3 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.1.23](https://github.com/anchore/stereoscope/releases/tag/v0.1.23), 4 weeks ago) - go library for processing container images and simulating a squash filesystem
 
 #### 🔨 My recent Pull Requests
 
