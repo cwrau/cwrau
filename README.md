@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.23.0), today) - 
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.7](https://github.com/databus23/helm-diff/releases/tag/v3.15.7), 6 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.3), 1 week ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.2), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.2](https://github.com/grafana/loki/releases/tag/v3.7.2), 1 week ago) - Like Prometheus, but for logs.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.28.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.28.0), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [Nilsty](https://github.com/Nilsty)
 - [Hussain-Hakimi](https://github.com/Hussain-Hakimi)
 - [tonisives](https://github.com/tonisives)
 - [Babbili](https://github.com/Babbili)
 - [evelynmitchell](https://github.com/evelynmitchell)
-- [samsorrahman](https://github.com/samsorrahman)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
