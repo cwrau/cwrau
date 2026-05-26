@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 weeks ago)
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications (2 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
@@ -47,21 +47,21 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.4), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 3 days ago) - 
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), 5 days ago) - go library for processing container images and simulating a squash filesystem
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.4), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.0.2), 4 days ago) - 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), 6 days ago) - go library for processing container images and simulating a squash filesystem
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.7](https://github.com/databus23/helm-diff/releases/tag/v3.15.7), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.2), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) ([v2026.05.09-8486262](https://github.com/SoulKyu/notificator/releases/tag/v2026.05.09-8486262), 2 weeks ago) - Notificator is a Karma replacement for alertmanager with sounds and notifications
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 2 weeks ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.1.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.1.1), 3 weeks ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.6.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.6.1), 3 weeks ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 4 weeks ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
+- [homeport/dyff](https://github.com/homeport/dyff) ([v1.12.0](https://github.com/homeport/dyff/releases/tag/v1.12.0), 1 month ago) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster): update gateway-api](https://github.com/teutonet/teutonet-helm-charts/pull/2171) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(t8s-cluster/management-cluster): add OIDC settings](https://github.com/teutonet/teutonet-helm-charts/pull/2170) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [chore(base-cluster): update gateway-api](https://github.com/teutonet/teutonet-helm-charts/pull/2171) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [feat(t8s-cluster/management-cluster): add OIDC settings](https://github.com/teutonet/teutonet-helm-charts/pull/2170) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster/management-cluster): prefix the autoscaler with `as-`](https://github.com/teutonet/teutonet-helm-charts/pull/2167) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(teuto-portal-k8s-worker): add unit tests](https://github.com/teutonet/teutonet-helm-charts/pull/2164) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [feat(common): add unit tests](https://github.com/teutonet/teutonet-helm-charts/pull/2163) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
