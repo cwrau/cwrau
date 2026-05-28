@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.24](https://github.com/backnotprop/plannotator/releases/tag/v0.19.24), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.9](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.9), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.8.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.8.2), 2 days ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.23](https://github.com/backnotprop/plannotator/releases/tag/v0.19.23), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 3 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.7](https://github.com/databus23/helm-diff/releases/tag/v3.15.7), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
