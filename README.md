@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.396](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.396), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), today) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.24](https://github.com/backnotprop/plannotator/releases/tag/v0.19.24), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
