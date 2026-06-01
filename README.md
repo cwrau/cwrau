@@ -47,16 +47,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.25](https://github.com/backnotprop/plannotator/releases/tag/v0.19.25), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.9](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.9), today) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.7.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.7.0), 2 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.1), 3 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), 4 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), 4 days ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.24](https://github.com/backnotprop/plannotator/releases/tag/v0.19.24), 4 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.9](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.9), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.0.2-test](https://github.com/grafana/loki/releases/tag/operator/v0.0.2-test), 1 week ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.0](https://github.com/anchore/stereoscope/releases/tag/v0.2.0), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.7](https://github.com/databus23/helm-diff/releases/tag/v3.15.7), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.2](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.2), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
