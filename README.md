@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.26](https://github.com/backnotprop/plannotator/releases/tag/v0.19.26), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.9](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.9), today) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.26](https://github.com/backnotprop/plannotator/releases/tag/v0.19.26), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.7.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.7.0), 2 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.1), 3 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.4), 4 days ago) - 
