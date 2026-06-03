@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.54](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.54), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.46](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.46), today) - 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.27](https://github.com/backnotprop/plannotator/releases/tag/v0.19.27), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.9](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.9), 2 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.26](https://github.com/backnotprop/plannotator/releases/tag/v0.19.26), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.7.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.7.0), 4 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.1), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), 6 days ago) - 
