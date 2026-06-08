@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.398](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.398), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.8](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.8), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 3 days ago) - go library for processing container images and simulating a squash filesystem
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.27](https://github.com/backnotprop/plannotator/releases/tag/v0.19.27), 5 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
