@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-5.24.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-5.24.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.9.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.9.0), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 4 days ago) - go library for processing container images and simulating a squash filesystem
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.19.27](https://github.com/backnotprop/plannotator/releases/tag/v0.19.27), 6 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
