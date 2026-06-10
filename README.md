@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.1](https://github.com/backnotprop/plannotator/releases/tag/v0.20.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.50.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.50.0), today) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.0](https://github.com/backnotprop/plannotator/releases/tag/v0.20.0), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 day ago) - Like Prometheus, but for logs.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 5 days ago) - go library for processing container images and simulating a squash filesystem
