@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (2 weeks ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 month ago)
@@ -47,15 +47,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.9), today) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.1](https://github.com/backnotprop/plannotator/releases/tag/v0.20.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 day ago) - Like Prometheus, but for logs.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 5 days ago) - go library for processing container images and simulating a squash filesystem
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.9), 1 day ago) - 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.1](https://github.com/backnotprop/plannotator/releases/tag/v0.20.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 2 days ago) - Like Prometheus, but for logs.
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 6 days ago) - go library for processing container images and simulating a squash filesystem
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.9](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.9), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.7.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.7.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.1), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), 1 week ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), 2 weeks ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.9](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.9), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 
 #### 🔨 My recent Pull Requests
@@ -65,7 +65,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster): correctly set flags for MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2176) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): missing rbac](https://github.com/teutonet/teutonet-helm-charts/pull/2175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/132) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [fix: sort oidc providers](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/131) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
+- [fix: sort oidc providers](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/131) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [chore(base-cluster): update gateway-api](https://github.com/teutonet/teutonet-helm-charts/pull/2171) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [feat(t8s-cluster/management-cluster): add OIDC settings](https://github.com/teutonet/teutonet-helm-charts/pull/2170) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(t8s-cluster/management-cluster): prefix the autoscaler with `as-`](https://github.com/teutonet/teutonet-helm-charts/pull/2167) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
