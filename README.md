@@ -47,15 +47,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.9](https://github.com/databus23/helm-diff/releases/tag/v3.15.9), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.2](https://github.com/backnotprop/plannotator/releases/tag/v0.20.2), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 2 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.5.10](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.5.10), 3 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.8.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.8.1), 3 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 6 days ago) - Like Prometheus, but for logs.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.8](https://github.com/databus23/helm-diff/releases/tag/v3.15.8), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.6.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.6.1), 2 weeks ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.0), 2 weeks ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-test.9](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-test.9), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 
 #### 🔨 My recent Pull Requests
