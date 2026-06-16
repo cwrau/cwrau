@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.3](https://github.com/backnotprop/plannotator/releases/tag/v0.20.3), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.399](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.399), 1 day ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.9](https://github.com/databus23/helm-diff/releases/tag/v3.15.9), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 1 day ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.2](https://github.com/backnotprop/plannotator/releases/tag/v0.20.2), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 3 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.8.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.8.1), 4 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 week ago) - Like Prometheus, but for logs.
