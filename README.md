@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.10), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-rc.0), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.1.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.1.0), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.3](https://github.com/backnotprop/plannotator/releases/tag/v0.20.3), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 2 days ago) - 
