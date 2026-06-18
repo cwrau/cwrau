@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [cwrau/notificator](https://github.com/cwrau/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [cwrau/hacs-solax-x1micro](https://github.com/cwrau/hacs-solax-x1micro) - SolaX X1-Micro MQTT Integration
 - [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
 - [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
-- [cwrau/k8s-conformance](https://github.com/cwrau/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 
 #### 🔭 Latest releases I've contributed to
 
