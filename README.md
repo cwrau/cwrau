@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.0](https://github.com/backnotprop/plannotator/releases/tag/v0.21.0), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-rc.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.20.3](https://github.com/backnotprop/plannotator/releases/tag/v0.20.3), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 4 days ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 6 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.8.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.8.1), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
