@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.0](https://github.com/backnotprop/plannotator/releases/tag/v0.21.0), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), today) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-rc.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 4 days ago) - 
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 6 days ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.0](https://github.com/backnotprop/plannotator/releases/tag/v0.21.0), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), 1 day ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0-rc.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 5 days ago) - 
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.8.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.8.1), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.10.2](https://github.com/grafana/loki/releases/tag/operator/v0.10.2), 1 week ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.1](https://github.com/anchore/stereoscope/releases/tag/v0.2.1), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
