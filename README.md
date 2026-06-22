@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.400](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.400), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.1.0), 3 days ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 6 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 1 week ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
