@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.5.0), today) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
