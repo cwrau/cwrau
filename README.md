@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 month ago)
