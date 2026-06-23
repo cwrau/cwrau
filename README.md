@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.5.0), today) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0-weekly.400](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0-weekly.400), 1 day ago) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
