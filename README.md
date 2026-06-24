@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.1), today) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.1), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 1 day ago) - 
@@ -54,7 +55,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), 1 day ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 1 week ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.8.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.8.1), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
