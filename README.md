@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 weeks ago)
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (4 weeks ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 month ago)
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications (1 month ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 months ago)
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), today) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 1 day ago) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), 1 day ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.0), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.0.0), 1 week ago) - 
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
@@ -60,9 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat: rotate nodes on CA rotation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/135) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [fix(ci): run in our repo to allow access to secrets](https://github.com/teutonet/teutonet-helm-charts/pull/2192) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(t8s-cluster/management-cluster): filter network by name](https://github.com/teutonet/teutonet-helm-charts/pull/2179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
+- [feat: rotate nodes on CA rotation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/135) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [fix(ci): run in our repo to allow access to secrets](https://github.com/teutonet/teutonet-helm-charts/pull/2192) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(t8s-cluster/management-cluster): filter network by name](https://github.com/teutonet/teutonet-helm-charts/pull/2179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix: remove SetDefaults_KubeletConfiguration](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/134) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 weeks ago)
 - [fix(t8s-cluster): correctly set flags for MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2176) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
 - [fix(t8s-cluster): missing rbac](https://github.com/teutonet/teutonet-helm-charts/pull/2175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 weeks ago)
@@ -82,12 +82,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### ⭐ Recent Stars
 
 - [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (2 months ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (4 months ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (5 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (7 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (8 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (8 months ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (8 months ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (8 months ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (9 months ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (9 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (9 months ago)
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (9 months ago)
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 year ago)
