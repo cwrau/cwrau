@@ -47,6 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.2](https://github.com/backnotprop/plannotator/releases/tag/v0.21.2), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), today) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 day ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.2), 1 day ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.0), 1 day ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
@@ -54,9 +56,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.5), 2 days ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.2.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.2.0), 2 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.1](https://github.com/backnotprop/plannotator/releases/tag/v0.21.1), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) ([v0.0.10](https://github.com/FUjr/homeassistant-openwrt-ubus/releases/tag/v0.0.10), 1 week ago) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities.
 
 #### 🔨 My recent Pull Requests
 
