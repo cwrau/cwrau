@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.1.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.1.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.8](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.8), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.3](https://github.com/backnotprop/plannotator/releases/tag/v0.21.3), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 4 days ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 5 days ago) - Like Prometheus, but for logs.
