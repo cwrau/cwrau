@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.10.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.9](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.9), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.3](https://github.com/backnotprop/plannotator/releases/tag/v0.21.3), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 5 days ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 6 days ago) - Like Prometheus, but for logs.
