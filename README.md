@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fic(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster/management-cluster): cert-manager has [an integer overflow bug](https://github.com/cert-manager/cert-manager/issues/8937)](https://github.com/teutonet/teutonet-helm-charts/pull/2195) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(t8s-cluster/management-cluster): set rootCaCertificateDuration to 10 Years](https://github.com/teutonet/teutonet-helm-charts/pull/2193) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster/management-cluster): filter network by name](https://github.com/teutonet/teutonet-helm-charts/pull/2179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
 - [fix: remove SetDefaults_KubeletConfiguration](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/134) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 weeks ago)
 - [fix(t8s-cluster): correctly set flags for MutatingAdmissionPolicy](https://github.com/teutonet/teutonet-helm-charts/pull/2176) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 weeks ago)
-- [fix(t8s-cluster): missing rbac](https://github.com/teutonet/teutonet-helm-charts/pull/2175) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
-- [chore: update to go 1.26](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/132) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 month ago)
 
 #### 📓 Gists I wrote
 
