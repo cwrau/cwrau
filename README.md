@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.4](https://github.com/backnotprop/plannotator/releases/tag/v0.21.4), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.1.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.1.7), 1 day ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.21.3](https://github.com/backnotprop/plannotator/releases/tag/v0.21.3), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 6 days ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.2), 1 week ago) - 
