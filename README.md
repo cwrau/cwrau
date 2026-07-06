@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.22.0](https://github.com/backnotprop/plannotator/releases/tag/v0.22.0), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([browser-tests-pr957](https://github.com/backnotprop/plannotator/releases/tag/browser-tests-pr957), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 4 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
