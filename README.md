@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (4 days ago)
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (5 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 month ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (1 month ago)
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications (1 month ago)
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 months ago)
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications (2 months ago)
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (3 months ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (3 months ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (4 months ago)
 
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.22.0](https://github.com/backnotprop/plannotator/releases/tag/v0.22.0), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 3 days ago) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 4 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.22.0](https://github.com/backnotprop/plannotator/releases/tag/v0.22.0), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 4 days ago) - 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 5 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.2), 1 week ago) - 
@@ -60,14 +60,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): disable kubescape for base-cluster](https://github.com/teutonet/teutonet-helm-charts/pull/2211) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [fic(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [fix(ci): disable kubescape for base-cluster](https://github.com/teutonet/teutonet-helm-charts/pull/2211) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fic(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(t8s-cluster/management-cluster): cert-manager has [an integer overflow bug](https://github.com/cert-manager/cert-manager/issues/8937)](https://github.com/teutonet/teutonet-helm-charts/pull/2195) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(t8s-cluster/management-cluster): set rootCaCertificateDuration to 10 Years](https://github.com/teutonet/teutonet-helm-charts/pull/2193) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: rotate nodes on CA rotation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/135) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [fix(ci): run in our repo to allow access to secrets](https://github.com/teutonet/teutonet-helm-charts/pull/2192) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
+- [fix(ci): run in our repo to allow access to secrets](https://github.com/teutonet/teutonet-helm-charts/pull/2192) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 - [fix(t8s-cluster/management-cluster): filter network by name](https://github.com/teutonet/teutonet-helm-charts/pull/2179) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 month ago)
 - [fix: remove SetDefaults_KubeletConfiguration](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/134) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 month ago)
 
