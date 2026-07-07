@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.0.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.0.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.10](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.10), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([browser-tests-pr957](https://github.com/backnotprop/plannotator/releases/tag/browser-tests-pr957), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.2), 1 week ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
