@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (5 days ago)
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (6 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
@@ -47,28 +47,28 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([browser-tests-pr957](https://github.com/backnotprop/plannotator/releases/tag/browser-tests-pr957), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 4 days ago) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 5 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([browser-tests-pr957](https://github.com/backnotprop/plannotator/releases/tag/browser-tests-pr957), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.29.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.29.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.0), 5 days ago) - 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.1](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.1), 6 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 6 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.3](https://github.com/grafana/loki/releases/tag/v3.7.3), 1 week ago) - Like Prometheus, but for logs.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.9.2](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.9.2), 1 week ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.3), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.10](https://github.com/databus23/helm-diff/releases/tag/v3.15.10), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add t8s as a conformant managed k8s offering](https://github.com/cncf/k8s-conformance/pull/4306) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (today)
-- [feat(ci): run linter on self-hosted in hopes of not timing out CI](https://github.com/teutonet/teutonet-helm-charts/pull/2212) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(ci): disable kubescape for base-cluster](https://github.com/teutonet/teutonet-helm-charts/pull/2211) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fic(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat: add t8s as a conformant managed k8s offering](https://github.com/cncf/k8s-conformance/pull/4306) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 day ago)
+- [feat(ci): run linter on self-hosted in hopes of not timing out CI](https://github.com/teutonet/teutonet-helm-charts/pull/2212) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(ci): disable kubescape for base-cluster](https://github.com/teutonet/teutonet-helm-charts/pull/2211) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fic(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(t8s-cluster/management-cluster): cert-manager has [an integer overflow bug](https://github.com/cert-manager/cert-manager/issues/8937)](https://github.com/teutonet/teutonet-helm-charts/pull/2195) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore(t8s-cluster/management-cluster): set rootCaCertificateDuration to 10 Years](https://github.com/teutonet/teutonet-helm-charts/pull/2193) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat: rotate nodes on CA rotation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/135) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
+- [feat: rotate nodes on CA rotation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/135) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 weeks ago)
 - [fix(ci): run in our repo to allow access to secrets](https://github.com/teutonet/teutonet-helm-charts/pull/2192) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
 
 #### 📓 Gists I wrote
