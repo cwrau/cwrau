@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): various wrong invocations of common.resources](https://github.com/teutonet/teutonet-helm-charts/pull/2224) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(base-cluster/monitoring): disallow unsupported receivers](https://github.com/teutonet/teutonet-helm-charts/pull/2223) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add actions-runner image](https://github.com/teutonet/oci-images/pull/437) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (today)
 - [feat(base-cluster/monitoring): add blackbox-exporter](https://github.com/teutonet/teutonet-helm-charts/pull/2215) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [Conformance results for v1.35/t8s](https://github.com/cncf/k8s-conformance/pull/4306) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [chore(base-cluster/cert-manager): add tests for certificates condition](https://github.com/teutonet/teutonet-helm-charts/pull/2209) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster/monitoring): disable monitoring of hosted/disabled components](https://github.com/teutonet/teutonet-helm-charts/pull/2208) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [fix(t8s-cluster/management-cluster): cert-manager has [an integer overflow bug](https://github.com/cert-manager/cert-manager/issues/8937)](https://github.com/teutonet/teutonet-helm-charts/pull/2195) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore(t8s-cluster/management-cluster): set rootCaCertificateDuration to 10 Years](https://github.com/teutonet/teutonet-helm-charts/pull/2193) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
