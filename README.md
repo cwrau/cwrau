@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add various docs about working together](https://github.com/teutonet/teutonet-helm-charts/pull/2228) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/cert-manager): allow templating in email](https://github.com/teutonet/teutonet-helm-charts/pull/2226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(base-cluster/ingress): don't throw errors when both conrollers are (manually) deployed](https://github.com/teutonet/teutonet-helm-charts/pull/2225) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): various wrong invocations of common.resources](https://github.com/teutonet/teutonet-helm-charts/pull/2224) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [Conformance results for v1.35/t8s](https://github.com/cncf/k8s-conformance/pull/4306) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (2 days ago)
 - [feat(ci): run linter on self-hosted in hopes of not timing out CI](https://github.com/teutonet/teutonet-helm-charts/pull/2212) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(ci): disable kubescape for base-cluster](https://github.com/teutonet/teutonet-helm-charts/pull/2211) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [chore(dev): add helm-diff package](https://github.com/teutonet/teutonet-helm-charts/pull/2210) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
