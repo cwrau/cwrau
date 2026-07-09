@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [Nilsty](https://github.com/Nilsty)
 - [Hussain-Hakimi](https://github.com/Hussain-Hakimi)
 - [tonisives](https://github.com/tonisives)
 - [Babbili](https://github.com/Babbili)
-- [evelynmitchell](https://github.com/evelynmitchell)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
