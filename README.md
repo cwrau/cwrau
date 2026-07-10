@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
 - [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [cwrau/notificator](https://github.com/cwrau/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [cwrau/hacs-solax-x1micro](https://github.com/cwrau/hacs-solax-x1micro) - SolaX X1-Micro MQTT Integration
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
-- [cwrau/helm-charts](https://github.com/cwrau/helm-charts) - Prometheus community Helm charts
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (today)
 - [fix: set hcp initialized earlier](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/139) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [feat: add various docs about working together](https://github.com/teutonet/teutonet-helm-charts/pull/2228) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(base-cluster/cert-manager): allow templating in email](https://github.com/teutonet/teutonet-helm-charts/pull/2226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: add actions-runner image](https://github.com/teutonet/oci-images/pull/437) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (3 days ago)
 - [feat(base-cluster/monitoring): add blackbox-exporter](https://github.com/teutonet/teutonet-helm-charts/pull/2215) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [Conformance results for v1.35/t8s](https://github.com/cncf/k8s-conformance/pull/4306) on [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) (4 days ago)
-- [feat(ci): run linter on self-hosted in hopes of not timing out CI](https://github.com/teutonet/teutonet-helm-charts/pull/2212) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
