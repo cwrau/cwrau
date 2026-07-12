@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.1](https://github.com/backnotprop/plannotator/releases/tag/v0.23.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.0-rc.1), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.0), 1 day ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.0](https://github.com/backnotprop/plannotator/releases/tag/v0.23.0), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.1.0), 4 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.0), 4 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.1.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.1.0), 4 days ago) - 
