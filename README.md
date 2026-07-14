@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.2.2), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.1](https://github.com/backnotprop/plannotator/releases/tag/v0.23.1), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.0-rc.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.1.0), 6 days ago) - 
