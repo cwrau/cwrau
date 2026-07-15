@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.1.0), today) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.4), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.10](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.10), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.1](https://github.com/backnotprop/plannotator/releases/tag/v0.23.1), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.1.0), 1 week ago) - 
