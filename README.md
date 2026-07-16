@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (6 days ago)
 - [fix: set hcp initialized earlier](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/139) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): various wrong invocations of common.resources](https://github.com/teutonet/teutonet-helm-charts/pull/2224) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster/monitoring): disallow unsupported receivers](https://github.com/teutonet/teutonet-helm-charts/pull/2223) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add actions-runner image](https://github.com/teutonet/oci-images/pull/437) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (1 week ago)
-- [feat(base-cluster/monitoring): add blackbox-exporter](https://github.com/teutonet/teutonet-helm-charts/pull/2215) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
