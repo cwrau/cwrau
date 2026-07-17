@@ -8,8 +8,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (6 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
+- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 week ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (1 week ago)
@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.11), today) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.4), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.1](https://github.com/backnotprop/plannotator/releases/tag/v0.23.1), 4 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.11), 1 day ago) - 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.4), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.0), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.23.1](https://github.com/backnotprop/plannotator/releases/tag/v0.23.1), 5 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.1.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.1.0), 1 week ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.1.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.1.0), 1 week ago) - 
@@ -60,11 +60,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore: wrap the other CAs in bundles, just for consistency](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/140) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [feat(base-cluster): drop cpu limits across multiple components](https://github.com/teutonet/teutonet-helm-charts/pull/2234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (6 days ago)
+- [chore: wrap the other CAs in bundles, just for consistency](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/140) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [feat(base-cluster): drop cpu limits across multiple components](https://github.com/teutonet/teutonet-helm-charts/pull/2234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 week ago)
 - [fix: set hcp initialized earlier](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/139) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat: add various docs about working together](https://github.com/teutonet/teutonet-helm-charts/pull/2228) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/cert-manager): allow templating in email](https://github.com/teutonet/teutonet-helm-charts/pull/2226) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
