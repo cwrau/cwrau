@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster/ingress): Add sub-support for dual mode](https://github.com/teutonet/teutonet-helm-charts/pull/2247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [docs(base-cluster): add short description](https://github.com/teutonet/teutonet-helm-charts/pull/2245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore(docs): add publiccode yml](https://github.com/teutonet/teutonet-helm-charts/pull/2244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat: add various docs about working together](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/142) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 week ago)
-- [fix: set hcp initialized earlier](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/139) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
-- [feat: add various docs about working together](https://github.com/teutonet/teutonet-helm-charts/pull/2228) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
