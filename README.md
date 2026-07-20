@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.0](https://github.com/anchore/stereoscope/releases/tag/v0.3.0), today) - go library for processing container images and simulating a squash filesystem
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.24.1](https://github.com/backnotprop/plannotator/releases/tag/v0.24.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.1), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.1.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.1.0), 1 week ago) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 2 weeks ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.2.2](https://github.com/anchore/stereoscope/releases/tag/v0.2.2), 3 weeks ago) - go library for processing container images and simulating a squash filesystem
 
 #### 🔨 My recent Pull Requests
 
