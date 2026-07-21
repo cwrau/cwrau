@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (1 week ago)
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (2 weeks ago)
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (2 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 month ago)
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (2 months ago)
@@ -47,28 +47,28 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.0](https://github.com/anchore/stereoscope/releases/tag/v0.3.0), today) - go library for processing container images and simulating a squash filesystem
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.0), today) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.24.1](https://github.com/backnotprop/plannotator/releases/tag/v0.24.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.1), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.2.0), 3 days ago) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.2), 3 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.4), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.0](https://github.com/anchore/stereoscope/releases/tag/v0.3.0), 1 day ago) - go library for processing container images and simulating a squash filesystem
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.0), 1 day ago) - 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.24.1](https://github.com/backnotprop/plannotator/releases/tag/v0.24.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.30.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.30.1), 4 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.2.0), 4 days ago) - 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.2), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.4](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.4), 6 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.1.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.1.0), 1 week ago) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.3.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.3.0), 2 weeks ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(base-cluster/ingress): Add sub-support for dual mode](https://github.com/teutonet/teutonet-helm-charts/pull/2247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [docs(base-cluster): add short description](https://github.com/teutonet/teutonet-helm-charts/pull/2245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [chore(docs): add publiccode yml](https://github.com/teutonet/teutonet-helm-charts/pull/2244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat: add various docs about working together](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/142) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [chore: wrap the other CAs in bundles, just for consistency](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/140) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [feat(base-cluster): drop cpu limits across multiple components](https://github.com/teutonet/teutonet-helm-charts/pull/2234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
+- [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(base-cluster/ingress): Add sub-support for dual mode](https://github.com/teutonet/teutonet-helm-charts/pull/2247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [docs(base-cluster): add short description](https://github.com/teutonet/teutonet-helm-charts/pull/2245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [chore(docs): add publiccode yml](https://github.com/teutonet/teutonet-helm-charts/pull/2244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat: add various docs about working together](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/142) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [chore: wrap the other CAs in bundles, just for consistency](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/140) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
+- [feat(base-cluster): drop cpu limits across multiple components](https://github.com/teutonet/teutonet-helm-charts/pull/2234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [feat(ci): specify breaking changes in "unreleased breaking changes"](https://github.com/teutonet/teutonet-helm-charts/pull/2229) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat: add t8s kaas offering](https://github.com/SovereignCloudStack/standards/pull/1244) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -83,8 +83,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (3 months ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (5 months ago)
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (7 months ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (8 months ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (8 months ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (9 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (9 months ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (9 months ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (9 months ago)
