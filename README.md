@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): skip non-artifacthub ci-values files in templating scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2257) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(common): remove redundant ci-values for uninstallable library chart](https://github.com/teutonet/teutonet-helm-charts/pull/2256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(teuto-portal-k8s-worker): migrate ci-values scenario to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2254) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster): add condition to flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2250) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(base-cluster/ingress): Add sub-support for dual mode](https://github.com/teutonet/teutonet-helm-charts/pull/2247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [docs(base-cluster): add short description](https://github.com/teutonet/teutonet-helm-charts/pull/2245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
