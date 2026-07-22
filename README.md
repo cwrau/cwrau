@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(common): remove redundant ci-values for uninstallable library chart](https://github.com/teutonet/teutonet-helm-charts/pull/2256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(teuto-portal-k8s-worker): migrate ci-values scenario to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(t8s-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2254) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(base-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2253) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [feat(ci): support gpu-operator split-field images in artifacthub extraction](https://github.com/teutonet/teutonet-helm-charts/pull/2252) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore: add CLAUDE.md](https://github.com/teutonet/teutonet-helm-charts/pull/2251) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): add condition to flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2250) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [feat(base-cluster/ingress): Add sub-support for dual mode](https://github.com/teutonet/teutonet-helm-charts/pull/2247) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [docs(base-cluster): add short description](https://github.com/teutonet/teutonet-helm-charts/pull/2245) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore(docs): add publiccode yml](https://github.com/teutonet/teutonet-helm-charts/pull/2244) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat: add various docs about working together](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/142) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [chore: wrap the other CAs in bundles, just for consistency](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/140) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
-- [feat(base-cluster): drop cpu limits across multiple components](https://github.com/teutonet/teutonet-helm-charts/pull/2234) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [feat(base-cluster/ingress): force ingress-controller to sync GatewayClass](https://github.com/teutonet/teutonet-helm-charts/pull/2231) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
