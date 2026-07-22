@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
 - [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [cwrau/notificator](https://github.com/cwrau/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
 - [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [cwrau/stereoscope](https://github.com/cwrau/stereoscope) - go library for processing container images and simulating a squash filesystem
 
 #### 🔭 Latest releases I've contributed to
 
@@ -81,6 +81,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### ⭐ Recent Stars
 
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
 - [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (3 months ago)
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (5 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (8 months ago)
@@ -90,7 +91,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (9 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (10 months ago)
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (10 months ago)
-- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
