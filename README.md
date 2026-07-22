@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.0), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.0), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.24.2](https://github.com/backnotprop/plannotator/releases/tag/v0.24.2), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-beta.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-beta.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
