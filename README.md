@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): skip empty checks](https://github.com/teutonet/teutonet-helm-charts/pull/2259) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): remove unnecessary `edited` trigger](https://github.com/teutonet/teutonet-helm-charts/pull/2258) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): skip non-artifacthub ci-values files in templating scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2257) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(common): remove redundant ci-values for uninstallable library chart](https://github.com/teutonet/teutonet-helm-charts/pull/2256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): support gpu-operator split-field images in artifacthub extraction](https://github.com/teutonet/teutonet-helm-charts/pull/2252) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore: add CLAUDE.md](https://github.com/teutonet/teutonet-helm-charts/pull/2251) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): add condition to flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2250) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(base-cluster/monitoring): add missing cert-manager dependency](https://github.com/teutonet/teutonet-helm-charts/pull/2248) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
