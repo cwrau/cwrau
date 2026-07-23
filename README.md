@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: configure renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/143) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(web): scope last-session restore to standalone PWA launch](https://github.com/agent-of-empires/agent-of-empires/pull/3072) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(ci): skip empty checks](https://github.com/teutonet/teutonet-helm-charts/pull/2259) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(ci): remove unnecessary `edited` trigger](https://github.com/teutonet/teutonet-helm-charts/pull/2258) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(t8s-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2254) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2253) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(ci): support gpu-operator split-field images in artifacthub extraction](https://github.com/teutonet/teutonet-helm-charts/pull/2252) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [chore: add CLAUDE.md](https://github.com/teutonet/teutonet-helm-charts/pull/2251) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
