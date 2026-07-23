@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.12](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.12), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.3.0), today) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.4.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.4.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.0), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.24.2](https://github.com/backnotprop/plannotator/releases/tag/v0.24.2), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-beta.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-beta.1), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
