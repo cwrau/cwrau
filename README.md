@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.12](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.12), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.3.0), today) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.4.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.4.0), today) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
