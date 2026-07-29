@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.2.0), today) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.13.2](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.13.2), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-rc.0), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.25.0](https://github.com/backnotprop/plannotator/releases/tag/v0.25.0), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.13](https://github.com/grafana/loki/releases/tag/v3.6.13), 5 days ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.3.1), 6 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.3.0), 6 days ago) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.4.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.4.0), 6 days ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.0](https://github.com/anchore/stereoscope/releases/tag/v0.3.0), 1 week ago) - go library for processing container images and simulating a squash filesystem
