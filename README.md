@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(ci): remove the values scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2265) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): enforce license links to be real, verified license files](https://github.com/teutonet/teutonet-helm-charts/pull/2260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [chore: configure renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/143) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
 - [fix(web): scope last-session restore to standalone PWA launch](https://github.com/agent-of-empires/agent-of-empires/pull/3072) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (6 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common): remove redundant ci-values for uninstallable library chart](https://github.com/teutonet/teutonet-helm-charts/pull/2256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(teuto-portal-k8s-worker): migrate ci-values scenario to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(t8s-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2254) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(base-cluster): migrate ci-values scenarios to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2253) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
