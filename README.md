@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): require slash or colon in artifacthub image grep match](https://github.com/teutonet/teutonet-helm-charts/pull/2269) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [revert(ci): drop gpu-operator split-field image extraction (#2252)](https://github.com/teutonet/teutonet-helm-charts/pull/2266) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [chore(ci): remove the values scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2265) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(ci): enforce license links to be real, verified license files](https://github.com/teutonet/teutonet-helm-charts/pull/2260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(ci): remove unnecessary `edited` trigger](https://github.com/teutonet/teutonet-helm-charts/pull/2258) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(ci): skip non-artifacthub ci-values files in templating scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2257) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(common): remove redundant ci-values for uninstallable library chart](https://github.com/teutonet/teutonet-helm-charts/pull/2256) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(teuto-portal-k8s-worker): migrate ci-values scenario to helm-unittest coverage](https://github.com/teutonet/teutonet-helm-charts/pull/2255) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
