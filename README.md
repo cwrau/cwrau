@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.1-rc.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.1-rc.1), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.2.0), 1 day ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.13.2](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.13.2), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.1), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.3.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.3.0), 1 week ago) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) ([capo-shell-mcp-v0.4.0](https://github.com/cwrau/capo-shell-mcp/releases/tag/capo-shell-mcp-v0.4.0), 1 week ago) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.0](https://github.com/anchore/stereoscope/releases/tag/v0.3.0), 1 week ago) - go library for processing container images and simulating a squash filesystem
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.7.2](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.7.2), 1 week ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 
 #### 🔨 My recent Pull Requests
 
