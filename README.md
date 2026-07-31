@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.12), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.2.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.25.1](https://github.com/backnotprop/plannotator/releases/tag/v0.25.1), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.9.1-rc.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.9.1-rc.1), 1 day ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.2.0), 2 days ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.13.2](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.13.2), 2 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.1), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-rc.0](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-rc.0), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [Dvurechensky](https://github.com/Dvurechensky)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [Nilsty](https://github.com/Nilsty)
 - [Hussain-Hakimi](https://github.com/Hussain-Hakimi)
 - [tonisives](https://github.com/tonisives)
-- [Babbili](https://github.com/Babbili)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
