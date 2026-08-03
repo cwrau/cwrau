@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(base-cluster): revert gwapi migration](https://github.com/teutonet/teutonet-helm-charts/pull/2277) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [test(common): add extensive helper coverage, fix two arithmetic bugs](https://github.com/teutonet/teutonet-helm-charts/pull/2276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [docs(base-cluster)!: document breaking gwapi kustomization migration](https://github.com/teutonet/teutonet-helm-charts/pull/2275) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: avoid t8s HelmRelease name colliding with run_plugin's cluster_id](https://github.com/SovereignCloudStack/standards/pull/1261) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (4 days ago)
 - [fix(ci): install licensee gem with --user-install](https://github.com/teutonet/teutonet-helm-charts/pull/2273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [feat(base-cluster/ingress)!: add envoy as the default ingress provider](https://github.com/teutonet/teutonet-helm-charts/pull/2272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(common): expose serviceName/serviceNamespace in telemetry.conf](https://github.com/teutonet/teutonet-helm-charts/pull/2270) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(ci): require slash or colon in artifacthub image grep match](https://github.com/teutonet/teutonet-helm-charts/pull/2269) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [revert(ci): drop gpu-operator split-field image extraction (#2252)](https://github.com/teutonet/teutonet-helm-charts/pull/2266) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [chore(ci): remove the values scripts](https://github.com/teutonet/teutonet-helm-charts/pull/2265) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [feat(ci): enforce license links to be real, verified license files](https://github.com/teutonet/teutonet-helm-charts/pull/2260) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [chore: configure renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/143) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
