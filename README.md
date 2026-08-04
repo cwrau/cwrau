@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.13](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.13), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.406](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.406), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.2), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.11](https://github.com/databus23/helm-diff/releases/tag/v3.15.11), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([common-v2.2.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/common-v2.2.0), 4 days ago) - 
