@@ -60,7 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [chore(base-cluster): revert gwapi migration](https://github.com/teutonet/teutonet-helm-charts/pull/2277) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [revert(base-cluster): remove condition on flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2277) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [test(common): add extensive helper coverage, fix two arithmetic bugs](https://github.com/teutonet/teutonet-helm-charts/pull/2276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster)!: re-add gwapi kustomization migration with upgrade notes](https://github.com/teutonet/teutonet-helm-charts/pull/2275) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix: avoid t8s HelmRelease name colliding with run_plugin's cluster_id](https://github.com/SovereignCloudStack/standards/pull/1261) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (5 days ago)
