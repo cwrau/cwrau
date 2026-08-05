@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.0](https://github.com/backnotprop/plannotator/releases/tag/v0.26.0), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.1](https://github.com/backnotprop/plannotator/releases/tag/v0.26.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.14.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.14.0), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.5](https://github.com/grafana/loki/releases/tag/v3.7.5), today) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-rc.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
