@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.14](https://github.com/grafana/loki/releases/tag/v3.6.14), today) - Like Prometheus, but for logs.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.5](https://github.com/grafana/loki/releases/tag/v3.7.5), today) - Like Prometheus, but for logs.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-rc.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.406](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.406), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.2), 3 days ago) - Local development against a remote Kubernetes or OpenShift cluster
