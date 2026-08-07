@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.1.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.1.6), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.22.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.11.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.11.1), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 1 day ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.0](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.0), 1 day ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix: correct renovate depName for konnectivity image](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/146) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat: wait for the HelmRelease to be ready before returning t8s kubeconfig](https://github.com/SovereignCloudStack/standards/pull/1263) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 day ago)
 - [revert(base-cluster): remove condition on flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2277) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [test(common): add extensive helper coverage, fix two arithmetic bugs](https://github.com/teutonet/teutonet-helm-charts/pull/2276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster/ingress)!: add envoy as the default ingress provider](https://github.com/teutonet/teutonet-helm-charts/pull/2272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/ingress): keep traefik Service on provider switch](https://github.com/teutonet/teutonet-helm-charts/pull/2271) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(common): expose serviceName/serviceNamespace in telemetry.conf](https://github.com/teutonet/teutonet-helm-charts/pull/2270) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(ci): require slash or colon in artifacthub image grep match](https://github.com/teutonet/teutonet-helm-charts/pull/2269) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
