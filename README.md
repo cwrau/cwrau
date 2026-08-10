@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 week ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 weeks ago)
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (2 weeks ago)
@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.17.1), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.7](https://github.com/backnotprop/plannotator/releases/tag/v0.26.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.29.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.1), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 4 days ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.0](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.0), 4 days ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(agents): add info about generated content](https://github.com/teutonet/teutonet-helm-charts/pull/2300) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): add missing dependsOn on cinder-csi CiliumNetworkPolicy HelmRelease](https://github.com/teutonet/teutonet-helm-charts/pull/2299) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix: correct renovate depName for konnectivity image](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/146) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
 - [feat: wait for the HelmRelease to be ready before returning t8s kubeconfig](https://github.com/SovereignCloudStack/standards/pull/1263) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix: avoid t8s HelmRelease name colliding with run_plugin's cluster_id](https://github.com/SovereignCloudStack/standards/pull/1261) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 week ago)
 - [fix(ci): install licensee gem with --user-install](https://github.com/teutonet/teutonet-helm-charts/pull/2273) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster/ingress)!: add envoy as the default ingress provider](https://github.com/teutonet/teutonet-helm-charts/pull/2272) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(base-cluster/ingress): keep traefik Service on provider switch](https://github.com/teutonet/teutonet-helm-charts/pull/2271) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
