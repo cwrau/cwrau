@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.17.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.23.1), today) - Prometheus community Helm charts
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.10.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.10.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.3.0), today) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.0), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
