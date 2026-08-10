@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-weekly.407](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-weekly.407), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.17.1), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.7](https://github.com/backnotprop/plannotator/releases/tag/v0.26.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.2.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.2.1), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 4 days ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.0](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.0), 4 days ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.14.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.14.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
