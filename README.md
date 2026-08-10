@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.43.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.43.1), today) - Prometheus community Helm charts
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.0), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.6.3](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.6.3), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.7](https://github.com/backnotprop/plannotator/releases/tag/v0.26.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 4 days ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.0](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.0), 4 days ago) - 
