@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.3.0), today) - Prometheus community Helm charts
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.2](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.2), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.4), today) - Prometheus community Helm charts
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.11](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.11), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.8](https://github.com/backnotprop/plannotator/releases/tag/v0.26.8), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.10.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.10.0), 1 day ago) - 
