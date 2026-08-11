@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.4), today) - Prometheus community Helm charts
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.11](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.11), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.1), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.8](https://github.com/backnotprop/plannotator/releases/tag/v0.26.8), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.23.1), 1 day ago) - Prometheus community Helm charts
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.10.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.10.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-7.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-7.3.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 5 days ago) - Like Prometheus, but for logs.
