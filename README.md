@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.11](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.11), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.1](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.1), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.26.8](https://github.com/backnotprop/plannotator/releases/tag/v0.26.8), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.23.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.23.1), 1 day ago) - Prometheus community Helm charts
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.6](https://github.com/grafana/loki/releases/tag/v3.7.6), 5 days ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.0](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.0), 5 days ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.14.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.14.0), 6 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.0-rc.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.0-rc.1), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.2), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 
 #### 🔨 My recent Pull Requests
