@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.2](https://github.com/backnotprop/plannotator/releases/tag/v0.27.2), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([masterportal-v3-v3.4.20](https://github.com/teutonet/oci-images/releases/tag/masterportal-v3-v3.4.20), today) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.3](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.3), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.1](https://github.com/backnotprop/plannotator/releases/tag/v0.27.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.14.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.14.1), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.24.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.4.0), 2 days ago) - 
