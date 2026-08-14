@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore(renovate): remove GitLab registry hostRules](https://github.com/teutonet/teutonet-helm-charts/pull/2316) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [Reorder and split phases for better flow](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/154) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [refactor: share CA definitions between cert and bundle reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/153) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(t8s-cluster): set HelmRelease intervals dynamically based on readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2311) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: wait for the HelmRelease to be ready before returning t8s kubeconfig](https://github.com/SovereignCloudStack/standards/pull/1263) on [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) (1 week ago)
 - [revert(base-cluster): remove condition on flux.gitRepositories](https://github.com/teutonet/teutonet-helm-charts/pull/2277) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [test(common): add extensive helper coverage, fix two arithmetic bugs](https://github.com/teutonet/teutonet-helm-charts/pull/2276) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(base-cluster): re-add gwapi kustomization migration](https://github.com/teutonet/teutonet-helm-charts/pull/2275) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
