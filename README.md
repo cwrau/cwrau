@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([base-cluster-v12.4.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/base-cluster-v12.4.0), today) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.5.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.5.0), today) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.4](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.4), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.2.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.2.0-rc.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.3](https://github.com/backnotprop/plannotator/releases/tag/v0.27.3), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
