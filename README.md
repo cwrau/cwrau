@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.5.0), today) - Prometheus community Helm charts
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([0.10.7](https://github.com/DeusData/codebase-memory-mcp/releases/tag/0.10.7), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.26.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.4](https://github.com/backnotprop/plannotator/releases/tag/v0.27.4), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([teuto-portal-k8s-worker-v3.5.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/teuto-portal-k8s-worker-v3.5.0), 4 days ago) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(build): stop watching .git/index for the build-version rerun trigger](https://github.com/agent-of-empires/agent-of-empires/pull/3432) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix: run go mod tidy after renovate updates go.mod](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/157) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [feat(base-cluster): label alerts with auto-detected CAPI cluster identity](https://github.com/teutonet/teutonet-helm-charts/pull/2324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [test(t8s-cluster): hoist shared kubernetesProvider scheme to suite level](https://github.com/teutonet/teutonet-helm-charts/pull/2323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [refactor: share CA definitions between cert and bundle reconciliation](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/153) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [feat(t8s-cluster): set HelmRelease intervals dynamically based on readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2311) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [chore(agents): add info about generated content](https://github.com/teutonet/teutonet-helm-charts/pull/2300) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster): add missing dependsOn on cinder-csi CiliumNetworkPolicy HelmRelease](https://github.com/teutonet/teutonet-helm-charts/pull/2299) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
