@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.27.0), today) - Prometheus community Helm charts
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([0.10.7](https://github.com/DeusData/codebase-memory-mcp/releases/tag/0.10.7), today) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.6.0), today) - 
