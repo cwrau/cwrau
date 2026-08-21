@@ -9,9 +9,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (2 weeks ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 weeks ago)
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): read cluster-cloud annotation from node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2337) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(t8s-cluster): move cluster-cloud annotation to node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2336) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(teuto-portal-k8s-worker): allow CiliumNetworkPolicy egress to IP kube-apiserver via /32 CIDR](https://github.com/teutonet/teutonet-helm-charts/pull/2335) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(oci-registry): add new chart forked from mcronce/oci-registry](https://github.com/teutonet/teutonet-helm-charts/pull/2333) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: update all dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/159) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [chore: let renovate track go tool versions in taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/158) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [fix(build): stop watching .git/index for the build-version rerun trigger](https://github.com/agent-of-empires/agent-of-empires/pull/3432) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix: run go mod tidy after renovate updates go.mod](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/157) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
-- [feat(base-cluster): label alerts with auto-detected CAPI cluster identity](https://github.com/teutonet/teutonet-helm-charts/pull/2324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
