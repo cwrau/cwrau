@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.5](https://github.com/backnotprop/plannotator/releases/tag/v0.27.5), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.6](https://github.com/backnotprop/plannotator/releases/tag/v0.27.6), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.5.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.1), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.11.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.11.0), 1 day ago) - 
