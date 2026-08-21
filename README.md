@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(teuto-portal-k8s-worker): allow CiliumNetworkPolicy egress to IP kube-apiserver via /32 CIDR](https://github.com/teutonet/teutonet-helm-charts/pull/2335) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(oci-registry): add new chart forked from mcronce/oci-registry](https://github.com/teutonet/teutonet-helm-charts/pull/2333) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(t8s-cluster): enable StorageVersionMigrator feature gate for k8s >=1.36](https://github.com/teutonet/teutonet-helm-charts/pull/2331) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(build): stop watching .git/index for the build-version rerun trigger](https://github.com/agent-of-empires/agent-of-empires/pull/3432) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [fix: run go mod tidy after renovate updates go.mod](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/157) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [feat(base-cluster): label alerts with auto-detected CAPI cluster identity](https://github.com/teutonet/teutonet-helm-charts/pull/2324) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [test(t8s-cluster): hoist shared kubernetesProvider scheme to suite level](https://github.com/teutonet/teutonet-helm-charts/pull/2323) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 
 #### 📓 Gists I wrote
 
