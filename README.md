@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.7](https://github.com/backnotprop/plannotator/releases/tag/v0.27.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.8.2), 1 day ago) - Prometheus community Helm charts
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.0), 2 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.6](https://github.com/backnotprop/plannotator/releases/tag/v0.27.6), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.1), 3 days ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.11.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.11.0), 3 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 4 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
