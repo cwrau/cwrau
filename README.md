@@ -8,10 +8,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (2 weeks ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (3 weeks ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.8.2), today) - Prometheus community Helm charts
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.0), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.6](https://github.com/backnotprop/plannotator/releases/tag/v0.27.6), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.1), 2 days ago) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.11.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.11.0), 2 days ago) - 
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 3 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), 4 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.8.2), 1 day ago) - Prometheus community Helm charts
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.0), 2 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.6](https://github.com/backnotprop/plannotator/releases/tag/v0.27.6), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.51.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.51.1), 3 days ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.11.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.11.0), 3 days ago) - 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 4 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.11.0](https://github.com/grafana/loki/releases/tag/operator/v0.11.0), 5 days ago) - Like Prometheus, but for logs.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([masterportal-v3-v3.4.20](https://github.com/teutonet/oci-images/releases/tag/masterportal-v3-v3.4.20), 1 week ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.11](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.11), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.2), 2 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.31.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.31.2), 3 weeks ago) - Local development against a remote Kubernetes or OpenShift cluster
 
 #### 🔨 My recent Pull Requests
 
-- [fix(base-cluster): read cluster-cloud annotation from node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2337) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(t8s-cluster): move cluster-cloud annotation to node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2336) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(teuto-portal-k8s-worker): allow CiliumNetworkPolicy egress to IP kube-apiserver via /32 CIDR](https://github.com/teutonet/teutonet-helm-charts/pull/2335) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(oci-registry): add new chart forked from mcronce/oci-registry](https://github.com/teutonet/teutonet-helm-charts/pull/2333) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(t8s-cluster): enable StorageVersionMigrator feature gate for k8s >=1.36](https://github.com/teutonet/teutonet-helm-charts/pull/2331) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(t8s-cluster): don't let stuck Jobs block cilium HelmRelease readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [chore: update all dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/159) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [chore: let renovate track go tool versions in taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/158) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
-- [fix(build): stop watching .git/index for the build-version rerun trigger](https://github.com/agent-of-empires/agent-of-empires/pull/3432) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (4 days ago)
+- [fix(base-cluster): read cluster-cloud annotation from node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2337) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(t8s-cluster): move cluster-cloud annotation to node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2336) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(teuto-portal-k8s-worker): allow CiliumNetworkPolicy egress to IP kube-apiserver via /32 CIDR](https://github.com/teutonet/teutonet-helm-charts/pull/2335) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(oci-registry): add new chart forked from mcronce/oci-registry](https://github.com/teutonet/teutonet-helm-charts/pull/2333) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [feat(t8s-cluster): enable StorageVersionMigrator feature gate for k8s >=1.36](https://github.com/teutonet/teutonet-helm-charts/pull/2331) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [fix(t8s-cluster): don't let stuck Jobs block cilium HelmRelease readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
+- [chore: update all dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/159) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [chore: let renovate track go tool versions in taskfile.yaml](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/158) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [fix(build): stop watching .git/index for the build-version rerun trigger](https://github.com/agent-of-empires/agent-of-empires/pull/3432) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -83,12 +83,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 month ago)
 - [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (4 months ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (6 months ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (7 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (9 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (10 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (10 months ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (10 months ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (10 months ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (11 months ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (11 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (11 months ago)
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (11 months ago)
 
