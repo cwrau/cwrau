@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.4.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.0), 1 day ago) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.8](https://github.com/backnotprop/plannotator/releases/tag/v0.27.8), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.0), 1 day ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.0), 4 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
