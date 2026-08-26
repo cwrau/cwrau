@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: enable auto-merge for renovate PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/166) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore(base-cluster): HR reconciliation cannot be relied upon](https://github.com/teutonet/teutonet-helm-charts/pull/2339) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): HR reconciliation cannot be relied upon](https://github.com/teutonet/teutonet-helm-charts/pull/2338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): read cluster-cloud annotation from node.cluster.x-k8s.io domain](https://github.com/teutonet/teutonet-helm-charts/pull/2337) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(t8s-cluster): enable StorageVersionMigrator feature gate for k8s >=1.36](https://github.com/teutonet/teutonet-helm-charts/pull/2331) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(t8s-cluster): don't let stuck Jobs block cilium HelmRelease readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
-- [chore: update all dependencies](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/159) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
