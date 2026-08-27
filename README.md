@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.14.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-8.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-8.4.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.0), 2 days ago) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.8](https://github.com/backnotprop/plannotator/releases/tag/v0.27.8), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.0), 3 days ago) - 
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster): make KubeadmControlPlaneTemplate spec hash deterministic](https://github.com/teutonet/teutonet-helm-charts/pull/2353) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [fix(t8s-cluster): add PodDisruptionBudgets for cilium-operator, hubble-ui and cinder-csi controller plugin](https://github.com/teutonet/teutonet-helm-charts/pull/2352) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [chore: enable auto-merge for renovate PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/166) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [chore(base-cluster): HR reconciliation cannot be relied upon](https://github.com/teutonet/teutonet-helm-charts/pull/2339) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(t8s-cluster): HR reconciliation cannot be relied upon](https://github.com/teutonet/teutonet-helm-charts/pull/2338) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(teuto-portal-k8s-worker): allow CiliumNetworkPolicy egress to IP kube-apiserver via /32 CIDR](https://github.com/teutonet/teutonet-helm-charts/pull/2335) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [feat(oci-registry): add new chart forked from mcronce/oci-registry](https://github.com/teutonet/teutonet-helm-charts/pull/2333) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [feat(base-cluster): create a StorageVersionMigration per installed CRD](https://github.com/teutonet/teutonet-helm-charts/pull/2332) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(t8s-cluster): enable StorageVersionMigrator feature gate for k8s >=1.36](https://github.com/teutonet/teutonet-helm-charts/pull/2331) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(t8s-cluster): don't let stuck Jobs block cilium HelmRelease readiness](https://github.com/teutonet/teutonet-helm-charts/pull/2330) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
