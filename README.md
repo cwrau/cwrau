@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.9](https://github.com/backnotprop/plannotator/releases/tag/v0.27.9), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 1 day ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.7.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.7.1), 1 day ago) - 
