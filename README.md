@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.1), 2 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), 2 days ago) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.9](https://github.com/backnotprop/plannotator/releases/tag/v0.27.9), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.0), 6 days ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([masterportal-v3-v3.4.20](https://github.com/teutonet/oci-images/releases/tag/masterportal-v3-v3.4.20), 2 weeks ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.12.11](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.12.11), 2 weeks ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
 
