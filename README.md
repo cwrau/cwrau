@@ -47,9 +47,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.56.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.56.2), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.1), 3 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.1), 3 days ago) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.9](https://github.com/backnotprop/plannotator/releases/tag/v0.27.9), 4 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 4 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 4 days ago) - go library for processing container images and simulating a squash filesystem
