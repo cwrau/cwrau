@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.1), today) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.0.0), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.10](https://github.com/backnotprop/plannotator/releases/tag/v0.27.10), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 5 days ago) - go library for processing container images and simulating a squash filesystem
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.0), 1 week ago) - 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([masterportal-v3-v3.4.20](https://github.com/teutonet/oci-images/releases/tag/masterportal-v3-v3.4.20), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
