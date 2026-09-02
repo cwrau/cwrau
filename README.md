@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-88.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-88.6.3), today) - Prometheus community Helm charts
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.2](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.2), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.11](https://github.com/backnotprop/plannotator/releases/tag/v0.27.11), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.1), 1 day ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-5.0.0), 1 day ago) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 6 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 6 days ago) - go library for processing container images and simulating a squash filesystem
