@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (3 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 weeks ago)
-- [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (4 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
+- [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (1 month ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (1 month ago)
@@ -47,22 +47,22 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.14.1), today) - Prometheus community Helm charts
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.12](https://github.com/backnotprop/plannotator/releases/tag/v0.27.12), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([oci-registry-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/oci-registry-v1.0.0), 2 days ago) - 
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.3](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.3), 3 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.1), 4 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), 4 days ago) - 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 6 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.14.1), 1 day ago) - Prometheus community Helm charts
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.12](https://github.com/backnotprop/plannotator/releases/tag/v0.27.12), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([oci-registry-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/oci-registry-v1.0.0), 3 days ago) - 
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.3](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.3), 4 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.14.1](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.1), 5 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.410](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.410), 5 days ago) - 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 1 week ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 2 weeks ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: group sigs.k8s.io/controller-runtime with k8s.io renovate updates](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/199) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat: track coredns and nginx image versions via renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/193) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [chore: add renovate groups for aws and otel](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/188) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
+- [chore: group sigs.k8s.io/controller-runtime with k8s.io renovate updates](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/199) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [feat: track coredns and nginx image versions via renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/193) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
+- [chore: add renovate groups for aws and otel](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/188) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
 - [fix(t8s-cluster): make KubeadmControlPlaneTemplate spec hash deterministic](https://github.com/teutonet/teutonet-helm-charts/pull/2353) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(t8s-cluster): add PodDisruptionBudgets for cilium-operator, hubble-ui and cinder-csi controller plugin](https://github.com/teutonet/teutonet-helm-charts/pull/2352) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [chore: enable auto-merge for renovate PRs](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/166) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
@@ -86,7 +86,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (7 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (9 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (10 months ago)
-- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (10 months ago)
+- [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (11 months ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (11 months ago)
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (11 months ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (11 months ago)
