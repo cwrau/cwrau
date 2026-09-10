@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.18.0), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.13](https://github.com/backnotprop/plannotator/releases/tag/v0.27.13), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([oci-registry-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/oci-registry-v1.0.0), 1 week ago) - 
