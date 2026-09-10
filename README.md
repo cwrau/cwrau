@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.13](https://github.com/backnotprop/plannotator/releases/tag/v0.27.13), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.12](https://github.com/backnotprop/plannotator/releases/tag/v0.27.12), 1 week ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([oci-registry-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/oci-registry-v1.0.0), 1 week ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.15.3](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.15.3), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
