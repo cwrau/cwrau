@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (3 days ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (3 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (4 days ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.28.0), today) - Prometheus community Helm charts
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.0), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.13](https://github.com/backnotprop/plannotator/releases/tag/v0.27.13), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.1), 1 day ago) - 
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 2 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.8.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.8.13), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.28.0), 1 day ago) - Prometheus community Helm charts
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.0), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.13](https://github.com/backnotprop/plannotator/releases/tag/v0.27.13), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 3 days ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([oci-registry-v1.0.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/oci-registry-v1.0.0), 1 week ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.12](https://github.com/databus23/helm-diff/releases/tag/v3.15.12), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 2 weeks ago) - Like Prometheus, but for logs.
@@ -60,12 +60,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [feat(base-cluster): generify SLA alert labeling via generic sla label](https://github.com/teutonet/teutonet-helm-charts/pull/2382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): switch ACME http01 solver to gatewayHTTPRoute for envoy](https://github.com/teutonet/teutonet-helm-charts/pull/2381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [tmp: asset host](https://github.com/cwrau/agent-of-empires/pull/1) on [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) (3 days ago)
-- [fix(ci): dedup CVE scan failure issues instead of creating duplicates](https://github.com/teutonet/teutonet-helm-charts/pull/2379) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
-- [feat(web): reuse the searchable project picker for extra repos](https://github.com/agent-of-empires/agent-of-empires/pull/3791) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (4 days ago)
-- [chore: group sigs.k8s.io/controller-runtime with k8s.io renovate updates](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/199) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (6 days ago)
+- [feat(base-cluster): generify SLA alert labeling via generic sla label](https://github.com/teutonet/teutonet-helm-charts/pull/2382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): switch ACME http01 solver to gatewayHTTPRoute for envoy](https://github.com/teutonet/teutonet-helm-charts/pull/2381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [tmp: asset host](https://github.com/cwrau/agent-of-empires/pull/1) on [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) (4 days ago)
+- [fix(ci): dedup CVE scan failure issues instead of creating duplicates](https://github.com/teutonet/teutonet-helm-charts/pull/2379) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
+- [feat(web): reuse the searchable project picker for extra repos](https://github.com/agent-of-empires/agent-of-empires/pull/3791) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (5 days ago)
+- [chore: group sigs.k8s.io/controller-runtime with k8s.io renovate updates](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/199) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [feat: track coredns and nginx image versions via renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/193) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [chore: add renovate groups for aws and otel](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/188) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [fix(t8s-cluster): make KubeadmControlPlaneTemplate spec hash deterministic](https://github.com/teutonet/teutonet-helm-charts/pull/2353) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 weeks ago)
