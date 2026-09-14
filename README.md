@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.4.0), today) - Prometheus community Helm charts
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.14](https://github.com/backnotprop/plannotator/releases/tag/v0.27.14), 3 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.13](https://github.com/databus23/helm-diff/releases/tag/v3.15.13), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
