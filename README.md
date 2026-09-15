@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t8s-cluster): gate cni/rbac/storage/etcd on Cluster readiness via ResourceSet](https://github.com/teutonet/teutonet-helm-charts/pull/2394) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): bump tempo memory limit to 2Gi](https://github.com/teutonet/teutonet-helm-charts/pull/2393) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): bump grafana memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2392) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): valid helmRepositories keys and correct patternProperties usage](https://github.com/teutonet/teutonet-helm-charts/pull/2391) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster): generify SLA alert labeling via generic sla label](https://github.com/teutonet/teutonet-helm-charts/pull/2382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 - [fix(base-cluster): switch ACME http01 solver to gatewayHTTPRoute for envoy](https://github.com/teutonet/teutonet-helm-charts/pull/2381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [tmp: asset host](https://github.com/cwrau/agent-of-empires/pull/1) on [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) (1 week ago)
-- [fix(ci): dedup CVE scan failure issues instead of creating duplicates](https://github.com/teutonet/teutonet-helm-charts/pull/2379) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
