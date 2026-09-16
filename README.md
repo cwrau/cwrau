@@ -8,7 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
@@ -47,28 +47,28 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.15](https://github.com/backnotprop/plannotator/releases/tag/v0.27.15), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.4.0), 1 day ago) - Prometheus community Helm charts
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), 1 day ago) - 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.13](https://github.com/databus23/helm-diff/releases/tag/v3.15.13), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.11.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.11.0), 1 day ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.15](https://github.com/backnotprop/plannotator/releases/tag/v0.27.15), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.4.0), 2 days ago) - Prometheus community Helm charts
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), 2 days ago) - 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.13](https://github.com/databus23/helm-diff/releases/tag/v3.15.13), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.0), 6 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.7](https://github.com/grafana/loki/releases/tag/v3.7.7), 2 weeks ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.1](https://github.com/anchore/stereoscope/releases/tag/v0.3.1), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.10.8](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.10.8), 3 weeks ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(t8s-cluster): limit cilium operator replicas to 1 for single-node clusters](https://github.com/teutonet/teutonet-helm-charts/pull/2395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(t8s-cluster): gate cni/rbac/storage/etcd on Cluster readiness via ResourceSet](https://github.com/teutonet/teutonet-helm-charts/pull/2394) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): bump tempo memory limit to 2Gi](https://github.com/teutonet/teutonet-helm-charts/pull/2393) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): bump grafana memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2392) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): valid helmRepositories keys and correct patternProperties usage](https://github.com/teutonet/teutonet-helm-charts/pull/2391) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(common): restrict helmRepositories keys to valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/2390) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(t8s-cluster): scale cni/csi HelmRelease timeout with node pool size](https://github.com/teutonet/teutonet-helm-charts/pull/2388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(base-cluster): deploy envoy Gateway API resources via HelmRelease dependsOn](https://github.com/teutonet/teutonet-helm-charts/pull/2387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(base-cluster): generify SLA alert labeling via generic sla label](https://github.com/teutonet/teutonet-helm-charts/pull/2382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(t8s-cluster): limit cilium operator replicas to 1 for single-node clusters](https://github.com/teutonet/teutonet-helm-charts/pull/2395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(t8s-cluster): gate cni/rbac/storage/etcd on Cluster readiness via ResourceSet](https://github.com/teutonet/teutonet-helm-charts/pull/2394) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): bump tempo memory limit to 2Gi](https://github.com/teutonet/teutonet-helm-charts/pull/2393) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): bump grafana memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2392) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): valid helmRepositories keys and correct patternProperties usage](https://github.com/teutonet/teutonet-helm-charts/pull/2391) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(common): restrict helmRepositories keys to valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/2390) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(t8s-cluster): scale cni/csi HelmRelease timeout with node pool size](https://github.com/teutonet/teutonet-helm-charts/pull/2388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(base-cluster): deploy envoy Gateway API resources via HelmRelease dependsOn](https://github.com/teutonet/teutonet-helm-charts/pull/2387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(base-cluster): generify SLA alert labeling via generic sla label](https://github.com/teutonet/teutonet-helm-charts/pull/2382) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 - [fix(base-cluster): switch ACME http01 solver to gatewayHTTPRoute for envoy](https://github.com/teutonet/teutonet-helm-charts/pull/2381) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
