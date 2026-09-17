@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.1), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.30.1), today) - Prometheus community Helm charts
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), today) - go library for processing container images and simulating a squash filesystem
@@ -55,7 +56,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), 3 days ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.412](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.412), 3 days ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.13](https://github.com/databus23/helm-diff/releases/tag/v3.15.13), 6 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.0), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) ([v1.13.6](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.13.6), 1 week ago) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 
 #### 🔨 My recent Pull Requests
