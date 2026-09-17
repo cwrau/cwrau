@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
@@ -17,10 +18,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (1 month ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) - 
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) - 
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) - 
@@ -30,7 +31,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/test2](https://github.com/cwrau/test2) - 
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection
 - [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls
-- [cwrau/advent-of-code](https://github.com/cwrau/advent-of-code) - 
 
 #### 🍴 My recent forks
 
