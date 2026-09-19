@@ -13,8 +13,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
 - [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (1 month ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [fix(web): always show sidebar Auto-name now action](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(acp-client): authenticate against passphrase daemons via login fallback](https://github.com/agent-of-empires/agent-of-empires/pull/3999) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [feat(base-cluster): trim fullname prefix from kubeconfig account param](https://github.com/teutonet/teutonet-helm-charts/pull/2396) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(t8s-cluster): limit cilium operator replicas to 1 for single-node clusters](https://github.com/teutonet/teutonet-helm-charts/pull/2395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): bump grafana memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2392) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(base-cluster): valid helmRepositories keys and correct patternProperties usage](https://github.com/teutonet/teutonet-helm-charts/pull/2391) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
 - [fix(common): restrict helmRepositories keys to valid k8s names](https://github.com/teutonet/teutonet-helm-charts/pull/2390) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
-- [feat(t8s-cluster): scale cni/csi HelmRelease timeout with node pool size](https://github.com/teutonet/teutonet-helm-charts/pull/2388) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
-- [fix(base-cluster): deploy envoy Gateway API resources via HelmRelease dependsOn](https://github.com/teutonet/teutonet-helm-charts/pull/2387) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
 
 #### 📓 Gists I wrote
 
