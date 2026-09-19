@@ -61,7 +61,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 🔨 My recent Pull Requests
 
 - [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [fix(web): always show sidebar Auto-name now action](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(session): manual Auto-name now regenerates over any current title](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(acp-client): authenticate against passphrase daemons via login fallback](https://github.com/agent-of-empires/agent-of-empires/pull/3999) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [feat(base-cluster): trim fullname prefix from kubeconfig account param](https://github.com/teutonet/teutonet-helm-charts/pull/2396) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (3 days ago)
 - [fix(t8s-cluster): limit cilium operator replicas to 1 for single-node clusters](https://github.com/teutonet/teutonet-helm-charts/pull/2395) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (4 days ago)
