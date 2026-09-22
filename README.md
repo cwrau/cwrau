@@ -16,13 +16,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell (2 months ago)
+- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (2 months ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
 
 #### 🌱 My latest projects
 
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) - 
-- [cwrau/capo-shell-mcp](https://github.com/cwrau/capo-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capo-shell
+- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) - 
 - [cwrau/k8s-schulung-2](https://github.com/cwrau/k8s-schulung-2) - 
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) - 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster)!: bind rbac.accounts/groups via OIDC instead of ServiceAccount tokens](https://github.com/teutonet/teutonet-helm-charts/pull/2403) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(ci): authenticate cosign separately from buildah before signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/217) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(t8s-cluster): re-add nodes delete RBAC to ccm ClusterRole via postRenderer](https://github.com/teutonet/teutonet-helm-charts/pull/2402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(acp): don't re-render a rate-limit continuation as a new user message](https://github.com/agent-of-empires/agent-of-empires/pull/4041) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat: extensible per-project setting overrides (worktree default, smart rename)](https://github.com/agent-of-empires/agent-of-empires/pull/4040) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [feat(session): manual Auto-name now regenerates over any current title](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
