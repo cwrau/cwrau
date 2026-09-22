@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
-- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (4 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
+- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (5 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 weeks ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), today) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.17](https://github.com/backnotprop/plannotator/releases/tag/v0.27.17), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.0), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.1), 4 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 4 days ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 4 days ago) - go library for processing container images and simulating a squash filesystem
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.11.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.11.0), 6 days ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 1 day ago) - 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.17](https://github.com/backnotprop/plannotator/releases/tag/v0.27.17), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.0](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.0), 2 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.1), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 5 days ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 5 days ago) - go library for processing container images and simulating a squash filesystem
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.11.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.11.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), 1 week ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.13](https://github.com/databus23/helm-diff/releases/tag/v3.15.13), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
-- [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [feat: generate and publish SBOM covering controller-manager and bundled images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/215) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [fix(acp): revive a Monitor watch's badge after a worker restart](https://github.com/agent-of-empires/agent-of-empires/pull/4043) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(acp): don't re-render a rate-limit continuation as a new user message](https://github.com/agent-of-empires/agent-of-empires/pull/4041) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [feat: extensible per-project setting overrides (worktree default, smart rename)](https://github.com/agent-of-empires/agent-of-empires/pull/4040) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(session): manual Auto-name now regenerates over any current title](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(acp-client): authenticate against passphrase daemons via login fallback](https://github.com/agent-of-empires/agent-of-empires/pull/3999) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (5 days ago)
-- [feat(base-cluster): trim fullname prefix from kubeconfig account param](https://github.com/teutonet/teutonet-helm-charts/pull/2396) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (5 days ago)
+- [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [feat: generate and publish SBOM covering controller-manager and bundled images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/215) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [fix(acp): revive a Monitor watch's badge after a worker restart](https://github.com/agent-of-empires/agent-of-empires/pull/4043) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [fix(acp): don't re-render a rate-limit continuation as a new user message](https://github.com/agent-of-empires/agent-of-empires/pull/4041) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [feat: extensible per-project setting overrides (worktree default, smart rename)](https://github.com/agent-of-empires/agent-of-empires/pull/4040) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
+- [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
+- [feat(session): manual Auto-name now regenerates over any current title](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
+- [fix(acp-client): authenticate against passphrase daemons via login fallback](https://github.com/agent-of-empires/agent-of-empires/pull/3999) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (6 days ago)
+- [feat(base-cluster): trim fullname prefix from kubeconfig account param](https://github.com/teutonet/teutonet-helm-charts/pull/2396) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (6 days ago)
 
 #### 📓 Gists I wrote
 
@@ -83,12 +83,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 months ago)
 - [carmaa/inception](https://github.com/carmaa/inception) - Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. (5 months ago)
-- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (7 months ago)
+- [CyberShadow/btdu](https://github.com/CyberShadow/btdu) - sampling disk usage profiler for btrfs (8 months ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (10 months ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (11 months ago)
 - [FUjr/homeassistant-openwrt-ubus](https://github.com/FUjr/homeassistant-openwrt-ubus) - A custom Home Assistant integration that connects to OpenWrt routers via the ubus interface to provide device tracking and system monitoring capabilities. (11 months ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (11 months ago)
-- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (11 months ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 year ago)
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds (1 year ago)
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login) (1 year ago)
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future. (1 year ago)
 
