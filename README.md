@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.32.0), today) - Prometheus community Helm charts
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), today) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.1), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 1 day ago) - 
