@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): authenticate cosign separately from buildah before signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/217) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(t8s-cluster): re-add nodes delete RBAC to ccm ClusterRole via postRenderer](https://github.com/teutonet/teutonet-helm-charts/pull/2402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: extensible per-project setting overrides (worktree default, smart rename)](https://github.com/agent-of-empires/agent-of-empires/pull/4040) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [fix(web): show sub agents panel on mobile view](https://github.com/agent-of-empires/agent-of-empires/pull/4039) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [feat(session): manual Auto-name now regenerates over any current title](https://github.com/agent-of-empires/agent-of-empires/pull/4038) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix(acp-client): authenticate against passphrase daemons via login fallback](https://github.com/agent-of-empires/agent-of-empires/pull/3999) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (6 days ago)
 
 #### 📓 Gists I wrote
 
