@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.2), today) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.3), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.18](https://github.com/backnotprop/plannotator/releases/tag/v0.27.18), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.0), 1 day ago) - Prometheus community Helm charts
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 1 day ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(t8s-cluster): fix CronJob name length and unquoted friendlyName](https://github.com/teutonet/teutonet-helm-charts/pull/2404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(base-cluster)!: bind rbac.accounts/groups via OIDC instead of ServiceAccount tokens](https://github.com/teutonet/teutonet-helm-charts/pull/2403) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [feat: generate and publish SBOM covering controller-manager and bundled images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/215) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [fix(acp): revive a Monitor watch's badge after a worker restart](https://github.com/agent-of-empires/agent-of-empires/pull/4043) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix(acp): don't re-render a rate-limit continuation as a new user message](https://github.com/agent-of-empires/agent-of-empires/pull/4041) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
