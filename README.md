@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(managed-monitoring): add chart to deploy the metrics agent into workload clusters remotely](https://github.com/teutonet/teutonet-helm-charts/pull/2405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(t8s-cluster): fix CronJob name length and unquoted friendlyName](https://github.com/teutonet/teutonet-helm-charts/pull/2404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [feat: generate and publish SBOM covering controller-manager and bundled images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/215) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [fix(acp): revive a Monitor watch's badge after a worker restart](https://github.com/agent-of-empires/agent-of-empires/pull/4043) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
