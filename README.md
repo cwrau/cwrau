@@ -9,13 +9,13 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 day ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
 
@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.3), today) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.4](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.4), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.18](https://github.com/backnotprop/plannotator/releases/tag/v0.27.18), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.0), 1 day ago) - Prometheus community Helm charts
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 1 day ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(web): stack plugin pane columns on narrow viewports](https://github.com/agent-of-empires/agent-of-empires/pull/4083) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [feat(managed-monitoring): add chart to deploy the metrics agent into workload clusters remotely](https://github.com/teutonet/teutonet-helm-charts/pull/2405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(t8s-cluster): re-add nodes delete RBAC to ccm ClusterRole via postRenderer](https://github.com/teutonet/teutonet-helm-charts/pull/2402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(web): render attachment images through authenticated fetch](https://github.com/agent-of-empires/agent-of-empires/pull/4067) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(ci): sign pushed images with cosign keyless signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/216) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [feat: generate and publish SBOM covering controller-manager and bundled images](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/215) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 
 #### 📓 Gists I wrote
 
