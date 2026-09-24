@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): generate and attach chart SBOMs on release](https://github.com/teutonet/teutonet-helm-charts/pull/2407) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [ci(release-chart): sign published charts with cosign](https://github.com/teutonet/teutonet-helm-charts/pull/2406) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(web): show unread/waiting counts on the sidebar toggle](https://github.com/agent-of-empires/agent-of-empires/pull/4099) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(web): let plugin pane row text wrap in narrow columns](https://github.com/agent-of-empires/agent-of-empires/pull/4090) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [fix(t8s-cluster): fix CronJob name length and unquoted friendlyName](https://github.com/teutonet/teutonet-helm-charts/pull/2404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [feat(base-cluster)!: bind rbac.accounts/groups via OIDC instead of ServiceAccount tokens](https://github.com/teutonet/teutonet-helm-charts/pull/2403) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 
 #### 📓 Gists I wrote
 
