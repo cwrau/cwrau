@@ -8,12 +8,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
-- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 day ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 day ago)
-- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
+- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (2 days ago)
+- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 days ago)
+- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (1 week ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (1 month ago)
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.10](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.10), today) - Local development against a remote Kubernetes or OpenShift cluster
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.19](https://github.com/backnotprop/plannotator/releases/tag/v0.27.19), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.0), 1 day ago) - Prometheus community Helm charts
-- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 1 day ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 2 days ago) - 
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.1), 6 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 6 days ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 6 days ago) - go library for processing container images and simulating a squash filesystem
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.10](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.10), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.19](https://github.com/backnotprop/plannotator/releases/tag/v0.27.19), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 2 days ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 3 days ago) - 
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.16.1](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.16.1), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 1 week ago) - Like Prometheus, but for logs.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 1 week ago) - go library for processing container images and simulating a squash filesystem
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.11.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.11.0), 1 week ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.12.1](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.12.1), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix(web): let plugin pane row text wrap in narrow columns](https://github.com/agent-of-empires/agent-of-empires/pull/4090) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(plugin): allow relative UI-link hrefs, navigate same-origin links in-app](https://github.com/agent-of-empires/agent-of-empires/pull/4089) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [fix(web): stack plugin pane columns on narrow viewports](https://github.com/agent-of-empires/agent-of-empires/pull/4083) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(managed-monitoring): add chart to deploy the metrics agent into workload clusters remotely](https://github.com/teutonet/teutonet-helm-charts/pull/2405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(t8s-cluster): fix CronJob name length and unquoted friendlyName](https://github.com/teutonet/teutonet-helm-charts/pull/2404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [feat(base-cluster)!: bind rbac.accounts/groups via OIDC instead of ServiceAccount tokens](https://github.com/teutonet/teutonet-helm-charts/pull/2403) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(ci): authenticate cosign separately from buildah before signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/217) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [fix(t8s-cluster): re-add nodes delete RBAC to ccm ClusterRole via postRenderer](https://github.com/teutonet/teutonet-helm-charts/pull/2402) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(web): show unread/waiting counts on the sidebar toggle](https://github.com/agent-of-empires/agent-of-empires/pull/4099) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [fix(web): let plugin pane row text wrap in narrow columns](https://github.com/agent-of-empires/agent-of-empires/pull/4090) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(plugin): allow relative UI-link hrefs, navigate same-origin links in-app](https://github.com/agent-of-empires/agent-of-empires/pull/4089) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [fix(web): stack plugin pane columns on narrow viewports](https://github.com/agent-of-empires/agent-of-empires/pull/4083) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(managed-monitoring): add chart to deploy the metrics agent into workload clusters remotely](https://github.com/teutonet/teutonet-helm-charts/pull/2405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [fix(t8s-cluster): fix CronJob name length and unquoted friendlyName](https://github.com/teutonet/teutonet-helm-charts/pull/2404) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [feat(base-cluster)!: bind rbac.accounts/groups via OIDC instead of ServiceAccount tokens](https://github.com/teutonet/teutonet-helm-charts/pull/2403) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(ci): authenticate cosign separately from buildah before signing](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/217) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 
 #### 📓 Gists I wrote
 
