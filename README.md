@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.11](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.11), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.10](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.10), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.19](https://github.com/backnotprop/plannotator/releases/tag/v0.27.19), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 2 days ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 3 days ago) - 
