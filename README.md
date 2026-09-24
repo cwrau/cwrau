@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.11](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.11), today) - Local development against a remote Kubernetes or OpenShift cluster
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.0-rc.12](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.0-rc.12), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.19](https://github.com/backnotprop/plannotator/releases/tag/v0.27.19), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([capi-shell-mcp-v1.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/capi-shell-mcp-v1.0.0), 2 days ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): ignore ellipses inside quoted upstream changelogs in PR body check](https://github.com/teutonet/teutonet-helm-charts/pull/2419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster)!: address ingress.extraPorts review follow-ups](https://github.com/teutonet/teutonet-helm-charts/pull/2418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(ci): generate and attach chart SBOMs on release](https://github.com/teutonet/teutonet-helm-charts/pull/2407) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [ci(release-chart): sign published charts with cosign](https://github.com/teutonet/teutonet-helm-charts/pull/2406) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): stack plugin pane columns on narrow viewports](https://github.com/agent-of-empires/agent-of-empires/pull/4083) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(managed-monitoring): add chart to deploy the metrics agent into workload clusters remotely](https://github.com/teutonet/teutonet-helm-charts/pull/2405) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(cli): let aoe send reach ACP/structured-view sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4081) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(web): stop plugin row badge link clicks bubbling to session row](https://github.com/agent-of-empires/agent-of-empires/pull/4078) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
