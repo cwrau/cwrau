@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [POC: render-based drift detection via template digest](https://github.com/fluxcd/helm-controller/pull/1595) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (today)
 - [fix(web): submit AskUserQuestion form on Enter, not just Submit click](https://github.com/agent-of-empires/agent-of-empires/pull/4132) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(plugin): count only in-flight sessions against the per-plugin cap](https://github.com/agent-of-empires/agent-of-empires/pull/4120) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(ci): ignore ellipses inside quoted upstream changelogs in PR body check](https://github.com/teutonet/teutonet-helm-charts/pull/2419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(web): show unread/waiting counts on the sidebar toggle](https://github.com/agent-of-empires/agent-of-empires/pull/4099) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [fix(web): let plugin pane row text wrap in narrow columns](https://github.com/agent-of-empires/agent-of-empires/pull/4090) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): allow relative UI-link hrefs, navigate same-origin links in-app](https://github.com/agent-of-empires/agent-of-empires/pull/4089) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(web): stack plugin pane columns on narrow viewports](https://github.com/agent-of-empires/agent-of-empires/pull/4083) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
