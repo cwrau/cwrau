@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(session): add smart-rename override for scratch sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4138) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(etcd): pin image tag independently from client library version](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/230) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [POC: render-based drift detection via template digest](https://github.com/fluxcd/helm-controller/pull/1595) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (today)
 - [fix(web): submit AskUserQuestion form on Enter, not just Submit click](https://github.com/agent-of-empires/agent-of-empires/pull/4132) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(ci): generate and attach chart SBOMs on release](https://github.com/teutonet/teutonet-helm-charts/pull/2407) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [ci(release-chart): sign published charts with cosign](https://github.com/teutonet/teutonet-helm-charts/pull/2406) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [feat(web): show unread/waiting counts on the sidebar toggle](https://github.com/agent-of-empires/agent-of-empires/pull/4099) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(web): let plugin pane row text wrap in narrow columns](https://github.com/agent-of-empires/agent-of-empires/pull/4090) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
