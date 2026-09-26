@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.58.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.58.0), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.0), today) - Prometheus community Helm charts
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.17.2](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.17.2), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 1 day ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.1), 1 day ago) - Local development against a remote Kubernetes or OpenShift cluster
