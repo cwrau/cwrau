@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.22](https://github.com/backnotprop/plannotator/releases/tag/v0.27.22), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([v2.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/v2.0.0), 4 days ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 1 week ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 1 week ago) - go library for processing container images and simulating a squash filesystem
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ([v0.11.0](https://github.com/DeusData/codebase-memory-mcp/releases/tag/v0.11.0), 2 weeks ago) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 #### 🔨 My recent Pull Requests
 
