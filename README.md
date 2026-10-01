@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add apples](https://github.com/RUFF1312/git-Schulung/pull/1) on [RUFF1312/git-Schulung](https://github.com/RUFF1312/git-Schulung) (today)
 - [chore: disable dependabot in favor of renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/231) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (3 days ago)
 - [fix(web): make free-text question answers multiline](https://github.com/agent-of-empires/agent-of-empires/pull/4146) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (6 days ago)
 - [feat(session): add smart-rename override for scratch sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4138) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (6 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(plugin): count only in-flight sessions against the per-plugin cap](https://github.com/agent-of-empires/agent-of-empires/pull/4120) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 - [fix(ci): ignore ellipses inside quoted upstream changelogs in PR body check](https://github.com/teutonet/teutonet-helm-charts/pull/2419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 - [fix(base-cluster)!: address ingress.extraPorts review follow-ups](https://github.com/teutonet/teutonet-helm-charts/pull/2418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [feat(ci): generate and attach chart SBOMs on release](https://github.com/teutonet/teutonet-helm-charts/pull/2407) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
