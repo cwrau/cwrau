@@ -21,6 +21,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🌱 My latest projects
 
+- [cwrau/git-schulung](https://github.com/cwrau/git-schulung) - 
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) - 
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) - 
@@ -30,10 +31,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) - 
 - [cwrau/test2](https://github.com/cwrau/test2) - 
 - [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection
-- [cwrau/yaml-schema-detect.nvim](https://github.com/cwrau/yaml-schema-detect.nvim) - auto schema detection for yamlls
 
 #### 🍴 My recent forks
 
+- [cwrau/git-Schulung-fork](https://github.com/cwrau/git-Schulung-fork) - temp-repo für schulungszwecke
 - [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
 - [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
 - [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [cwrau/cert-manager](https://github.com/cwrau/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔭 Latest releases I've contributed to
 
