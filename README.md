@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/git-workflow-gitops-3-open](https://github.com/cwrau/git-workflow-gitops-3-open) - 
 - [cwrau/git-Schulung-fork](https://github.com/cwrau/git-Schulung-fork) - temp-repo für schulungszwecke
 - [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
@@ -43,10 +44,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
-- [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 
 #### 🔭 Latest releases I've contributed to
 
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), today) - go library for processing container images and simulating a squash filesystem
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.48.0), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.24](https://github.com/backnotprop/plannotator/releases/tag/v0.27.24), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 1 day ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.1), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([v2.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/v2.0.0), 6 days ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 - [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 2 weeks ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.2](https://github.com/anchore/stereoscope/releases/tag/v0.3.2), 2 weeks ago) - go library for processing container images and simulating a squash filesystem
 
 #### 🔨 My recent Pull Requests
 
