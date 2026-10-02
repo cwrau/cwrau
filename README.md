@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [feat: add apples](https://github.com/RUFF1312/git-Schulung/pull/1) on [RUFF1312/git-Schulung](https://github.com/RUFF1312/git-Schulung) (1 day ago)
 - [chore: disable dependabot in favor of renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/231) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [POC: render-based drift detection via template digest](https://github.com/fluxcd/helm-controller/pull/1595) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (1 week ago)
 - [fix(web): submit AskUserQuestion form on Enter, not just Submit click](https://github.com/agent-of-empires/agent-of-empires/pull/4132) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 - [fix(plugin): count only in-flight sessions against the per-plugin cap](https://github.com/agent-of-empires/agent-of-empires/pull/4120) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
-- [fix(ci): ignore ellipses inside quoted upstream changelogs in PR body check](https://github.com/teutonet/teutonet-helm-charts/pull/2419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
