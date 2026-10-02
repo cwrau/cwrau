@@ -15,8 +15,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (2 weeks ago)
-- [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
+- [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement lab 8.2](https://github.com/cwrau/teamsite/pull/3) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [feat: add apples](https://github.com/RUFF1312/git-Schulung/pull/1) on [RUFF1312/git-Schulung](https://github.com/RUFF1312/git-Schulung) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(etcd): pin image tag independently from client library version](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/230) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 - [POC: render-based drift detection via template digest](https://github.com/fluxcd/helm-controller/pull/1595) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (1 week ago)
 - [fix(web): submit AskUserQuestion form on Enter, not just Submit click](https://github.com/agent-of-empires/agent-of-empires/pull/4132) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
-- [fix(plugin): count only in-flight sessions against the per-plugin cap](https://github.com/agent-of-empires/agent-of-empires/pull/4120) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 
 #### 📓 Gists I wrote
 
