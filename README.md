@@ -21,6 +21,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🌱 My latest projects
 
+- [cwrau/teamsite](https://github.com/cwrau/teamsite) - 
 - [cwrau/git-schulung](https://github.com/cwrau/git-schulung) - 
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) - 
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell
@@ -30,7 +31,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) - 
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) - 
 - [cwrau/test2](https://github.com/cwrau/test2) - 
-- [cwrau/copy-github-url.nvim](https://github.com/cwrau/copy-github-url.nvim) - copies the github line url for the current selection
 
 #### 🍴 My recent forks
 
