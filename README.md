@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (today)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (3 days ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (4 days ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [cwrau/slides](https://github.com/cwrau/slides) -  (2 months ago)
-- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (today)
 - [feat: add apples](https://github.com/RUFF1312/git-Schulung/pull/1) on [RUFF1312/git-Schulung](https://github.com/RUFF1312/git-Schulung) (1 day ago)
 - [chore: disable dependabot in favor of renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/231) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (4 days ago)
 - [fix(web): make free-text question answers multiline](https://github.com/agent-of-empires/agent-of-empires/pull/4146) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): submit AskUserQuestion form on Enter, not just Submit click](https://github.com/agent-of-empires/agent-of-empires/pull/4132) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 - [fix(plugin): count only in-flight sessions against the per-plugin cap](https://github.com/agent-of-empires/agent-of-empires/pull/4120) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 - [fix(ci): ignore ellipses inside quoted upstream changelogs in PR body check](https://github.com/teutonet/teutonet-helm-charts/pull/2419) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
-- [fix(base-cluster)!: address ingress.extraPorts review follow-ups](https://github.com/teutonet/teutonet-helm-charts/pull/2418) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 week ago)
 
 #### 📓 Gists I wrote
 
