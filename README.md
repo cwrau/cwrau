@@ -22,6 +22,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 🌱 My latest projects
 
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) - 
+- [cwrau/git-Schulung-fork](https://github.com/cwrau/git-Schulung-fork) - temp-repo für schulungszwecke
 - [cwrau/git-schulung](https://github.com/cwrau/git-schulung) - 
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) - 
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell
@@ -30,12 +31,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/k8s-schulung](https://github.com/cwrau/k8s-schulung) - 
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) - 
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) - 
-- [cwrau/test2](https://github.com/cwrau/test2) - 
 
 #### 🍴 My recent forks
 
 - [cwrau/git-workflow-gitops-3-open](https://github.com/cwrau/git-workflow-gitops-3-open) - 
-- [cwrau/git-Schulung-fork](https://github.com/cwrau/git-Schulung-fork) - temp-repo für schulungszwecke
 - [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
 - [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
@@ -44,6 +43,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 - [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
+- [cwrau/plannotator](https://github.com/cwrau/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -66,10 +66,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat: implement lab 8.2](https://github.com/cwrau/teamsite/pull/3) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
 - [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
 - [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
-- [feat: add apples](https://github.com/RUFF1312/git-Schulung/pull/1) on [RUFF1312/git-Schulung](https://github.com/RUFF1312/git-Schulung) (2 days ago)
 - [chore: disable dependabot in favor of renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/231) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
 - [fix(web): make free-text question answers multiline](https://github.com/agent-of-empires/agent-of-empires/pull/4146) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
 - [feat(session): add smart-rename override for scratch sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4138) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
+- [fix(etcd): pin image tag independently from client library version](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/230) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
