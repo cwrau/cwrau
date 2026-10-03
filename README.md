@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(web): add per-block line wrap toggle for tool output](https://github.com/agent-of-empires/agent-of-empires/pull/4297) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [feat(plugin): add string_list setting and object-list field type](https://github.com/agent-of-empires/agent-of-empires/pull/4294) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(web): don't open sidebar on swipes inside horizontal scrollers](https://github.com/agent-of-empires/agent-of-empires/pull/4293) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(web): allow blob: images in the dashboard CSP](https://github.com/agent-of-empires/agent-of-empires/pull/4281) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
 - [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
 - [chore: disable dependabot in favor of renovate](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/231) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (5 days ago)
-- [fix(web): make free-text question answers multiline](https://github.com/agent-of-empires/agent-of-empires/pull/4146) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
-- [feat(session): add smart-rename override for scratch sessions](https://github.com/agent-of-empires/agent-of-empires/pull/4138) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 week ago)
-- [fix(etcd): pin image tag independently from client library version](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/230) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 week ago)
 
 #### 📓 Gists I wrote
 
