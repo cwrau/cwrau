@@ -8,9 +8,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
-- [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (1 day ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
+- [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (2 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 week ago)
@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 1 day ago) - Prometheus community Helm charts
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.25](https://github.com/backnotprop/plannotator/releases/tag/v0.27.25), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), 2 days ago) - go library for processing container images and simulating a squash filesystem
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 3 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 4 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 2 days ago) - Prometheus community Helm charts
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.27.25](https://github.com/backnotprop/plannotator/releases/tag/v0.27.25), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), 3 days ago) - go library for processing container images and simulating a squash filesystem
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 4 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 5 days ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 1 week ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(web): keep opened tool cards and scroll position when a run folds into a group](https://github.com/agent-of-empires/agent-of-empires/pull/4301) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(web): add per-block line wrap toggle for tool output](https://github.com/agent-of-empires/agent-of-empires/pull/4297) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
-- [feat(plugin): add string_list setting and object-list field type](https://github.com/agent-of-empires/agent-of-empires/pull/4294) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(web): don't open sidebar on swipes inside horizontal scrollers](https://github.com/agent-of-empires/agent-of-empires/pull/4293) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(web): allow blob: images in the dashboard CSP](https://github.com/agent-of-empires/agent-of-empires/pull/4281) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [feat: implement lab 8.2](https://github.com/cwrau/teamsite/pull/3) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
-- [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
-- [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (1 day ago)
+- [fix(web): keep opened tool cards and scroll position when a run folds into a group](https://github.com/agent-of-empires/agent-of-empires/pull/4301) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(web): add per-block line wrap toggle for tool output](https://github.com/agent-of-empires/agent-of-empires/pull/4297) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
+- [feat(plugin): add string_list setting and object-list field type](https://github.com/agent-of-empires/agent-of-empires/pull/4294) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [fix(web): don't open sidebar on swipes inside horizontal scrollers](https://github.com/agent-of-empires/agent-of-empires/pull/4293) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [fix(web): allow blob: images in the dashboard CSP](https://github.com/agent-of-empires/agent-of-empires/pull/4281) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [feat: implement lab 8.2](https://github.com/cwrau/teamsite/pull/3) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (2 days ago)
+- [chore: add workflow](https://github.com/cwrau/teamsite/pull/2) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (2 days ago)
+- [docs: add CODEOWNERS](https://github.com/cwrau/teamsite/pull/1) on [cwrau/teamsite](https://github.com/cwrau/teamsite) (2 days ago)
 
 #### 📓 Gists I wrote
 
