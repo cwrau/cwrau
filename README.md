@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.2](https://github.com/backnotprop/plannotator/releases/tag/v0.28.2), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 3 days ago) - Prometheus community Helm charts
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), 4 days ago) - go library for processing container images and simulating a squash filesystem
@@ -56,10 +57,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 1 week ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([v2.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/v2.0.0), 1 week ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 2 weeks ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: track go directive in renovate and bump to 1.26.8](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/241) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(base-cluster): move grafana dashboards to values and let renovate track revisions](https://github.com/teutonet/teutonet-helm-charts/pull/2426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(serve): notify systemd when ready via sd_notify](https://github.com/agent-of-empires/agent-of-empires/pull/4303) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(web): keep opened tool cards and scroll position when a run folds into a group](https://github.com/agent-of-empires/agent-of-empires/pull/4301) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [serakib](https://github.com/serakib)
 - [yumiaura](https://github.com/yumiaura)
 - [seckinyasar](https://github.com/seckinyasar)
 - [aramisjustin068](https://github.com/aramisjustin068)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [Nilsty](https://github.com/Nilsty)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
