@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.1](https://github.com/backnotprop/plannotator/releases/tag/v0.28.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.2](https://github.com/backnotprop/plannotator/releases/tag/v0.28.2), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 3 days ago) - Prometheus community Helm charts
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), 4 days ago) - go library for processing container images and simulating a squash filesystem
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(web): allow editing list entries and always show remove button](https://github.com/agent-of-empires/agent-of-empires/pull/4306) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(plugin): add --yes to plugin update](https://github.com/agent-of-empires/agent-of-empires/pull/4305) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(acp-client): step up an unelevated passphrase session on demand](https://github.com/agent-of-empires/agent-of-empires/pull/4304) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(web): add per-block line wrap toggle for tool output](https://github.com/agent-of-empires/agent-of-empires/pull/4297) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): add string_list setting and object-list field type](https://github.com/agent-of-empires/agent-of-empires/pull/4294) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix(web): don't open sidebar on swipes inside horizontal scrollers](https://github.com/agent-of-empires/agent-of-empires/pull/4293) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
