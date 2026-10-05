@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.0](https://github.com/backnotprop/plannotator/releases/tag/v0.28.0), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.1](https://github.com/backnotprop/plannotator/releases/tag/v0.28.1), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 3 days ago) - Prometheus community Helm charts
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.3](https://github.com/anchore/stereoscope/releases/tag/v0.3.3), 4 days ago) - go library for processing container images and simulating a squash filesystem
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
