@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add cwrau as code owner of actions-runner](https://github.com/teutonet/oci-images/pull/470) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (today)
+- [feat(actions-runner): add ci tools](https://github.com/teutonet/oci-images/pull/469) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (today)
 - [chore: track go directive in renovate and bump to 1.26.8](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/241) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(base-cluster): move grafana dashboards to values and let renovate track revisions](https://github.com/teutonet/teutonet-helm-charts/pull/2426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(plugin): add --yes to plugin update](https://github.com/agent-of-empires/agent-of-empires/pull/4305) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(acp-client): step up an unelevated passphrase session on demand](https://github.com/agent-of-empires/agent-of-empires/pull/4304) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(serve): notify systemd when ready via sd_notify](https://github.com/agent-of-empires/agent-of-empires/pull/4303) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
-- [fix(web): keep opened tool cards and scroll position when a run folds into a group](https://github.com/agent-of-empires/agent-of-empires/pull/4301) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
