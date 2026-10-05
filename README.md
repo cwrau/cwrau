@@ -9,6 +9,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 #### 👷 Check out what I'm currently working on
 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (3 days ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (3 days ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (6 days ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
@@ -17,7 +18,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 month ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (1 month ago)
-- [cwrau/slides](https://github.com/cwrau/slides) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(base-cluster): move grafana dashboards to values and let renovate track revisions](https://github.com/teutonet/teutonet-helm-charts/pull/2426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
+- [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(web): allow editing list entries and always show remove button](https://github.com/agent-of-empires/agent-of-empires/pull/4306) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(plugin): add --yes to plugin update](https://github.com/agent-of-empires/agent-of-empires/pull/4305) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): keep opened tool cards and scroll position when a run folds into a group](https://github.com/agent-of-empires/agent-of-empires/pull/4301) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): push session.status.changed to workers](https://github.com/agent-of-empires/agent-of-empires/pull/4299) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): cycle grouped badge items on click](https://github.com/agent-of-empires/agent-of-empires/pull/4298) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(web): add per-block line wrap toggle for tool output](https://github.com/agent-of-empires/agent-of-empires/pull/4297) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(plugin): add string_list setting and object-list field type](https://github.com/agent-of-empires/agent-of-empires/pull/4294) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -97,10 +97,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👯 Check out some of my recent followers
 
+- [yumiaura](https://github.com/yumiaura)
 - [seckinyasar](https://github.com/seckinyasar)
 - [aramisjustin068](https://github.com/aramisjustin068)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [Nilsty](https://github.com/Nilsty)
-- [Hussain-Hakimi](https://github.com/Hussain-Hakimi)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
