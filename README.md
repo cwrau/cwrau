@@ -47,11 +47,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.6](https://github.com/backnotprop/plannotator/releases/tag/v0.28.6), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 4 days ago) - Prometheus community Helm charts
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 6 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 1 week ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
