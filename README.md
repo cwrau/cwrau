@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/homeassistant](https://github.com/cwrau/homeassistant) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [cwrau/neat](https://github.com/cwrau/neat) - Golang package with convenience functions to create neat strings like colored YAML output
 - [cwrau/git-workflow-gitops-3-open](https://github.com/cwrau/git-workflow-gitops-3-open) - 
 - [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
@@ -43,7 +44,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/hacs-solax-x1micro](https://github.com/cwrau/hacs-solax-x1micro) - SolaX X1-Micro MQTT Integration
 - [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
 - [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [cwrau/muster](https://github.com/cwrau/muster) - MCP tool management and workflow proxy
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [Fix duplicate ONVIF camera entities after camera reconnects](https://github.com/home-assistant/core/pull/184538) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [fix: indent every line of multi-line yaml comments](https://github.com/gonvenience/neat/pull/312) on [gonvenience/neat](https://github.com/gonvenience/neat) (today)
 - [feat(t8s-cluster): allow zero nodepools](https://github.com/teutonet/teutonet-helm-charts/pull/2436) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [ci: add cwrau as code owner of actions-runner](https://github.com/teutonet/oci-images/pull/470) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
 - [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(web): allow editing list entries and always show remove button](https://github.com/agent-of-empires/agent-of-empires/pull/4306) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(plugin): add --yes to plugin update](https://github.com/agent-of-empires/agent-of-empires/pull/4305) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
