@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.4](https://github.com/backnotprop/plannotator/releases/tag/v0.28.4), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.5](https://github.com/backnotprop/plannotator/releases/tag/v0.28.5), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 1 day ago) - go library for processing container images and simulating a squash filesystem
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 4 days ago) - Prometheus community Helm charts
