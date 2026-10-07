@@ -34,6 +34,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
+- [cwrau/kyverno-website](https://github.com/cwrau/kyverno-website) - User docs and sample policies: https://kyverno.io
 - [cwrau/gateway-api](https://github.com/cwrau/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [cwrau/strimzi-kafka-operator](https://github.com/cwrau/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [cwrau/flux-operator](https://github.com/cwrau/flux-operator) - GitOps on Autopilot Mode
@@ -43,13 +44,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [cwrau/redis-operator](https://github.com/cwrau/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
 - [cwrau/k8s](https://github.com/cwrau/k8s) - NATS on Kubernetes with Helm Charts
 - [cwrau/dexidp-helm-charts](https://github.com/cwrau/dexidp-helm-charts) - Dex Helm chart repository
-- [cwrau/controlplaneio-fluxcd-charts](https://github.com/cwrau/controlplaneio-fluxcd-charts) - Flux Operator Helm Charts
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.7](https://github.com/backnotprop/plannotator/releases/tag/v0.28.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), 1 day ago) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.6](https://github.com/backnotprop/plannotator/releases/tag/v0.28.6), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 2 days ago) - go library for processing container images and simulating a squash filesystem
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), 2 days ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [docs: document aggregated view/admin roles and updaterequests view removal](https://github.com/kyverno/website/pull/2191) on [kyverno/website](https://github.com/kyverno/website) (today)
 - [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
 - [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [Extend aggregated user-facing ClusterRoles to all custom resources](https://github.com/zalando/postgres-operator/pull/3197) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (today)
 - [feat(chart): aggregate Redis CRs into view, edit and admin roles](https://github.com/OT-CONTAINER-KIT/redis-operator/pull/1928) on [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (today)
 - [feat(rbac): aggregate ORC resources into view/edit/admin ClusterRoles](https://github.com/k-orc/openstack-resource-controller/pull/970) on [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) (today)
-- [feat(nack): add aggregated view/edit ClusterRoles for JetStream CRDs](https://github.com/nats-io/k8s/pull/1196) on [nats-io/k8s](https://github.com/nats-io/k8s) (today)
 
 #### 📓 Gists I wrote
 
