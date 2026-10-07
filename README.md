@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-2.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), 1 day ago) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.6](https://github.com/backnotprop/plannotator/releases/tag/v0.28.6), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 2 days ago) - go library for processing container images and simulating a squash filesystem
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
 - [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (today)
 - [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(chart): aggregate Redis CRs into view, edit and admin roles](https://github.com/OT-CONTAINER-KIT/redis-operator/pull/1928) on [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (today)
 - [feat(rbac): aggregate ORC resources into view/edit/admin ClusterRoles](https://github.com/k-orc/openstack-resource-controller/pull/970) on [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) (today)
 - [feat(nack): add aggregated view/edit ClusterRoles for JetStream CRDs](https://github.com/nats-io/k8s/pull/1196) on [nats-io/k8s](https://github.com/nats-io/k8s) (today)
-- [feat(charts/dex): add ClusterRoles aggregated into edit and admin](https://github.com/dexidp/helm-charts/pull/171) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (today)
 
 #### 📓 Gists I wrote
 
