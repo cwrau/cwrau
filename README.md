@@ -34,16 +34,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🍴 My recent forks
 
-- [cwrau/homeassistant](https://github.com/cwrau/homeassistant) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [cwrau/neat](https://github.com/cwrau/neat) - Golang package with convenience functions to create neat strings like colored YAML output
-- [cwrau/git-workflow-gitops-3-open](https://github.com/cwrau/git-workflow-gitops-3-open) - 
-- [cwrau/agent-of-empires](https://github.com/cwrau/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [cwrau/standards](https://github.com/cwrau/standards) - SCS standards in a machine readable format
-- [cwrau/helm-docs](https://github.com/cwrau/helm-docs) - A tool for automatically generating markdown documentation for helm charts
-- [cwrau/notificator](https://github.com/cwrau/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
-- [cwrau/hacs-solax-x1micro](https://github.com/cwrau/hacs-solax-x1micro) - SolaX X1-Micro MQTT Integration
-- [cwrau/twin-helm-charts](https://github.com/cwrau/twin-helm-charts) - 
-- [cwrau/codebase-memory-mcp](https://github.com/cwrau/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [cwrau/gateway-api](https://github.com/cwrau/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [cwrau/strimzi-kafka-operator](https://github.com/cwrau/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
+- [cwrau/flux-operator](https://github.com/cwrau/flux-operator) - GitOps on Autopilot Mode
+- [cwrau/traefik-helm-chart](https://github.com/cwrau/traefik-helm-chart) - Traefik Proxy Helm Chart
+- [cwrau/postgres-operator](https://github.com/cwrau/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+- [cwrau/openstack-resource-controller](https://github.com/cwrau/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes
+- [cwrau/redis-operator](https://github.com/cwrau/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
+- [cwrau/k8s](https://github.com/cwrau/k8s) - NATS on Kubernetes with Helm Charts
+- [cwrau/dexidp-helm-charts](https://github.com/cwrau/dexidp-helm-charts) - Dex Helm chart repository
+- [cwrau/controlplaneio-fluxcd-charts](https://github.com/cwrau/controlplaneio-fluxcd-charts) - Flux Operator Helm Charts
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [fix(renovate): reference grafana-dashboard datasource with custom prefix](https://github.com/teutonet/teutonet-helm-charts/pull/2439) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [Fix duplicate ONVIF camera entities after camera reconnects](https://github.com/home-assistant/core/pull/184538) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
-- [fix: indent every line of multi-line yaml comments](https://github.com/gonvenience/neat/pull/312) on [gonvenience/neat](https://github.com/gonvenience/neat) (1 day ago)
-- [feat(t8s-cluster): allow zero nodepools](https://github.com/teutonet/teutonet-helm-charts/pull/2436) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [ci: add cwrau as code owner of actions-runner](https://github.com/teutonet/oci-images/pull/470) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (2 days ago)
-- [feat(actions-runner): add ci tools](https://github.com/teutonet/oci-images/pull/469) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (2 days ago)
-- [chore: track go directive in renovate and bump to 1.26.8](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/241) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [feat(base-cluster): move grafana dashboards to values and let renovate track revisions](https://github.com/teutonet/teutonet-helm-charts/pull/2426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
+- [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (today)
+- [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (today)
+- [fix(ci): quote shell expansions in publish steps](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/252) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
+- [feat(rbac): aggregate Traefik CRDs into builtin view, edit and admin roles](https://github.com/traefik/traefik-helm-chart/pull/2017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
+- [Extend aggregated user-facing ClusterRoles to all custom resources](https://github.com/zalando/postgres-operator/pull/3197) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (today)
+- [feat(chart): aggregate Redis CRs into view, edit and admin roles](https://github.com/OT-CONTAINER-KIT/redis-operator/pull/1928) on [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (today)
+- [feat(rbac): aggregate ORC resources into view/edit/admin ClusterRoles](https://github.com/k-orc/openstack-resource-controller/pull/970) on [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) (today)
+- [feat(nack): add aggregated view/edit ClusterRoles for JetStream CRDs](https://github.com/nats-io/k8s/pull/1196) on [nats-io/k8s](https://github.com/nats-io/k8s) (today)
+- [feat(charts/dex): add ClusterRoles aggregated into edit and admin](https://github.com/dexidp/helm-charts/pull/171) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (today)
 
 #### 📓 Gists I wrote
 
@@ -99,8 +99,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 - [salikhussain71-code](https://github.com/salikhussain71-code)
 - [helallao](https://github.com/helallao)
-- [serakib](https://github.com/serakib)
 - [yumiaura](https://github.com/yumiaura)
 - [seckinyasar](https://github.com/seckinyasar)
+- [aramisjustin068](https://github.com/aramisjustin068)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cwrau&count_private=false&theme=tokyonight&show_icons=true)
