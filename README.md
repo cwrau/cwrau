@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.8.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.0), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.7](https://github.com/backnotprop/plannotator/releases/tag/v0.28.7), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 1 week ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.1](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.1), 1 week ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) ([v2.0.0](https://github.com/cwrau/capi-shell-mcp/releases/tag/v2.0.0), 1 week ago) - MCP provider for https://aur.archlinux.org/packages/capi-shell
 
 #### 🔨 My recent Pull Requests
 
