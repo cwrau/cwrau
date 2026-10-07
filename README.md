@@ -8,11 +8,11 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (3 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (5 days ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (5 days ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 week ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (2 weeks ago)
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renovate): reference grafana-dashboard datasource with custom prefix](https://github.com/teutonet/teutonet-helm-charts/pull/2439) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [Fix duplicate ONVIF camera entities after camera reconnects](https://github.com/home-assistant/core/pull/184538) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
 - [fix: indent every line of multi-line yaml comments](https://github.com/gonvenience/neat/pull/312) on [gonvenience/neat](https://github.com/gonvenience/neat) (1 day ago)
 - [feat(t8s-cluster): allow zero nodepools](https://github.com/teutonet/teutonet-helm-charts/pull/2436) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(base-cluster): move grafana dashboards to values and let renovate track revisions](https://github.com/teutonet/teutonet-helm-charts/pull/2426) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [test: validate generated k8s configs against real binaries across supported minors](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/240) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [fix(ci): make merged SBOMs valid SPDX and image roots unique](https://github.com/teutonet/teutonet-helm-charts/pull/2425) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
-- [fix(web): allow editing list entries and always show remove button](https://github.com/agent-of-empires/agent-of-empires/pull/4306) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
