@@ -8,16 +8,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (today)
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (1 day ago)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (4 days ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (6 days ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (6 days ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (6 days ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
-- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,16 +47,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.1](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.1.1), today) - Prometheus community Helm charts
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.19.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.19.0), today) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.1), today) - Prometheus community Helm charts
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.2](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.2), today) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.8](https://github.com/backnotprop/plannotator/releases/tag/v0.28.8), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.3), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 1 day ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 3 days ago) - go library for processing container images and simulating a squash filesystem
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.6.5](https://github.com/fluxcd/helm-controller/releases/tag/v1.6.5), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 1 week ago) - 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
