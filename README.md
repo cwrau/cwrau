@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.0](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.0), today) - 
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.1](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.1.1), today) - Prometheus community Helm charts
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2), today) - Local development against a remote Kubernetes or OpenShift cluster
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.8](https://github.com/backnotprop/plannotator/releases/tag/v0.28.8), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [ci: make k8s team the code owner of teuto-course](https://github.com/teutonet/oci-images/pull/475) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (today)
 - [Unlock releases stuck in uninstalling state](https://github.com/fluxcd/helm-controller/pull/1606) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (today)
 - [feat: keep the workload kubernetes endpoints stable during apiserver rollouts](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/255) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(konnectivity): shorten the agent gap after apiserver restarts](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/254) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (1 day ago)
 - [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (1 day ago)
 - [fix(ci): quote shell expansions in publish steps](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/252) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat(rbac): aggregate Traefik CRDs into builtin view, edit and admin roles](https://github.com/traefik/traefik-helm-chart/pull/2017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 day ago)
 
 #### 📓 Gists I wrote
 
