@@ -8,14 +8,14 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (3 days ago)
-- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (5 days ago)
-- [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (5 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (1 day ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (4 days ago)
+- [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (6 days ago)
+- [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (6 days ago)
 - [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (1 week ago)
 - [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (1 week ago)
-- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (2 weeks ago)
+- [cwrau/scs-kaas-api](https://github.com/cwrau/scs-kaas-api) -  (3 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 - [SovereignCloudStack/standards](https://github.com/SovereignCloudStack/standards) - SCS standards in a machine readable format (2 months ago)
 
@@ -47,12 +47,12 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.8](https://github.com/backnotprop/plannotator/releases/tag/v0.28.8), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.3), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.0), today) - Prometheus community Helm charts
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 2 days ago) - go library for processing container images and simulating a squash filesystem
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), 2 days ago) - 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.8](https://github.com/backnotprop/plannotator/releases/tag/v0.28.8), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.3), 1 day ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 1 day ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.0), 1 day ago) - Prometheus community Helm charts
+- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 3 days ago) - go library for processing container images and simulating a squash filesystem
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([cnpg-v16.2.2](https://github.com/teutonet/oci-images/releases/tag/cnpg-v16.2.2), 3 days ago) - 
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.18.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.18.0), 1 week ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.13.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.13.0), 1 week ago) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
-- [docs: document aggregated view/admin roles and updaterequests view removal](https://github.com/kyverno/website/pull/2191) on [kyverno/website](https://github.com/kyverno/website) (today)
-- [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
-- [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (today)
-- [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (today)
-- [fix(ci): quote shell expansions in publish steps](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/252) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [feat(rbac): aggregate Traefik CRDs into builtin view, edit and admin roles](https://github.com/traefik/traefik-helm-chart/pull/2017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (today)
-- [Extend aggregated user-facing ClusterRoles to all custom resources](https://github.com/zalando/postgres-operator/pull/3197) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (today)
-- [feat(chart): aggregate Redis CRs into view, edit and admin roles](https://github.com/OT-CONTAINER-KIT/redis-operator/pull/1928) on [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (today)
-- [feat(rbac): aggregate ORC resources into view/edit/admin ClusterRoles](https://github.com/k-orc/openstack-resource-controller/pull/970) on [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) (today)
+- [docs: document aggregated view/admin roles and updaterequests view removal](https://github.com/kyverno/website/pull/2191) on [kyverno/website](https://github.com/kyverno/website) (1 day ago)
+- [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 day ago)
+- [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (1 day ago)
+- [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (1 day ago)
+- [fix(ci): quote shell expansions in publish steps](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/252) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
+- [feat(rbac): aggregate Traefik CRDs into builtin view, edit and admin roles](https://github.com/traefik/traefik-helm-chart/pull/2017) on [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) (1 day ago)
+- [Extend aggregated user-facing ClusterRoles to all custom resources](https://github.com/zalando/postgres-operator/pull/3197) on [zalando/postgres-operator](https://github.com/zalando/postgres-operator) (1 day ago)
+- [feat(chart): aggregate Redis CRs into view, edit and admin roles](https://github.com/OT-CONTAINER-KIT/redis-operator/pull/1928) on [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (1 day ago)
+- [feat(rbac): aggregate ORC resources into view/edit/admin ClusterRoles](https://github.com/k-orc/openstack-resource-controller/pull/970) on [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) (1 day ago)
 
 #### 📓 Gists I wrote
 
