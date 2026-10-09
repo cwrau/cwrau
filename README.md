@@ -8,16 +8,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (today)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (today)
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (today)
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (1 day ago)
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (1 day ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (2 days ago)
-- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (2 days ago)
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (1 day ago)
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (2 days ago)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (5 days ago)
+- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (2 days ago)
 - [cwrau/linux-config](https://github.com/cwrau/linux-config) -  (1 week ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (1 week ago)
-- [cwrau/aur-packages](https://github.com/cwrau/aur-packages) -  (2 weeks ago)
+- [cwrau/capi-shell-mcp](https://github.com/cwrau/capi-shell-mcp) - MCP provider for https://aur.archlinux.org/packages/capi-shell (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.8.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.8.0), today) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) ([v0.27.0](https://github.com/OT-CONTAINER-KIT/redis-operator/releases/tag/v0.27.0), today) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 1 day ago) - Prometheus community Helm charts
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.8](https://github.com/backnotprop/plannotator/releases/tag/v0.28.8), 2 days ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 2 days ago) - Like Prometheus, but for logs.
 - [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 4 days ago) - go library for processing container images and simulating a squash filesystem
-- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) ([v1.6.5](https://github.com/fluxcd/helm-controller/releases/tag/v1.6.5), 1 week ago) - The GitOps Toolkit Helm reconciler, for declarative Helming
 
 #### 🔨 My recent Pull Requests
 
