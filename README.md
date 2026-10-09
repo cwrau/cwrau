@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [feat(web): copy table as markdown](https://github.com/agent-of-empires/agent-of-empires/pull/4331) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(plugin): add sanitised markdown pane block](https://github.com/agent-of-empires/agent-of-empires/pull/4330) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [test(names): pin resource names and derive test names from the helpers](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/259) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [ci: make k8s team the code owner of teuto-course](https://github.com/teutonet/oci-images/pull/475) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (1 day ago)
 - [Unlock releases stuck in uninstalling state](https://github.com/fluxcd/helm-controller/pull/1606) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [docs: document aggregated view/admin roles and updaterequests view removal](https://github.com/kyverno/website/pull/2191) on [kyverno/website](https://github.com/kyverno/website) (2 days ago)
 - [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (2 days ago)
-- [Aggregate Strimzi view and admin cluster roles into the default Kubernetes roles in the Helm chart](https://github.com/strimzi/strimzi-kafka-operator/pull/13225) on [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (2 days ago)
-- [Aggregate FluxInstance and FluxReport to view](https://github.com/controlplaneio-fluxcd/flux-operator/pull/1064) on [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) (2 days ago)
 
 #### 📓 Gists I wrote
 
