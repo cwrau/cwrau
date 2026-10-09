@@ -60,16 +60,16 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(web): bound ACP reconnect dial phases so a hung network can't stall](https://github.com/agent-of-empires/agent-of-empires/pull/4340) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(plugin): add sessions.message.send RPC to message any session](https://github.com/agent-of-empires/agent-of-empires/pull/4339) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(session): add start-in-container per-project override](https://github.com/agent-of-empires/agent-of-empires/pull/4338) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(plugin): add trashed, workspace_repos and worktree to sessions.list](https://github.com/agent-of-empires/agent-of-empires/pull/4337) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [fix(web): keep transcript pinned while typing in the composer](https://github.com/agent-of-empires/agent-of-empires/pull/4335) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [feat(web): copy table as markdown](https://github.com/agent-of-empires/agent-of-empires/pull/4331) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [feat(plugin): add sanitised markdown pane block](https://github.com/agent-of-empires/agent-of-empires/pull/4330) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [test(names): pin resource names and derive test names from the helpers](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/259) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [ci: make k8s team the code owner of teuto-course](https://github.com/teutonet/oci-images/pull/475) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (1 day ago)
 - [Unlock releases stuck in uninstalling state](https://github.com/fluxcd/helm-controller/pull/1606) on [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) (1 day ago)
-- [feat: keep the workload kubernetes endpoints stable during apiserver rollouts](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/255) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [feat(konnectivity): shorten the agent gap after apiserver restarts](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/254) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [docs: document aggregated view/admin roles and updaterequests view removal](https://github.com/kyverno/website/pull/2191) on [kyverno/website](https://github.com/kyverno/website) (2 days ago)
-- [fix(sbom): make the merged SBOM valid and identify the nginx root](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/253) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
-- [config: add RBAC ClusterRoles aggregated into view, edit and admin](https://github.com/kubernetes-sigs/gateway-api/pull/5353) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (2 days ago)
 
 #### 📓 Gists I wrote
 
