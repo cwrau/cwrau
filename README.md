@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(acp): clear compaction state on failure and by tool-call id](https://github.com/agent-of-empires/agent-of-empires/pull/4350) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(acp): queue prompts while the adapter's compact tool call runs](https://github.com/agent-of-empires/agent-of-empires/pull/4349) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(web): bound ACP reconnect dial phases so a hung network can't stall](https://github.com/agent-of-empires/agent-of-empires/pull/4340) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(plugin): add sessions.message.send RPC to message any session](https://github.com/agent-of-empires/agent-of-empires/pull/4339) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(web): copy table as markdown](https://github.com/agent-of-empires/agent-of-empires/pull/4331) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(plugin): add sanitised markdown pane block](https://github.com/agent-of-empires/agent-of-empires/pull/4330) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [test(names): pin resource names and derive test names from the helpers](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/259) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [ci: make k8s team the code owner of teuto-course](https://github.com/teutonet/oci-images/pull/475) on [teutonet/oci-images](https://github.com/teutonet/oci-images) (2 days ago)
 
 #### 📓 Gists I wrote
 
