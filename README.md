@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(session): wait for the pi transcript path only when it can still arrive](https://github.com/agent-of-empires/agent-of-empires/pull/4356) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(plugin): mark sessions.message.send messages as plugin-originated](https://github.com/agent-of-empires/agent-of-empires/pull/4354) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(acp): clear compaction state on failure and by tool-call id](https://github.com/agent-of-empires/agent-of-empires/pull/4350) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(acp): queue prompts while the adapter's compact tool call runs](https://github.com/agent-of-empires/agent-of-empires/pull/4349) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(session): add start-in-container per-project override](https://github.com/agent-of-empires/agent-of-empires/pull/4338) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(plugin): add trashed, workspace_repos and worktree to sessions.list](https://github.com/agent-of-empires/agent-of-empires/pull/4337) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [fix(web): keep transcript pinned while typing in the composer](https://github.com/agent-of-empires/agent-of-empires/pull/4335) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(web): copy table as markdown](https://github.com/agent-of-empires/agent-of-empires/pull/4331) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(plugin): add sanitised markdown pane block](https://github.com/agent-of-empires/agent-of-empires/pull/4330) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
