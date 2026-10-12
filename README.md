@@ -60,6 +60,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add renovate config in .github](https://github.com/cwrau/schulung-live-coding/pull/3) on [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) (today)
+- [chore: move renovate config to .github](https://github.com/cwrau/declarative-state/pull/3) on [cwrau/declarative-state](https://github.com/cwrau/declarative-state) (today)
 - [fix(session): wait for the pi transcript path only when it can still arrive](https://github.com/agent-of-empires/agent-of-empires/pull/4356) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
 - [fix(plugin): mark sessions.message.send messages as plugin-originated](https://github.com/agent-of-empires/agent-of-empires/pull/4354) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (1 day ago)
@@ -68,8 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): bound ACP reconnect dial phases so a hung network can't stall](https://github.com/agent-of-empires/agent-of-empires/pull/4340) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [feat(plugin): add sessions.message.send RPC to message any session](https://github.com/agent-of-empires/agent-of-empires/pull/4339) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 - [feat(session): add start-in-container per-project override](https://github.com/agent-of-empires/agent-of-empires/pull/4338) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [feat(plugin): add trashed, workspace_repos and worktree to sessions.list](https://github.com/agent-of-empires/agent-of-empires/pull/4337) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix(web): keep transcript pinned while typing in the composer](https://github.com/agent-of-empires/agent-of-empires/pull/4335) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
