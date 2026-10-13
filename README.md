@@ -47,10 +47,10 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.19](https://github.com/backnotprop/plannotator/releases/tag/v0.28.19), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), today) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.14.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.14.0), today) - 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.18](https://github.com/backnotprop/plannotator/releases/tag/v0.28.18), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.8.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.8.0), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) ([v0.27.0](https://github.com/OT-CONTAINER-KIT/redis-operator/releases/tag/v0.27.0), 4 days ago) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.19.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.19.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
