@@ -47,6 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.14.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.14.0), today) - 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.18](https://github.com/backnotprop/plannotator/releases/tag/v0.28.18), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 4 days ago) - 
@@ -56,7 +57,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.2](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.2), 5 days ago) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2), 5 days ago) - Local development against a remote Kubernetes or OpenShift cluster
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 6 days ago) - Like Prometheus, but for logs.
-- [anchore/stereoscope](https://github.com/anchore/stereoscope) ([v0.3.4](https://github.com/anchore/stereoscope/releases/tag/v0.3.4), 1 week ago) - go library for processing container images and simulating a squash filesystem
 
 #### 🔨 My recent Pull Requests
 
