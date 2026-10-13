@@ -47,8 +47,8 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.18](https://github.com/backnotprop/plannotator/releases/tag/v0.28.18), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.1), today) - Prometheus community Helm charts
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.17](https://github.com/backnotprop/plannotator/releases/tag/v0.28.17), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 4 days ago) - 
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.8.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.8.0), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) ([v0.27.0](https://github.com/OT-CONTAINER-KIT/redis-operator/releases/tag/v0.27.0), 4 days ago) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
