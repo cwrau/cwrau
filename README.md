@@ -8,6 +8,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
 - [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 day ago)
 - [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 day ago)
@@ -15,7 +16,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (4 days ago)
 - [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (5 days ago)
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (5 days ago)
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (6 days ago)
 - [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (6 days ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (1 week ago)
 
@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renovate): match v-prefixed chart versions in values.yaml](https://github.com/teutonet/teutonet-helm-charts/pull/2463) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(charts): use v-prefixed kubectl image tag so renovate can resolve digests](https://github.com/teutonet/teutonet-helm-charts/pull/2462) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(t8s-cluster): align CCM/CSI version set](https://github.com/teutonet/teutonet-helm-charts/pull/2461) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): upload etcd backup with aws cli to a single object](https://github.com/teutonet/teutonet-helm-charts/pull/2460) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [chore: move renovate config to .github](https://github.com/cwrau/declarative-state/pull/3) on [cwrau/declarative-state](https://github.com/cwrau/declarative-state) (1 day ago)
 - [fix(session): wait for the pi transcript path only when it can still arrive](https://github.com/agent-of-empires/agent-of-empires/pull/4356) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [fix(plugin): mark sessions.message.send messages as plugin-originated](https://github.com/agent-of-empires/agent-of-empires/pull/4354) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 
 #### 📓 Gists I wrote
 
