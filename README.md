@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(t8s-cluster): align CCM/CSI version set](https://github.com/teutonet/teutonet-helm-charts/pull/2461) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [feat(t8s-cluster): upload etcd backup with aws cli to a single object](https://github.com/teutonet/teutonet-helm-charts/pull/2460) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(base-cluster): raise alloy memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2457) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 - [fix(deps): bump golang.org/x/net to v0.61.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/263) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [fix(plugin): mark sessions.message.send messages as plugin-originated](https://github.com/agent-of-empires/agent-of-empires/pull/4354) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
 - [fix(acp): clear compaction state on failure and by tool-call id](https://github.com/agent-of-empires/agent-of-empires/pull/4350) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
-- [fix(acp): queue prompts while the adapter's compact tool call runs](https://github.com/agent-of-empires/agent-of-empires/pull/4349) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
