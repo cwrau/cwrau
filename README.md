@@ -47,7 +47,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.60.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.60.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.4.0), today) - Prometheus community Helm charts
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.19](https://github.com/backnotprop/plannotator/releases/tag/v0.28.19), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), 1 day ago) - 
 - [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.14.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.14.0), 1 day ago) - 
