@@ -60,6 +60,9 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cli): stop the structured runner and its scope when a session is removed](https://github.com/agent-of-empires/agent-of-empires/pull/4454) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [fix(web): constrain uploaded image size in user messages](https://github.com/agent-of-empires/agent-of-empires/pull/4453) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
+- [fix(web): persist staged attachments in IndexedDB so photos exceed the localStorage quota](https://github.com/agent-of-empires/agent-of-empires/pull/4452) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(apiserver): delay listener shutdown so endpoints can drain](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/266) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [chore(renovate): update indirect golang.org/x modules](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/265) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [feat(cli): add --generated-name to name a worktree session after a generated civilization instead of the branch](https://github.com/agent-of-empires/agent-of-empires/pull/4436) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
@@ -67,9 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(web): overlay plugin pane refreshing indicator so content does not shift](https://github.com/agent-of-empires/agent-of-empires/pull/4434) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (today)
 - [fix(base-cluster): install envoy gateway crds via flux kustomization](https://github.com/teutonet/teutonet-helm-charts/pull/2481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: keep private keys stable across cert-manager renewals](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/264) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
-- [ci(workflows): run fork PR checks on pull_request and scan licenses in merge queue](https://github.com/teutonet/teutonet-helm-charts/pull/2475) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(renovate): match v-prefixed chart versions in values.yaml](https://github.com/teutonet/teutonet-helm-charts/pull/2463) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(charts): use v-prefixed kubectl image tag so renovate can resolve digests](https://github.com/teutonet/teutonet-helm-charts/pull/2462) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
 
 #### 📓 Gists I wrote
 
