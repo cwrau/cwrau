@@ -8,15 +8,15 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 👷 Check out what I'm currently working on
 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (today)
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (1 day ago)
-- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (1 day ago)
-- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (1 day ago)
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (4 days ago)
-- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (4 days ago)
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (5 days ago)
-- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (5 days ago)
-- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (6 days ago)
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) -  (1 day ago)
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. (2 days ago)
+- [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) -  (2 days ago)
+- [cwrau/declarative-state](https://github.com/cwrau/declarative-state) -  (2 days ago)
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster. (5 days ago)
+- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes. (5 days ago)
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) -  (6 days ago)
+- [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming (6 days ago)
+- [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) - Declarative management of OpenStack resources from Kubernetes (1 week ago)
 - [cwrau/teamsite](https://github.com/cwrau/teamsite) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -47,29 +47,29 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔭 Latest releases I've contributed to
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.19](https://github.com/backnotprop/plannotator/releases/tag/v0.28.19), today) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), today) - 
-- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.14.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.14.0), today) - 
-- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.8.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.8.0), 4 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
-- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) ([v0.27.0](https://github.com/OT-CONTAINER-KIT/redis-operator/releases/tag/v0.27.0), 4 days ago) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
-- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.19.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.19.0), 5 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
-- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.2](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.2), 5 days ago) - 
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2), 5 days ago) - Local development against a remote Kubernetes or OpenShift cluster
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 6 days ago) - Like Prometheus, but for logs.
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ([v0.28.19](https://github.com/backnotprop/plannotator/releases/tag/v0.28.19), 1 day ago) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), 1 day ago) - 
+- [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) ([t8s-cluster-v9.14.0](https://github.com/teutonet/teutonet-helm-charts/releases/tag/t8s-cluster-v9.14.0), 1 day ago) - 
+- [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) ([v1.8.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/releases/tag/v1.8.0), 5 days ago) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
+- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) ([v0.27.0](https://github.com/OT-CONTAINER-KIT/redis-operator/releases/tag/v0.27.0), 5 days ago) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
+- [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) ([v1.19.0](https://github.com/agent-of-empires/agent-of-empires/releases/tag/v1.19.0), 6 days ago) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- [teutonet/oci-images](https://github.com/teutonet/oci-images) ([actions-runner-v1.2.2](https://github.com/teutonet/oci-images/releases/tag/actions-runner-v1.2.2), 6 days ago) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ([v2.32.2](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.2), 6 days ago) - Local development against a remote Kubernetes or OpenShift cluster
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 1 week ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(renovate): match v-prefixed chart versions in values.yaml](https://github.com/teutonet/teutonet-helm-charts/pull/2463) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(charts): use v-prefixed kubectl image tag so renovate can resolve digests](https://github.com/teutonet/teutonet-helm-charts/pull/2462) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(t8s-cluster): align CCM/CSI version set](https://github.com/teutonet/teutonet-helm-charts/pull/2461) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [feat(t8s-cluster): upload etcd backup with aws cli to a single object](https://github.com/teutonet/teutonet-helm-charts/pull/2460) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
-- [fix(base-cluster): raise alloy memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2457) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
-- [fix(deps): bump golang.org/x/net to v0.61.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/263) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (1 day ago)
-- [chore: add renovate config in .github](https://github.com/cwrau/schulung-live-coding/pull/3) on [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) (1 day ago)
-- [chore: move renovate config to .github](https://github.com/cwrau/declarative-state/pull/3) on [cwrau/declarative-state](https://github.com/cwrau/declarative-state) (1 day ago)
-- [fix(session): wait for the pi transcript path only when it can still arrive](https://github.com/agent-of-empires/agent-of-empires/pull/4356) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
-- [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (2 days ago)
+- [fix(renovate): match v-prefixed chart versions in values.yaml](https://github.com/teutonet/teutonet-helm-charts/pull/2463) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(charts): use v-prefixed kubectl image tag so renovate can resolve digests](https://github.com/teutonet/teutonet-helm-charts/pull/2462) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(t8s-cluster): align CCM/CSI version set](https://github.com/teutonet/teutonet-helm-charts/pull/2461) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [feat(t8s-cluster): upload etcd backup with aws cli to a single object](https://github.com/teutonet/teutonet-helm-charts/pull/2460) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
+- [fix(base-cluster): raise alloy memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2457) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
+- [fix(deps): bump golang.org/x/net to v0.61.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/263) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
+- [chore: add renovate config in .github](https://github.com/cwrau/schulung-live-coding/pull/3) on [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) (2 days ago)
+- [chore: move renovate config to .github](https://github.com/cwrau/declarative-state/pull/3) on [cwrau/declarative-state](https://github.com/cwrau/declarative-state) (2 days ago)
+- [fix(session): wait for the pi transcript path only when it can still arrive](https://github.com/agent-of-empires/agent-of-empires/pull/4356) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
+- [feat(process): run sessions in per-session systemd scopes](https://github.com/agent-of-empires/agent-of-empires/pull/4355) on [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) (3 days ago)
 
 #### 📓 Gists I wrote
 
