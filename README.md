@@ -60,6 +60,7 @@ In my free time, and often during work, I'm going to support and contribute to o
 
 #### 🔨 My recent Pull Requests
 
+- [fix(base-cluster): install envoy gateway crds via flux kustomization](https://github.com/teutonet/teutonet-helm-charts/pull/2481) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix: keep private keys stable across cert-manager renewals](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/264) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (today)
 - [ci(workflows): run fork PR checks on pull_request and scan licenses in merge queue](https://github.com/teutonet/teutonet-helm-charts/pull/2475) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (today)
 - [fix(renovate): match v-prefixed chart versions in values.yaml](https://github.com/teutonet/teutonet-helm-charts/pull/2463) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (1 day ago)
@@ -69,7 +70,6 @@ In my free time, and often during work, I'm going to support and contribute to o
 - [fix(base-cluster): raise alloy memory limit to 512Mi](https://github.com/teutonet/teutonet-helm-charts/pull/2457) on [teutonet/teutonet-helm-charts](https://github.com/teutonet/teutonet-helm-charts) (2 days ago)
 - [fix(deps): bump golang.org/x/net to v0.61.0](https://github.com/teutonet/cluster-api-provider-hosted-control-plane/pull/263) on [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) (2 days ago)
 - [chore: add renovate config in .github](https://github.com/cwrau/schulung-live-coding/pull/3) on [cwrau/schulung-live-coding](https://github.com/cwrau/schulung-live-coding) (2 days ago)
-- [chore: move renovate config to .github](https://github.com/cwrau/declarative-state/pull/3) on [cwrau/declarative-state](https://github.com/cwrau/declarative-state) (2 days ago)
 
 #### 📓 Gists I wrote
 
